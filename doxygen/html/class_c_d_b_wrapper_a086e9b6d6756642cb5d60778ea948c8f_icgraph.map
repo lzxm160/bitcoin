@@ -1,0 +1,6 @@
+<map id="CDBWrapper::NewIterator" name="CDBWrapper::NewIterator">
+<area shape="rect" id="node2" href="$class_c_d_b_wrapper.html#aec1b8db7dc13b64ba599ddb8141118ca" title="CDBWrapper::IsEmpty" alt="" coords="264,31,419,57"/>
+<area shape="rect" id="node5" href="$class_c_block_tree_d_b.html#a8f21cec56f3e4c8025726c39522a1ec5" title="CBlockTreeDB::LoadBlockIndexGuts" alt="" coords="224,81,459,108"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a196335b21f6416e63acc5be8c747b7db" title="CDBWrapper::CDBWrapper" alt="" coords="511,5,693,32"/>
+<area shape="rect" id="node4" href="$dbwrapper__tests_8cpp.html#aad31081df78a3dab9476d155613599be" title="BOOST_AUTO_TEST_CASE" alt="" coords="507,56,697,83"/>
+</map>

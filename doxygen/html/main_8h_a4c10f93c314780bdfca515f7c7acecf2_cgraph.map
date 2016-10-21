@@ -1,0 +1,5 @@
+<map id="FindFilesToPrune" name="FindFilesToPrune">
+<area shape="rect" id="node2" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="209,5,298,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a5d513fc954905589bc2a99da7d51e923" title="CalculateCurrentUsage" alt="" coords="176,56,331,83"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#abea7dd6e39fc3fe079801b73182264b8" title="PruneOneBlockFile" alt="" coords="186,107,321,133"/>
+</map>

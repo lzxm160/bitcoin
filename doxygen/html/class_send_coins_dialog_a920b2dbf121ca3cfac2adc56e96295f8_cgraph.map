@@ -1,0 +1,12 @@
+<map id="SendCoinsDialog::setAddress" name="SendCoinsDialog::setAddress">
+<area shape="rect" id="node2" href="$class_send_coins_entry.html#a1dcce9480364868dfd0bb8782e039e57" title="SendCoinsEntry::isClear" alt="" coords="261,31,425,57"/>
+<area shape="rect" id="node3" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="253,81,434,108"/>
+<area shape="rect" id="node11" href="$class_send_coins_entry.html#a19aa4ce19ff25687203ac0790c241fee" title="SendCoinsEntry::setAddress" alt="" coords="248,132,439,159"/>
+<area shape="rect" id="node4" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="496,5,673,32"/>
+<area shape="rect" id="node6" href="$class_send_coins_entry.html#abff66fcd456c82144e7a2c410f5082ac" title="SendCoinsEntry::clear" alt="" coords="755,56,907,83"/>
+<area shape="rect" id="node7" href="$class_send_coins_entry.html#a0dcb8720f234165b37f8b45b035320cc" title="SendCoinsEntry::setFocus" alt="" coords="495,107,674,133"/>
+<area shape="rect" id="node8" href="$class_send_coins_dialog.html#a3b834c739f7d02d8086a2bf58525c5f0" title="SendCoinsDialog::updateTabs\lAndLabels" alt="" coords="487,158,683,199"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="731,5,931,32"/>
+<area shape="rect" id="node9" href="$class_send_coins_dialog.html#a689658987f2af0896f25bf37bb945d91" title="SendCoinsDialog::setupTab\lChain" alt="" coords="739,158,922,199"/>
+<area shape="rect" id="node10" href="$class_send_coins_entry.html#aa431a0bf53174b3a012fe224e472bc13" title="SendCoinsEntry::setupTab\lChain" alt="" coords="979,158,1156,199"/>
+</map>

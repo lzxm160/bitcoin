@@ -1,0 +1,11 @@
+<map id="CWallet::GetBalance" name="CWallet::GetBalance">
+<area shape="rect" id="node2" href="$class_wallet_model.html#ab448317375fa1e3a60559513b3af5f42" title="WalletModel::getBalance" alt="" coords="197,56,364,83"/>
+<area shape="rect" id="node8" href="$misc_8cpp.html#ade6e4d8f2279de00350dea14e978235e" title="getinfo" alt="" coords="251,107,311,133"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a8eed767200a352857cb9f5121d7e8c83" title="getbalance" alt="" coords="238,157,323,184"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a28a02b96aa185b33ba6cfbd96b99cebc" title="getwalletinfo" alt="" coords="234,208,327,235"/>
+<area shape="rect" id="node3" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="418,5,618,32"/>
+<area shape="rect" id="node6" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="427,56,609,83"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="412,107,624,133"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="672,31,857,57"/>
+<area shape="rect" id="node5" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="905,31,1068,57"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CCoins::swap" name="CCoins::swap">
+<area shape="rect" id="node2" href="$class_c_coins_view_cache.html#a561bb7c6c97701b12c48fbbb563d0a91" title="CCoinsViewCache::BatchWrite" alt="" coords="156,5,359,32"/>
+<area shape="rect" id="node3" href="$class_c_coins.html#a4d4197688436b752234bea95f0230b82" title="CCoins::Clear" alt="" coords="206,56,309,83"/>
+<area shape="rect" id="node4" href="$main_8h.html#a8611a8552630b4821d47a4a154890a30" title="DisconnectBlock" alt="" coords="442,31,562,57"/>
+<area shape="rect" id="node7" href="$coins__tests_8cpp.html#aa662f4d14ca07b95ddf6d7e2d224e4e4" title="BOOST_AUTO_TEST_CASE" alt="" coords="407,81,597,108"/>
+<area shape="rect" id="node5" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="645,31,787,57"/>
+<area shape="rect" id="node6" href="$blockchain_8cpp.html#a30b96575c158ca0465dbdb25705c4ca9" title="verifychain" alt="" coords="835,31,917,57"/>
+</map>

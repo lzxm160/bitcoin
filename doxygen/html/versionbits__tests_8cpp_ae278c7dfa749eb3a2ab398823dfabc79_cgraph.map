@@ -1,0 +1,10 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="312,5,379,32"/>
+<area shape="rect" id="node3" href="$class_c_chain_params.html#a34b124f87e3b7864fec208ba8879e9e9" title="CChainParams::GetConsensus" alt="" coords="244,56,447,83"/>
+<area shape="rect" id="node4" href="$class_version_bits_tester.html#af655cd9de35267189d75b51d4e9d01ea" title="VersionBitsTester::Mine" alt="" coords="265,107,426,133"/>
+<area shape="rect" id="node6" href="$class_version_bits_tester.html#a7def1eff22982e1e89d2baccbbc1a923" title="VersionBitsTester::Tip" alt="" coords="270,157,421,184"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0657e7220e2c33df7a210032ca61b7fe" title="ComputeBlockVersion" alt="" coords="270,208,421,235"/>
+<area shape="rect" id="node5" href="$class_c_block_index.html#a21209a71e50daf10e283bd4049e46f64" title="Build the skiplist pointer for this entry. " alt="" coords="495,107,653,133"/>
+<area shape="rect" id="node8" href="$versionbits_8cpp.html#a90d3b0a121694c9559dddcdd848757be" title="VersionBitsState" alt="" coords="514,183,634,209"/>
+<area shape="rect" id="node9" href="$versionbits_8cpp.html#a279d99fe39f8851b35236ef9850007f3" title="VersionBitsMask" alt="" coords="513,233,635,260"/>
+</map>

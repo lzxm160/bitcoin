@@ -1,0 +1,9 @@
+<map id="test_schnorr_threshold" name="test_schnorr_threshold">
+<area shape="rect" id="node2" href="$secp256k1_8h.html#a366f922fc0c787351e82ff8e3a95f652" title="secp256k1_ec_seckey\l_verify" alt="" coords="235,5,389,47"/>
+<area shape="rect" id="node3" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="235,71,389,112"/>
+<area shape="rect" id="node4" href="$secp256k1__schnorr_8h.html#a62dd4ce1d4843fe3a4d73ee44d142cb3" title="secp256k1_schnorr_generate\l_nonce_pair" alt="" coords="216,136,408,177"/>
+<area shape="rect" id="node5" href="$secp256k1_8h.html#a4d9b18720afc67f3685a9f171bac6737" title="secp256k1_ec_pubkey\l_combine" alt="" coords="235,201,389,243"/>
+<area shape="rect" id="node6" href="$secp256k1__schnorr_8h.html#a9887da00f1d053c0c86b865bad5b8d82" title="secp256k1_schnorr_partial_sign" alt="" coords="208,267,416,294"/>
+<area shape="rect" id="node7" href="$secp256k1__schnorr_8h.html#a3e2e970becbc63f9d1cd0ef054488b58" title="secp256k1_schnorr_partial\l_combine" alt="" coords="223,319,401,360"/>
+<area shape="rect" id="node8" href="$secp256k1__schnorr_8h.html#ab9bcde80df113d29823401a460ea9bcc" title="secp256k1_schnorr_verify" alt="" coords="227,385,397,411"/>
+</map>

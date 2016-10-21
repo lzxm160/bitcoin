@@ -1,0 +1,4 @@
+<map id="CCoins::FromTx" name="CCoins::FromTx">
+<area shape="rect" id="node2" href="$class_c_coins.html#a303f3b245c339c11a1ea4318b01ec290" title="construct a CCoins from a CTransaction, at a given height " alt="" coords="207,5,322,32"/>
+<area shape="rect" id="node3" href="$coins__tests_8cpp.html#af3770f27be29a13e0309d2a31fe30eff" title="BOOST_AUTO_TEST_CASE" alt="" coords="169,56,360,83"/>
+</map>

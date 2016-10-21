@@ -1,0 +1,31 @@
+<map id="CService::GetKey" name="CService::GetKey">
+<area shape="rect" id="node2" href="$class_c_addr_info.html#aa7fce3d285312f5673bdb5274724d6b8" title="Calculate in which &quot;tried&quot; bucket this entry belongs. " alt="" coords="188,208,364,235"/>
+<area shape="rect" id="node9" href="$addrman__tests_8cpp.html#a030c7f7061c7460300e4c19044a608b5" title="BOOST_AUTO_TEST_CASE" alt="" coords="421,259,612,285"/>
+<area shape="rect" id="node10" href="$class_c_addr_info.html#aff26ef9829651c2e6fa40aef88ab704d" title="Calculate in which position of a bucket to store this entry. " alt="" coords="179,157,373,184"/>
+<area shape="rect" id="node16" href="$main_8h.html#ab1f510e2b3980e61191ea680ace85665" title="SendMessages" alt="" coords="669,347,781,373"/>
+<area shape="rect" id="node28" href="$class_c_node.html#a923c9640a28f97cf9c23a21ae8e13c97" title="CNode::AddAddressKnown" alt="" coords="187,411,365,437"/>
+<area shape="rect" id="node29" href="$class_c_node.html#a1f39037c55bed93b832bcbef00597ca5" title="CNode::PushAddress" alt="" coords="203,309,349,336"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="441,157,592,184"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a68eaf1797ecb8bff380aa7f9fc452e14" title="CAddrMan::Unserialize" alt="" coords="439,208,594,235"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="660,157,789,184"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a993e80e74701d7bc6bb49880c387b847" title="Mark an entry as accessible. " alt="" coords="878,157,1001,184"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="1089,132,1292,159"/>
+<area shape="rect" id="node7" href="$addrman__tests_8cpp.html#a68763c565f212d2fecd6c99f11b4d2d9" title="BOOST_AUTO_TEST_CASE" alt="" coords="1095,183,1286,209"/>
+<area shape="rect" id="node11" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="456,56,577,83"/>
+<area shape="rect" id="node12" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="667,56,782,83"/>
+<area shape="rect" id="node13" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="844,5,1035,32"/>
+<area shape="rect" id="node14" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="837,56,1041,83"/>
+<area shape="rect" id="node15" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="844,107,1035,133"/>
+<area shape="rect" id="node17" href="$main_8h.html#ab02615ff65f91d69f8d786ec900baa8a" title="RegisterNodeSignals" alt="" coords="868,296,1011,323"/>
+<area shape="rect" id="node23" href="$main_8h.html#a3ef0cc6e9d9d6435ee2a5569244d6ebd" title="UnregisterNodeSignals" alt="" coords="862,347,1017,373"/>
+<area shape="rect" id="node27" href="$_do_s__tests_8cpp.html#a51108789f5c0593c183bf1961e6efb8d" title="BOOST_AUTO_TEST_CASE" alt="" coords="844,397,1035,424"/>
+<area shape="rect" id="node18" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="1156,245,1225,272"/>
+<area shape="rect" id="node22" href="$struct_testing_setup.html#a81d3cce64b1f05dc2e539b10eae2336f" title="TestingSetup::TestingSetup" alt="" coords="1099,296,1282,323"/>
+<area shape="rect" id="node19" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="1385,296,1447,323"/>
+<area shape="rect" id="node21" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="1344,245,1488,272"/>
+<area shape="rect" id="node20" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1540,296,1591,323"/>
+<area shape="rect" id="node24" href="$init_8h.html#ac5f038c2b480cf9ef5e19e3eba8dbaf9" title="Shutdown" alt="" coords="1151,347,1230,373"/>
+<area shape="rect" id="node26" href="$struct_testing_setup.html#a9d7595ffd3a2a579748f56e52b0a685f" title="TestingSetup::~TestingSetup" alt="" coords="1095,397,1286,424"/>
+<area shape="rect" id="node25" href="$class_bitcoin_core.html#a94f3f4622ba698e321f3a2e0e686129f" title="BitcoinCore::shutdown" alt="" coords="1340,347,1492,373"/>
+<area shape="rect" id="node30" href="$net_8h.html#a0cde2b3256757536c42c0bd3037847d1" title="AdvertiseLocal" alt="" coords="463,309,570,336"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CCoinsView::HaveCoins" name="CCoinsView::HaveCoins">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#a6a769cf9cc55128dea8e1a2798056e71" title="CCoinsViewBacked::HaveCoins" alt="" coords="215,5,420,32"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_mem_pool.html#a965e6c8e378fe937620ba2c180d1ed74" title="CCoinsViewMemPool::\lHaveCoins" alt="" coords="240,57,395,98"/>
+</map>

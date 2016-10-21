@@ -1,0 +1,8 @@
+<map id="PaymentRequestPlus::getDetails" name="PaymentRequestPlus::getDetails">
+<area shape="rect" id="node2" href="$class_payment_server.html#a6fa5530162603b2b07d0398ead7ce0b3" title="PaymentServer::ipcParseCommandLine" alt="" coords="201,5,453,32"/>
+<area shape="rect" id="node4" href="$class_payment_server.html#ab846f9e8778e5cc878b644133e8628f1" title="PaymentServer::fetchPaymentACK" alt="" coords="215,56,440,83"/>
+<area shape="rect" id="node5" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="501,161,713,188"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a53443aca544c824550f21e5f87e4ec39" title="WalletModel::sendCoins" alt="" coords="246,157,409,184"/>
+<area shape="rect" id="node7" href="$class_wallet_model_transaction.html#a267d58faa6b634e86b46b76d8b1ea494" title="WalletModelTransaction\l::reassignAmounts" alt="" coords="247,209,408,250"/>
+<area shape="rect" id="node3" href="$bitcoin_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="582,5,633,32"/>
+</map>

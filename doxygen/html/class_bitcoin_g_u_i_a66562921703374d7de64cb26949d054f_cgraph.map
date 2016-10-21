@@ -1,0 +1,10 @@
+<map id="BitcoinGUI::BitcoinGUI" name="BitcoinGUI::BitcoinGUI">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#aded16e1d178a93b809819884af8351db" title="GUIUtil::restoreWindowGeometry" alt="" coords="208,5,423,32"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#af6b4f24cc4b4cf1633cf63754b4647c3" title="WalletModel::isWalletEnabled" alt="" coords="217,56,413,83"/>
+<area shape="rect" id="node5" href="$class_network_style.html#a1da6f75d461696bbc8d87a3401b66d36" title="NetworkStyle::getTitleAddText" alt="" coords="217,107,414,133"/>
+<area shape="rect" id="node6" href="$class_network_style.html#a07b230f944d326e5a51012a55a71fc44" title="NetworkStyle::getTrayAnd\lWindowIcon" alt="" coords="229,158,402,199"/>
+<area shape="rect" id="node7" href="$class_mac_dock_icon_handler.html#afd3ef7126d0b6ef02eaf85e5455fe6f4" title="MacDockIconHandler\l::instance" alt="" coords="243,223,388,265"/>
+<area shape="rect" id="node8" href="$class_mac_dock_icon_handler.html#a537f8eb3c9752089e3e2e0e30011a65b" title="MacDockIconHandler\l::setIcon" alt="" coords="243,289,388,330"/>
+<area shape="rect" id="node9" href="$class_network_style.html#a27997442bfe69e5907f4dc4983ea16c6" title="NetworkStyle::getAppIcon" alt="" coords="229,355,401,381"/>
+<area shape="rect" id="node4" href="$util_8cpp.html#a64d956f1dda7f9a80ab5d594532b906d" title="GetBoolArg" alt="" coords="471,56,560,83"/>
+</map>

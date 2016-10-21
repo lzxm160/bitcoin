@@ -1,0 +1,8 @@
+<map id="VersionBitsCache::Clear" name="VersionBitsCache::Clear">
+<area shape="rect" id="node2" href="$main_8h.html#ac98b87e479f71b7be2b990a10c4ebc2d" title="UnloadBlockIndex" alt="" coords="217,56,344,83"/>
+<area shape="rect" id="node3" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="453,31,522,57"/>
+<area shape="rect" id="node7" href="$struct_testing_setup.html#a9d7595ffd3a2a579748f56e52b0a685f" title="TestingSetup::~TestingSetup" alt="" coords="392,81,583,108"/>
+<area shape="rect" id="node4" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="671,5,734,32"/>
+<area shape="rect" id="node6" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="631,56,775,83"/>
+<area shape="rect" id="node5" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="823,5,873,32"/>
+</map>

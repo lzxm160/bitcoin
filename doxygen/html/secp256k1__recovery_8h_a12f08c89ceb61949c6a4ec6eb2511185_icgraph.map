@@ -1,0 +1,8 @@
+<map id="secp256k1_ecdsa_recoverable_signature_serialize_compact" name="secp256k1_ecdsa_recoverable_signature_serialize_compact">
+<area shape="rect" id="node2" href="$class_c_key.html#a59afeabf3f63d99dfdbd3722087853a1" title="CKey::SignCompact" alt="" coords="253,52,393,79"/>
+<area shape="rect" id="node5" href="$recovery_2tests__impl_8h.html#a70649882936497184992dfaa06b1106f" title="test_ecdsa_recovery\l_end_to_end" alt="" coords="252,103,393,145"/>
+<area shape="rect" id="node3" href="$misc_8cpp.html#a5e097de02d97cf33b676821242f0908e" title="signmessagewithprivkey" alt="" coords="441,5,604,32"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a95d30866deb9a289859518f21b6ec721" title="signmessage" alt="" coords="473,56,572,83"/>
+<area shape="rect" id="node6" href="$recovery_2tests__impl_8h.html#a3a06f71955483e9502f3c408857407f2" title="run_recovery_tests" alt="" coords="457,111,588,137"/>
+<area shape="rect" id="node7" href="$tests_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="652,111,703,137"/>
+</map>

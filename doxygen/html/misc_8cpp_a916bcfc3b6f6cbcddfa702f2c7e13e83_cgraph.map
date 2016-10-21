@@ -1,0 +1,30 @@
+<map id="setmocktime" name="setmocktime">
+<area shape="rect" id="node2" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="388,12,495,38"/>
+<area shape="rect" id="node3" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="210,45,277,72"/>
+<area shape="rect" id="node4" href="$class_c_chain_params.html#a43391a278460183ece50859c286c46bd" title="CChainParams::MineBlocks\lOnDemand" alt="" coords="151,96,336,138"/>
+<area shape="rect" id="node5" href="$server_8cpp.html#ac5b4e8e5154ac022c7be81730a527fd1" title="RPCTypeCheck" alt="" coords="186,162,301,189"/>
+<area shape="rect" id="node28" href="$utiltime_8cpp.html#a79d4c36b511d6690ab0bbde0e0da9251" title="SetMockTime" alt="" coords="192,213,295,240"/>
+<area shape="rect" id="node29" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="208,264,279,290"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#aa9c595a1e1a560e35eff5e8b6d8d859a" title="UniValue::type" alt="" coords="388,96,495,122"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a70c4bfad8015106cc480042462f413c1" title="UniValue::isNull" alt="" coords="384,146,499,173"/>
+<area shape="rect" id="node9" href="$univalue_8h.html#aa037153cdbc98dd3683ff1918dc70932" title="uvTypeName" alt="" coords="393,197,489,224"/>
+<area shape="rect" id="node10" href="$rpc_2protocol_8cpp.html#a41a2234c99900304357a44796b2259d5" title="JSONRPCError" alt="" coords="386,248,497,274"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#abe136a74397b68cc5243c170064cf6ff" title="UniValue::getType" alt="" coords="555,96,683,122"/>
+<area shape="rect" id="node11" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="595,222,643,249"/>
+<area shape="rect" id="node27" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="547,273,692,300"/>
+<area shape="rect" id="node12" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="758,189,845,216"/>
+<area shape="rect" id="node18" href="$namespacetinyformat.html#ad784060b98bfd4f1b3089fbb7686a676" title="Format list of arguments to the stream according to given format string. " alt="" coords="740,256,863,282"/>
+<area shape="rect" id="node13" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="938,138,1065,165"/>
+<area shape="rect" id="node14" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="958,189,1045,216"/>
+<area shape="rect" id="node15" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="1172,113,1299,140"/>
+<area shape="rect" id="node16" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="1187,164,1284,190"/>
+<area shape="rect" id="node17" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="1140,214,1331,241"/>
+<area shape="rect" id="node19" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="tinyformat::vformat" alt="" coords="937,256,1065,282"/>
+<area shape="rect" id="node26" href="$namespacetinyformat.html#ab7fedd020bd6b353233d0ecbd686a007" title="tinyformat::makeFormatList" alt="" coords="911,306,1092,333"/>
+<area shape="rect" id="node20" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1176,266,1295,307"/>
+<area shape="rect" id="node21" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1382,200,1547,242"/>
+<area shape="rect" id="node22" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1379,266,1551,307"/>
+<area shape="rect" id="node25" href="$classtinyformat_1_1detail_1_1_format_arg.html#acf5721edb4cd5009995b48211614667e" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1397,331,1532,372"/>
+<area shape="rect" id="node23" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1599,232,1747,274"/>
+<area shape="rect" id="node24" href="$classtinyformat_1_1detail_1_1_format_arg.html#a3cc3ee90db72cd62b5e0813f70bf5185" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1611,298,1735,339"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CheckFinalTx" name="CheckFinalTx">
+<area shape="rect" id="node2" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="211,5,320,32"/>
+<area shape="rect" id="node3" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="221,56,310,83"/>
+<area shape="rect" id="node4" href="$class_c_block_index.html#abffb24cc73329a3dce024403ba770b4a" title="CBlockIndex::GetMedianTimePast" alt="" coords="155,107,376,133"/>
+<area shape="rect" id="node6" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="204,157,327,184"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="IsFinalTx" alt="" coords="228,208,303,235"/>
+<area shape="rect" id="node5" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="424,107,609,133"/>
+<area shape="rect" id="node7" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="481,157,552,184"/>
+<area shape="rect" id="node8" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="GetTimeOffset" alt="" coords="464,208,569,235"/>
+</map>

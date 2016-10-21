@@ -1,0 +1,14 @@
+<map id="SendCoinsDialog::handlePaymentRequest" name="SendCoinsDialog::handlePaymentRequest">
+<area shape="rect" id="node2" href="$class_send_coins_dialog.html#a4440d15ced5d217baaad33a17d56b409" title="SendCoinsDialog::pasteEntry" alt="" coords="272,137,464,164"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#a1dcce9480364868dfd0bb8782e039e57" title="SendCoinsEntry::isClear" alt="" coords="521,59,685,85"/>
+<area shape="rect" id="node4" href="$class_send_coins_dialog.html#a3d680a76b967641115c6ff2fa83fb62a" title="SendCoinsDialog::addEntry" alt="" coords="512,109,693,136"/>
+<area shape="rect" id="node9" href="$class_send_coins_dialog.html#a3b834c739f7d02d8086a2bf58525c5f0" title="SendCoinsDialog::updateTabs\lAndLabels" alt="" coords="741,158,937,199"/>
+<area shape="rect" id="node12" href="$class_send_coins_entry.html#a513dd22231d0d7c2550c5533e9518cf5" title="SendCoinsEntry::setValue" alt="" coords="515,221,690,248"/>
+<area shape="rect" id="node5" href="$class_send_coins_entry.html#a831f8f9a63acd77b7d66d5393e12310b" title="SendCoinsEntry::setModel" alt="" coords="751,5,928,32"/>
+<area shape="rect" id="node7" href="$class_send_coins_entry.html#abff66fcd456c82144e7a2c410f5082ac" title="SendCoinsEntry::clear" alt="" coords="1009,56,1161,83"/>
+<area shape="rect" id="node8" href="$class_send_coins_entry.html#a0dcb8720f234165b37f8b45b035320cc" title="SendCoinsEntry::setFocus" alt="" coords="750,107,929,133"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="985,5,1185,32"/>
+<area shape="rect" id="node10" href="$class_send_coins_dialog.html#a689658987f2af0896f25bf37bb945d91" title="SendCoinsDialog::setupTab\lChain" alt="" coords="994,158,1177,199"/>
+<area shape="rect" id="node11" href="$class_send_coins_entry.html#aa431a0bf53174b3a012fe224e472bc13" title="SendCoinsEntry::setupTab\lChain" alt="" coords="1233,158,1411,199"/>
+<area shape="rect" id="node13" href="$class_payment_request_plus.html#a62ae278689d852e4a73cdef627763944" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="765,223,913,265"/>
+</map>

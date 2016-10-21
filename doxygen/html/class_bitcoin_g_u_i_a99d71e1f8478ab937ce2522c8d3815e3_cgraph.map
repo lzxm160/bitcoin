@@ -1,0 +1,51 @@
+<map id="BitcoinGUI::setClientModel" name="BitcoinGUI::setClientModel">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#ae5b9dc62c6a52764a92cfacbe128626f" title="BitcoinGUI::setNumConnections" alt="" coords="232,16,441,43"/>
+<area shape="rect" id="node5" href="$class_client_model.html#ab893445b458943e3112770b026195067" title="Return number of connections, default is in&#45; and outbound (total) " alt="" coords="785,937,1000,964"/>
+<area shape="rect" id="node6" href="$class_bitcoin_g_u_i.html#a6cd4a94b6742919131e9ce2154580711" title="BitcoinGUI::setNumBlocks" alt="" coords="248,268,425,295"/>
+<area shape="rect" id="node7" href="$class_modal_overlay.html#a21b223aa0e1bb5a161b39b165ee213dd" title="ModalOverlay::setKnownBest\lHeight" alt="" coords="517,57,709,98"/>
+<area shape="rect" id="node8" href="$class_client_model.html#a0e80b228c4b2b48f2e18898ee5b874ca" title="ClientModel::getHeaderTip\lHeight" alt="" coords="526,122,701,163"/>
+<area shape="rect" id="node9" href="$class_client_model.html#aa125307506dab8fa7eed17fd74af2c81" title="ClientModel::getHeaderTipTime" alt="" coords="512,407,715,433"/>
+<area shape="rect" id="node16" href="$class_client_model.html#a9c298b0c2eb9c8e9ff18c6ff37725b0a" title="ClientModel::getNumBlocks" alt="" coords="522,625,705,652"/>
+<area shape="rect" id="node18" href="$class_client_model.html#a3dd65362947749364c48ff53a37820db" title="ClientModel::getLastBlockDate" alt="" coords="513,457,714,484"/>
+<area shape="rect" id="node21" href="$class_client_model.html#a99f914ee1bf842509b93b81dca6505cc" title="ClientModel::getVerification\lProgress" alt="" coords="523,509,703,550"/>
+<area shape="rect" id="node23" href="$class_bitcoin_g_u_i.html#abf1d036341d1fb122398b2b78d2734ea" title="BitcoinGUI::message" alt="" coords="264,1072,409,1099"/>
+<area shape="rect" id="node25" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="241,1021,432,1048"/>
+<area shape="rect" id="node46" href="$class_wallet_frame.html#a72f3a61b1d882a894c65fbf1adc1a954" title="WalletFrame::setClientModel" alt="" coords="241,1123,432,1149"/>
+<area shape="rect" id="node47" href="$class_unit_display_status_bar_control.html#ac8d2a43f66f3f71c7d6926dbd5927066" title="UnitDisplayStatusBarControl\l::setOptionsModel" alt="" coords="243,1174,430,1215"/>
+<area shape="rect" id="node49" href="$class_client_model.html#ae8da1e2eabfbbcc49a7eed821908bdb6" title="ClientModel::getOptionsModel" alt="" coords="239,1240,435,1267"/>
+<area shape="rect" id="node50" href="$class_options_model.html#a17028edc6261cd3af46d757fcc0699fa" title="OptionsModel::getHideTrayIcon" alt="" coords="235,1291,438,1317"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a4987d44b752a26f0ad3a654822d7dc5e" title="PlatformStyle::SingleColorIcon" alt="" coords="514,5,713,32"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a1c21234aff601548130e5b52c0fcfc47" title="PlatformStyle::SingleColor" alt="" coords="805,5,980,32"/>
+<area shape="rect" id="node11" href="$class_modal_overlay.html#a38186ebf7dbb5eba5dda872b3313d4fb" title="ModalOverlay::tipUpdate" alt="" coords="532,239,695,265"/>
+<area shape="rect" id="node12" href="$namespace_g_u_i_util.html#a903224d4167f10d15bcb80ec3a0f68d2" title="GUIUtil::formateNiceTime\lOffset" alt="" coords="809,206,977,247"/>
+<area shape="rect" id="node13" href="$class_client_model.html#acd447f61bfd57267a31a0aa88c176ee6" title="Return true if core is importing blocks. " alt="" coords="518,575,709,601"/>
+<area shape="rect" id="node14" href="$class_wallet_frame.html#aeda920e4141c99d457814f20fa89dde6" title="WalletFrame::showOutOfSync\lWarning" alt="" coords="514,290,713,331"/>
+<area shape="rect" id="node15" href="$class_modal_overlay.html#a0144e7dbb1a7701743d7b3393e52f12c" title="ModalOverlay::showHide" alt="" coords="531,356,695,383"/>
+<area shape="rect" id="node10" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="1048,407,1233,433"/>
+<area shape="rect" id="node17" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="838,625,947,652"/>
+<area shape="rect" id="node19" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="848,457,937,484"/>
+<area shape="rect" id="node20" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="859,575,926,601"/>
+<area shape="rect" id="node22" href="$namespace_checkpoints.html#aa2e60b5114a431ccaff32a6e1f418af1" title="Guess how far we are in the verification process at the given block index. " alt="" coords="791,509,995,550"/>
+<area shape="rect" id="node24" href="$class_notificator.html#ae08e1e7e85ddc4690f307649021f7fdc" title="Notificator::notify" alt="" coords="554,1705,673,1732"/>
+<area shape="rect" id="node26" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="805,1417,980,1458"/>
+<area shape="rect" id="node27" href="$class_client_model.html#ad02b8bf216a08845e393f9bac8c4ed42" title="ClientModel::getBanTable\lModel" alt="" coords="807,1651,978,1693"/>
+<area shape="rect" id="node28" href="$class_r_p_c_console.html#aa4546cb7812dd35704de8bf09a6ceb60" title="RPCConsole::setNumConnections" alt="" coords="503,1300,724,1327"/>
+<area shape="rect" id="node29" href="$class_r_p_c_console.html#a8a3dc7ad11aed5071c3c00329f75f736" title="RPCConsole::setNumBlocks" alt="" coords="519,996,708,1023"/>
+<area shape="rect" id="node30" href="$class_client_model.html#a175c96ffc4d793777316e36c501a7f94" title="ClientModel::getTotalBytesRecv" alt="" coords="510,1047,717,1073"/>
+<area shape="rect" id="node31" href="$class_client_model.html#a4229224bf8a2df52e44438a449da6ba3" title="ClientModel::getTotalBytesSent" alt="" coords="511,1097,716,1124"/>
+<area shape="rect" id="node32" href="$class_r_p_c_console.html#a86e7d08d527792b6e9bb65659b21c2af" title="RPCConsole::setMempoolSize" alt="" coords="513,1199,714,1225"/>
+<area shape="rect" id="node33" href="$class_r_p_c_console.html#aacaf485583b6342c5e1877e7582f95c5" title="RPCConsole::banSelectedNode" alt="" coords="510,1553,717,1580"/>
+<area shape="rect" id="node37" href="$class_r_p_c_console.html#a697e3fab280ee0c9033eeff2f64ec742" title="RPCConsole::disconnectSelectedNode" alt="" coords="489,1249,737,1276"/>
+<area shape="rect" id="node38" href="$class_r_p_c_console.html#a2487fa6a90cddcbb17ae4bb13ecc5359" title="RPCConsole::peerSelected" alt="" coords="523,1452,703,1479"/>
+<area shape="rect" id="node39" href="$class_r_p_c_console.html#af952ebc6484c8f7d1262fa0bceed41bf" title="RPCConsole::peerLayoutChanged" alt="" coords="504,1503,723,1529"/>
+<area shape="rect" id="node40" href="$class_r_p_c_console.html#a9a974887c33bf1d4b25eb6aeea002941" title="RPCConsole::unbanSelectedNode" alt="" coords="503,1604,723,1631"/>
+<area shape="rect" id="node41" href="$class_client_model.html#a1c93d11fd03ef9aabf9b694e73698710" title="ClientModel::formatFullVersion" alt="" coords="514,1401,713,1428"/>
+<area shape="rect" id="node42" href="$class_client_model.html#a09017a53fe4174364d25f4b63463f02e" title="ClientModel::formatSubVersion" alt="" coords="513,777,714,804"/>
+<area shape="rect" id="node43" href="$class_client_model.html#a188d8dcb33121c55998afa49d17cfda6" title="ClientModel::dataDir" alt="" coords="544,828,683,855"/>
+<area shape="rect" id="node44" href="$class_client_model.html#a9a6238dec8eb12b7d742ce1879a92ec8" title="ClientModel::formatClient\lStartupTime" alt="" coords="530,879,697,921"/>
+<area shape="rect" id="node45" href="$class_c_r_p_c_table.html#a358e9047a2facc6052efad2e6c5a0d6e" title="CRPCTable::listCommands" alt="" coords="523,945,703,972"/>
+<area shape="rect" id="node34" href="$class_peer_table_model.html#aa735d366015dafba4c5d79dfb76abe49" title="PeerTableModel::getRowBy\lNodeId" alt="" coords="801,1534,984,1575"/>
+<area shape="rect" id="node35" href="$class_peer_table_model.html#a98084d3299642316c71c5de3d36b9859" title="PeerTableModel::getNodeStats" alt="" coords="791,1483,994,1509"/>
+<area shape="rect" id="node36" href="$class_ban_table_model.html#a15107160d33bbf2635b9460cb07f9661" title="BanTableModel::refresh" alt="" coords="813,1600,972,1627"/>
+<area shape="rect" id="node48" href="$class_options_model.html#a3b6e4d4ef42be3aaba315b8cd14f468e" title="OptionsModel::getDisplayUnit" alt="" coords="516,1756,711,1783"/>
+</map>

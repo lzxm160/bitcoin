@@ -1,0 +1,19 @@
+<map id="CNetAddr::GetHash" name="CNetAddr::GetHash">
+<area shape="rect" id="node2" href="$class_c_addr_info.html#aa7fce3d285312f5673bdb5274724d6b8" title="Calculate in which &quot;tried&quot; bucket this entry belongs. " alt="" coords="200,69,376,96"/>
+<area shape="rect" id="node10" href="$class_c_addr_info.html#a433abfb3347fec32d615507ff6cd52b0" title="Calculate in which &quot;new&quot; bucket this entry belongs, given a certain source. " alt="" coords="201,233,375,260"/>
+<area shape="rect" id="node18" href="$class_c_addr_info.html#aff26ef9829651c2e6fa40aef88ab704d" title="Calculate in which position of a bucket to store this entry. " alt="" coords="191,145,385,172"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="453,107,604,133"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a68eaf1797ecb8bff380aa7f9fc452e14" title="CAddrMan::Unserialize" alt="" coords="451,56,606,83"/>
+<area shape="rect" id="node9" href="$addrman__tests_8cpp.html#a030c7f7061c7460300e4c19044a608b5" title="BOOST_AUTO_TEST_CASE" alt="" coords="433,5,624,32"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="672,107,801,133"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a993e80e74701d7bc6bb49880c387b847" title="Mark an entry as accessible. " alt="" coords="890,107,1013,133"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="1101,81,1304,108"/>
+<area shape="rect" id="node7" href="$addrman__tests_8cpp.html#a68763c565f212d2fecd6c99f11b4d2d9" title="BOOST_AUTO_TEST_CASE" alt="" coords="1107,132,1298,159"/>
+<area shape="rect" id="node11" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="468,208,589,235"/>
+<area shape="rect" id="node16" href="$class_c_addr_info.html#aee08d115a3314aa8c960fbff960f62b2" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="442,309,615,336"/>
+<area shape="rect" id="node17" href="$addrman__tests_8cpp.html#a905125589b2b8d1aa3f22093d6293ff7" title="BOOST_AUTO_TEST_CASE" alt="" coords="433,259,624,285"/>
+<area shape="rect" id="node12" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="679,208,794,235"/>
+<area shape="rect" id="node13" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="856,157,1047,184"/>
+<area shape="rect" id="node14" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="849,208,1053,235"/>
+<area shape="rect" id="node15" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="856,259,1047,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PlatformStyle::SingleColorImage" name="PlatformStyle::SingleColorImage">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a8ce64bac6c4420afacee4d2ead446649" title="RPCConsole::clear" alt="" coords="228,13,360,39"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#a91ee472a4d664623e69aa3dfd2f5f3ad" title="RPCConsole::RPCConsole" alt="" coords="848,38,1027,65"/>
+<area shape="rect" id="node4" href="$class_r_p_c_console.html#a385a3c3b75604e379ce4ed26b697cb36" title="RPCConsole::setFontSize" alt="" coords="408,38,583,65"/>
+<area shape="rect" id="node5" href="$class_r_p_c_console.html#ad120baf8f0d43b56fca2a8e8d4dda50f" title="RPCConsole::fontBigger" alt="" coords="634,38,797,65"/>
+<area shape="rect" id="node6" href="$class_r_p_c_console.html#a259454bfa74826c944fec35953f2d328" title="RPCConsole::fontSmaller" alt="" coords="631,89,800,115"/>
+</map>

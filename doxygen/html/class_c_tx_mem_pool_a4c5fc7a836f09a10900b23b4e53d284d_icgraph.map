@@ -1,0 +1,11 @@
+<map id="CTxMemPool::removeRecursive" name="CTxMemPool::removeRecursive">
+<area shape="rect" id="node2" href="$blockencodings__tests_8cpp.html#a61f18ec62745c7dd5762dc408ce63d53" title="BOOST_AUTO_TEST_CASE" alt="" coords="265,5,455,32"/>
+<area shape="rect" id="node3" href="$miner__tests_8cpp.html#aeed1f0d9588f9aecb80a2f7b82d0941e" title="TestPackageSelection" alt="" coords="284,56,436,83"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#acf12e024f4d6d5c0437227bc419c28fb" title="CTxMemPool::removeForReorg" alt="" coords="259,107,461,133"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#a11f1bddfbae7c03c6244db322876c0a7" title="CTxMemPool::removeConflicts" alt="" coords="261,157,459,184"/>
+<area shape="rect" id="node4" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="515,56,705,83"/>
+<area shape="rect" id="node6" href="$main_8h.html#adf70cddb5b3b3218a7f22da08dc4a456" title="InvalidateBlock" alt="" coords="556,107,664,133"/>
+<area shape="rect" id="node7" href="$blockchain_8cpp.html#a7e43030fb221e28db98accef3fc80232" title="invalidateblock" alt="" coords="801,107,907,133"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#aea14d073b24e31251465ac3c2279ee65" title="CTxMemPool::removeForBlock" alt="" coords="509,157,711,184"/>
+<area shape="rect" id="node10" href="$mempool__tests_8cpp.html#a775653dcab3f73c3dc74559ef7dbd6c5" title="BOOST_AUTO_TEST_CASE" alt="" coords="759,157,949,184"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CWallet::LoadToWallet" name="CWallet::LoadToWallet">
+<area shape="rect" id="node2" href="$walletdb_8cpp.html#ad1f171cf096f5479805a06fc20480343" title="ReadKeyValue" alt="" coords="208,97,316,123"/>
+<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a14f26e53502d1a60dd2b034f830acf03" title="CWalletDB::LoadWallet" alt="" coords="364,71,523,98"/>
+<area shape="rect" id="node11" href="$class_c_wallet_d_b.html#af9fa539659473e1484dc280ec01c0b70" title="CWalletDB::Recover" alt="" coords="373,122,513,149"/>
+<area shape="rect" id="node4" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="571,71,712,98"/>
+<area shape="rect" id="node5" href="$struct_wallet_testing_setup.html#a0125ada997b4b16803624bfd537d8902" title="WalletTestingSetup\l::WalletTestingSetup" alt="" coords="768,5,911,47"/>
+<area shape="rect" id="node6" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="760,71,919,98"/>
+<area shape="rect" id="node7" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="967,97,1036,123"/>
+<area shape="rect" id="node8" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="1125,71,1187,98"/>
+<area shape="rect" id="node10" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="1084,122,1228,149"/>
+<area shape="rect" id="node9" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1276,71,1327,98"/>
+<area shape="rect" id="node12" href="$group__map_wallet.html#ga40cd608c974a83e58af882d4421b2fbc" title="Verify the wallet database and perform salvage if required. " alt="" coords="785,122,894,149"/>
+<area shape="rect" id="node13" href="$class_c_wallet_d_b.html#ad6efdef4b446547fe9ea745c98609695" title="CWalletDB::Recover" alt="" coords="571,173,711,199"/>
+</map>

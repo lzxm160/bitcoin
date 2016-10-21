@@ -1,0 +1,9 @@
+<map id="OpenBlockFile" name="OpenBlockFile">
+<area shape="rect" id="node2" href="$main_8cpp.html#ab15fc61f1d9596ad0aca703ff2c74635" title="OpenDiskFile" alt="" coords="160,31,260,57"/>
+<area shape="rect" id="node3" href="$struct_c_disk_block_pos.html#a924f2805b274345afce890b27a0934d9" title="CDiskBlockPos::IsNull" alt="" coords="308,5,461,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a2f26f074aac584c3398de1dcdac59de9" title="GetBlockPosFilename" alt="" coords="309,56,461,83"/>
+<area shape="rect" id="node5" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="509,56,596,83"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="676,5,803,32"/>
+<area shape="rect" id="node7" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="691,56,788,83"/>
+<area shape="rect" id="node8" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="644,107,835,133"/>
+</map>

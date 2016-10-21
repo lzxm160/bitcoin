@@ -1,0 +1,11 @@
+<map id="leveldb::DB::Delete" name="leveldb::DB::Delete">
+<area shape="rect" id="node2" href="$classleveldb_1_1_auto_compact_test.html#a1d1feea1aef1257e461c35eb5b51fa52" title="leveldb::AutoCompactTest\l::DoReads" alt="" coords="185,5,359,47"/>
+<area shape="rect" id="node3" href="$c_8h.html#a3878ffaf68a4addb31266ac81ce8c36f" title="leveldb_delete" alt="" coords="221,71,323,98"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_d_b_impl.html#af050f77e8c22bd6638fed5a46a59399d" title="leveldb::DBImpl::Delete" alt="" coords="194,122,350,149"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_d_b_test.html#a25716ec93d525adbeea8ff71e8f3a9f4" title="leveldb::DBTest::Delete" alt="" coords="193,173,351,199"/>
+<area shape="rect" id="node8" href="$classleveldb_1_1_model_d_b.html#a2c2690e07a206fd2197f592dd4478ff6" title="leveldb::ModelDB::Delete" alt="" coords="189,223,355,250"/>
+<area shape="rect" id="node4" href="$c__test_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="462,71,513,98"/>
+<area shape="rect" id="node6" href="$namespaceleveldb.html#a4d273f5f0d313440832363179e28e010" title="leveldb::TEST" alt="" coords="437,122,538,149"/>
+<area shape="rect" id="node9" href="$classleveldb_1_1_model_d_b.html#ae3a20d2fc971376349b142b9c2d159be" title="leveldb::ModelDB::Write" alt="" coords="407,198,568,225"/>
+<area shape="rect" id="node10" href="$namespaceleveldb.html#a028ed215c12e1998d7073b18fce4c24c" title="leveldb::TEST" alt="" coords="616,223,717,250"/>
+</map>

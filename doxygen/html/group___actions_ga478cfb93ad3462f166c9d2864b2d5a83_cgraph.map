@@ -1,0 +1,4 @@
+<map id="CWallet::FundTransaction" name="CWallet::FundTransaction">
+<area shape="rect" id="node2" href="$class_c_coin_control.html#a7903e85623ba9b21583bd4018d17546c" title="CCoinControl::Select" alt="" coords="237,5,380,32"/>
+<area shape="rect" id="node3" href="$class_c_coin_control.html#aa3266131fb2a0d1aff6803552dcbfdfb" title="CCoinControl::IsSelected" alt="" coords="225,56,392,83"/>
+</map>

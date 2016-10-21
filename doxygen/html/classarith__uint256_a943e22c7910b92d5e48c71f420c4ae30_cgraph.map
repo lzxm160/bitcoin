@@ -1,0 +1,4 @@
+<map id="arith_uint256::GetCompact" name="arith_uint256::GetCompact">
+<area shape="rect" id="node2" href="$classbase__uint.html#a4867652ab4163a10ac4e3d04f0352423" title="base_uint\&lt; 256 \&gt;::bits" alt="" coords="249,5,401,32"/>
+<area shape="rect" id="node3" href="$classbase__uint.html#abf39b71afc016b333b8996def4c6bc40" title="base_uint\&lt; 256 \&gt;::GetLow64" alt="" coords="231,56,420,83"/>
+</map>

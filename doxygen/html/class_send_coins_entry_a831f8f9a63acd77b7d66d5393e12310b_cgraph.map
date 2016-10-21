@@ -1,0 +1,4 @@
+<map id="SendCoinsEntry::setModel" name="SendCoinsEntry::setModel">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="231,5,431,32"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#abff66fcd456c82144e7a2c410f5082ac" title="SendCoinsEntry::clear" alt="" coords="255,56,407,83"/>
+</map>

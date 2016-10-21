@@ -1,0 +1,51 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_c_key.html#a9d12ed9d297e4286250fd7ea6b59e1a5" title="Generate a new private key using a cryptographic PRNG. " alt="" coords="269,254,411,281"/>
+<area shape="rect" id="node9" href="$class_c_key.html#ae4b61da6ec62f676fe6362ac5fc26aca" title="CKey::GetPubKey" alt="" coords="512,435,641,462"/>
+<area shape="rect" id="node16" href="$class_c_key_store.html#a0b4ca43724cfcc6e2ea70c0baa192750" title="CKeyStore::AddKey" alt="" coords="271,486,409,513"/>
+<area shape="rect" id="node18" href="$script__tests_8cpp.html#a9fd6b3305e3953af23e419c6feaaba7c" title="BuildCreditingTransaction" alt="" coords="255,537,425,563"/>
+<area shape="rect" id="node19" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="GetScriptForDestination" alt="" coords="259,587,421,614"/>
+<area shape="rect" id="node20" href="$script__tests_8cpp.html#a74687e12b241bf20d06c84049e0c58f4" title="BuildSpendingTransaction" alt="" coords="254,1571,426,1598"/>
+<area shape="rect" id="node24" href="$sign_8cpp.html#a85ce096b6886353ed6dbe400845a4366" title="CombineSignatures" alt="" coords="273,795,407,822"/>
+<area shape="rect" id="node28" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1352,630,1465,657"/>
+<area shape="rect" id="node31" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1177,858,1279,885"/>
+<area shape="rect" id="node36" href="$classprevector.html#a2d6273a734a3e3e4596457a64ff169a5" title="prevector::empty" alt="" coords="281,1027,399,1054"/>
+<area shape="rect" id="node37" href="$sign_8cpp.html#a831677aaa27f4b63770ed92f09a493fe" title="SignSignature" alt="" coords="289,977,391,1003"/>
+<area shape="rect" id="node39" href="$script_8h.html#a54e10bc63d490dd5d39d245102b81359" title="ToByteVector" alt="" coords="744,1365,845,1391"/>
+<area shape="rect" id="node44" href="$class_c_basic_key_store.html#a56249ce3540398999cd397eeb662e836" title="Support for BIP 0013 : see https://github.com/bitcoin/bips/blob/master/bip&#45;0013.mediawiki. " alt="" coords="244,1238,436,1265"/>
+<area shape="rect" id="node47" href="$standard_8cpp.html#a7030aee2e7c653ebc11b77dab70b09f1" title="GetScriptForMultisig" alt="" coords="269,1390,411,1417"/>
+<area shape="rect" id="node49" href="$interpreter_8cpp.html#a688f131af92b4930326fe1fe63fbb44a" title="SignatureHash" alt="" coords="287,1491,393,1518"/>
+<area shape="rect" id="node3" href="$random_8cpp.html#ad3431dd191f6ae9977f482c150da3d6f" title="GetStrongRandBytes" alt="" coords="504,125,649,151"/>
+<area shape="rect" id="node4" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="741,201,848,227"/>
+<area shape="rect" id="node5" href="$class_c_s_h_a512.html#aefd8260a2c205f11d44670ae68f1aff0" title="CSHA512::Write" alt="" coords="953,49,1071,75"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1192,23,1264,50"/>
+<area shape="rect" id="node7" href="$class_c_s_h_a512.html#aef4627aae19eeeb54bf02ea7b222b688" title="CSHA512::Finalize" alt="" coords="729,49,861,75"/>
+<area shape="rect" id="node8" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="734,150,855,177"/>
+<area shape="rect" id="node10" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="717,252,872,293"/>
+<area shape="rect" id="node11" href="$class_c_key.html#aabd29e0d5faf30032cc8519a1ce62a5a" title="CKey::begin" alt="" coords="748,318,841,345"/>
+<area shape="rect" id="node12" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="717,369,872,411"/>
+<area shape="rect" id="node13" href="$class_c_pub_key.html#add9987e0d25aff11181f5ad70413994b" title="CPubKey::begin" alt="" coords="737,435,853,462"/>
+<area shape="rect" id="node14" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="957,402,1067,429"/>
+<area shape="rect" id="node15" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="733,537,857,563"/>
+<area shape="rect" id="node17" href="$class_c_key_store.html#a1956e4f5860ded321d6f697047d8236a" title="Add a key to the store. " alt="" coords="484,486,669,513"/>
+<area shape="rect" id="node21" href="$struct_c_mutable_transaction.html#af57dc15618f64c9ae3a4c0e06850e382" title="CMutableTransaction\l::GetHash" alt="" coords="505,1593,649,1635"/>
+<area shape="rect" id="node22" href="$hash_8h.html#a6de694e43f17c62025c6883965b65e63" title="SerializeHash" alt="" coords="743,1571,846,1598"/>
+<area shape="rect" id="node23" href="$class_c_hash_writer.html#ae94a937211502eabf19477630090093a" title="CHashWriter::GetHash" alt="" coords="935,1531,1089,1558"/>
+<area shape="rect" id="node25" href="$standard_8cpp.html#a6ee6be50bff44464e905680c6fcee6dc" title="Solver" alt="" coords="766,757,823,783"/>
+<area shape="rect" id="node26" href="$class_c_script.html#acba6d6d35776de4ce3a632446f44805f" title="CScript::IsPayToScriptHash" alt="" coords="920,1061,1104,1087"/>
+<area shape="rect" id="node27" href="$classprevector.html#a8430c39b212986d6cd2ba9d6fa939241" title="prevector::size" alt="" coords="1175,1061,1281,1087"/>
+<area shape="rect" id="node29" href="$class_c_script.html#a11e9cac739d4044d83fdd13cdf72ed01" title="CScript::IsWitnessProgram" alt="" coords="922,959,1102,986"/>
+<area shape="rect" id="node30" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="CScript::DecodeOP_N" alt="" coords="1152,757,1304,783"/>
+<area shape="rect" id="node32" href="$class_c_script.html#ac81d0879690dc02cfb6712244e4add43" title="CScript::IsPushOnly" alt="" coords="942,807,1082,834"/>
+<area shape="rect" id="node33" href="$class_c_script.html#a94635ed93d8d244ec3acfa83f9ecfe5f" title="CScript::GetOp" alt="" coords="1173,630,1283,657"/>
+<area shape="rect" id="node34" href="$class_c_script.html#a7b2baf842621f07c4939408acf63377c" title="CScript::clear" alt="" coords="961,605,1063,631"/>
+<area shape="rect" id="node35" href="$classprevector.html#acb71926f63896b2bd6f4da4ffe515d19" title="prevector::front" alt="" coords="959,655,1065,682"/>
+<area shape="rect" id="node38" href="$sign_8cpp.html#a9165c4de76bf0fe48c641cc8779d4355" title="ProduceSignature" alt="" coords="514,1125,639,1151"/>
+<area shape="rect" id="node43" href="$sign_8cpp.html#a035cafdfcfe42244cb911390ba14a9a7" title="UpdateTransaction" alt="" coords="511,1045,642,1071"/>
+<area shape="rect" id="node40" href="$interpreter_8cpp.html#af223e3d69a83b4de8aae7792ae131706" title="VerifyScript" alt="" coords="750,1045,839,1071"/>
+<area shape="rect" id="node42" href="$class_base_signature_creator.html#ab8059fcbe3b870c4b20fa4192a75cbe7" title="BaseSignatureCreator\l::Checker" alt="" coords="720,1147,869,1188"/>
+<area shape="rect" id="node41" href="$struct_c_script_witness.html#a6b98b34341614c288d8632b895cdb252" title="CScriptWitness::IsNull" alt="" coords="935,1162,1089,1189"/>
+<area shape="rect" id="node45" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="553,1289,601,1315"/>
+<area shape="rect" id="node46" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="751,1314,838,1341"/>
+<area shape="rect" id="node48" href="$class_c_script.html#ae81b29e2e86343bedacfd4e0ef87bca6" title="CScript::EncodeOP_N" alt="" coords="501,1441,653,1467"/>
+<area shape="rect" id="node50" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="540,1542,613,1569"/>
+</map>

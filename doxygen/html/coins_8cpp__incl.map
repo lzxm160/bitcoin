@@ -1,0 +1,23 @@
+<map id="E:/renesola/work/bitcoin/src/coins.cpp" name="E:/renesola/work/bitcoin/src/coins.cpp">
+<area shape="rect" id="node2" href="$coins_8h.html" title="coins.h" alt="" coords="1480,95,1544,121"/>
+<area shape="rect" id="node31" href="$memusage_8h.html" title="memusage.h" alt="" coords="1137,244,1234,271"/>
+<area shape="rect" id="node40" href="$random_8h.html" title="random.h" alt="" coords="1949,393,2025,420"/>
+<area shape="rect" id="node3" href="$compressor_8h.html" title="compressor.h" alt="" coords="964,244,1065,271"/>
+<area shape="rect" id="node6" href="$serialize_8h.html" title="serialize.h" alt="" coords="695,468,777,495"/>
+<area shape="rect" id="node8" href="$stdint_8h.html" title="stdint.h" alt="" coords="1337,767,1402,793"/>
+<area shape="rect" id="node27" href="$uint256_8h.html" title="uint256.h" alt="" coords="1525,468,1600,495"/>
+<area shape="rect" id="node29" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="959,169,1089,196"/>
+<area shape="rect" id="node36" href="$hash_8h.html" title="hash.h" alt="" coords="373,393,435,420"/>
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="652,319,807,345"/>
+<area shape="rect" id="node23" href="$script_8h.html" title="script/script.h" alt="" coords="1212,468,1313,495"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="629,393,705,420"/>
+<area shape="rect" id="node7" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1258,617,1377,644"/>
+<area shape="rect" id="node20" href="$prevector_8h.html" title="prevector.h" alt="" coords="693,543,779,569"/>
+<area shape="rect" id="node9" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1302,692,1437,719"/>
+<area shape="rect" id="node24" href="$common_8h.html" title="crypto/common.h" alt="" coords="1413,543,1536,569"/>
+<area shape="rect" id="node30" href="$primitives_2block_8h.html" title="primitives/block.h" alt="" coords="684,244,807,271"/>
+<area shape="rect" id="node32" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="1135,319,1235,345"/>
+<area shape="rect" id="node37" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="5,543,139,569"/>
+<area shape="rect" id="node38" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="163,543,277,569"/>
+<area shape="rect" id="node39" href="$version_8h.html" title="version.h" alt="" coords="403,468,477,495"/>
+</map>

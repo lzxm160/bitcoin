@@ -1,0 +1,16 @@
+<map id="test_ecdsa_edge_cases" name="test_ecdsa_edge_cases">
+<area shape="rect" id="node2" href="$secp256k1_8h.html#a3ec29bece9974f9535337eb7d91b351c" title="secp256k1_context_set\l_illegal_callback" alt="" coords="229,5,389,47"/>
+<area shape="rect" id="node3" href="$secp256k1_8h.html#a691c048f3a3b4e7f51417c57ec058be7" title="secp256k1_ecdsa_sign" alt="" coords="230,71,389,98"/>
+<area shape="rect" id="node4" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="451,325,605,367"/>
+<area shape="rect" id="node5" href="$secp256k1_8h.html#a41065390f9039c4140ec04999724987d" title="secp256k1_ecdsa_verify" alt="" coords="228,173,391,199"/>
+<area shape="rect" id="node6" href="$secp256k1_8h.html#ac07809ca872ec967ab4d3b1a95eafe0b" title="secp256k1_ecdsa_signature\l_serialize_der" alt="" coords="216,224,403,265"/>
+<area shape="rect" id="node7" href="$secp256k1_8h.html#a57d390dd5baa54855b0cb20628034b90" title="secp256k1_ecdsa_signature\l_parse_der" alt="" coords="216,289,403,331"/>
+<area shape="rect" id="node8" href="$secp256k1_8h.html#a93ec36a19229f08acc5ff1ca613ab3a1" title="secp256k1_ecdsa_signature\l_normalize" alt="" coords="216,355,403,396"/>
+<area shape="rect" id="node9" href="$secp256k1_8h.html#af8571ca8dcfb7f892519b337504dc700" title="secp256k1_ecdsa_signature\l_serialize_compact" alt="" coords="216,420,403,461"/>
+<area shape="rect" id="node10" href="$secp256k1_8h.html#a2aff2802eca3d15ec54298e879579897" title="secp256k1_ecdsa_signature\l_parse_compact" alt="" coords="216,485,403,527"/>
+<area shape="rect" id="node11" href="$tests_8c.html#a7e817ef3d73f5d5b1dbf1ccffa0cf77b" title="is_empty_signature" alt="" coords="242,551,377,578"/>
+<area shape="rect" id="node12" href="$lax__der__privatekey__parsing_8c.html#a9ff2773bdc052e3af4def4afb183c95c" title="ec_privkey_export_der" alt="" coords="234,602,385,629"/>
+<area shape="rect" id="node13" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="492,573,564,599"/>
+<area shape="rect" id="node15" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="451,624,605,665"/>
+<area shape="rect" id="node14" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="653,573,735,599"/>
+</map>

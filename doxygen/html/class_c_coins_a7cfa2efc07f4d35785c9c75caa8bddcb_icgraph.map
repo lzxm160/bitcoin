@@ -1,0 +1,24 @@
+<map id="CCoins::Cleanup" name="CCoins::Cleanup">
+<area shape="rect" id="node2" href="$class_c_coins.html#a0acc5f3849c1c41386d9450a3ee3a3c8" title="mark a vout spent " alt="" coords="206,195,315,221"/>
+<area shape="rect" id="node19" href="$class_c_coins.html#ad8b649abb32bdba255adec6dcfd57fc5" title="CCoins::ClearUnspendable" alt="" coords="172,259,349,285"/>
+<area shape="rect" id="node23" href="$class_c_coins.html#adaa98cb6d8da3a4d573cd799ddd11051" title="CCoins::Unserialize" alt="" coords="193,309,329,336"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a76ffac026788c8c1e6d55fb1beae0962" title="UpdateCoins" alt="" coords="437,144,533,171"/>
+<area shape="rect" id="node17" href="$class_c_tx_mem_pool.html#ad6142b7cd3a58dae6cdaf03551c2f989" title="CTxMemPool::pruneSpent" alt="" coords="397,195,572,221"/>
+<area shape="rect" id="node4" href="$main_8h.html#ae9afb0553a9927e26785f4e4806a9892" title="UpdateCoins" alt="" coords="667,43,763,69"/>
+<area shape="rect" id="node5" href="$main_8h.html#aa57c8df97fb2e5339d528d6f30c9c808" title="ConnectBlock" alt="" coords="664,93,767,120"/>
+<area shape="rect" id="node15" href="$coins__tests_8cpp.html#af3770f27be29a13e0309d2a31fe30eff" title="BOOST_AUTO_TEST_CASE" alt="" coords="620,245,811,272"/>
+<area shape="rect" id="node16" href="$class_c_tx_mem_pool.html#ad74247cc4eb672fb9063d4e9503f4cf0" title="CTxMemPool::check" alt="" coords="644,144,787,171"/>
+<area shape="rect" id="node6" href="$main_8h.html#a12c39e969c9077605ae8a91730fb78d3" title="TestBlockValidity" alt="" coords="868,93,991,120"/>
+<area shape="rect" id="node13" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="859,260,1000,287"/>
+<area shape="rect" id="node7" href="$class_block_assembler.html#acd45f01ed2556e805c82907def19efcb" title="BlockAssembler::CreateNew\lBlock" alt="" coords="1048,57,1236,98"/>
+<area shape="rect" id="node8" href="$mining_8cpp.html#a054ca23f5d86a8ca30138464ba10008c" title="getblocktemplate" alt="" coords="1305,123,1427,149"/>
+<area shape="rect" id="node9" href="$miner__tests_8cpp.html#aeed1f0d9588f9aecb80a2f7b82d0941e" title="TestPackageSelection" alt="" coords="1290,5,1442,32"/>
+<area shape="rect" id="node11" href="$struct_test_chain100_setup.html#a5602b576453958c0e53b293e9ed7db46" title="TestChain100Setup::\lCreateAndProcessBlock" alt="" coords="1284,57,1448,98"/>
+<area shape="rect" id="node10" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="1496,5,1687,32"/>
+<area shape="rect" id="node12" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="1520,57,1663,98"/>
+<area shape="rect" id="node14" href="$blockchain_8cpp.html#a30b96575c158ca0465dbdb25705c4ca9" title="verifychain" alt="" coords="1101,260,1183,287"/>
+<area shape="rect" id="node18" href="$blockchain_8cpp.html#a5d2241797e79623e7a558ab617415652" title="gettxout" alt="" coords="681,195,750,221"/>
+<area shape="rect" id="node20" href="$class_c_coins.html#abf67e501a1d207c892c1f52dd383956e" title="CCoins::FromTx" alt="" coords="427,259,543,285"/>
+<area shape="rect" id="node22" href="$main_8h.html#a8611a8552630b4821d47a4a154890a30" title="DisconnectBlock" alt="" coords="425,335,545,361"/>
+<area shape="rect" id="node21" href="$class_c_coins.html#a303f3b245c339c11a1ea4318b01ec290" title="construct a CCoins from a CTransaction, at a given height " alt="" coords="658,296,773,323"/>
+</map>

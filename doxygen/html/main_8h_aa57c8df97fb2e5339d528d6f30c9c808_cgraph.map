@@ -1,0 +1,51 @@
+<map id="ConnectBlock" name="ConnectBlock">
+<area shape="rect" id="node2" href="$utiltime_8cpp.html#a0c5a06b50cd805b1923552114494c029" title="GetTimeMicros" alt="" coords="207,5,318,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#abc9c65975a473d224b3b97b89d571942" title="CheckBlock" alt="" coords="217,401,309,428"/>
+<area shape="rect" id="node5" href="$class_c_block_header.html#ae1165e54882d364b030fb33673d64dbd" title="CBlockHeader::GetHash" alt="" coords="684,165,848,192"/>
+<area shape="rect" id="node6" href="$class_c_validation_state.html#a084ab7448f23966f0650d3ca53d0b88a" title="CValidationState::DoS" alt="" coords="690,528,842,555"/>
+<area shape="rect" id="node8" href="$serialize_8h.html#a48239e478ae730373d1984fe304ca025" title="GetSerializeSize" alt="" coords="707,325,825,352"/>
+<area shape="rect" id="node10" href="$class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51" title="CTransaction::IsCoinBase" alt="" coords="680,1243,852,1269"/>
+<area shape="rect" id="node14" href="$class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990" title="CTransaction::GetHash" alt="" coords="446,781,603,808"/>
+<area shape="rect" id="node15" href="$classbase__blob.html#a1a26b5da921f48b09b228d1bfda05088" title="base_blob::ToString" alt="" coords="456,157,593,184"/>
+<area shape="rect" id="node16" href="$class_c_chain_params.html#a34b124f87e3b7864fec208ba8879e9e9" title="CChainParams::GetConsensus" alt="" coords="161,553,364,580"/>
+<area shape="rect" id="node17" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="239,604,287,631"/>
+<area shape="rect" id="node18" href="$main_8cpp.html#a86ed1d2d0837b905d74c2e4192b6c06a" title="FormatStateMessage" alt="" coords="189,267,336,293"/>
+<area shape="rect" id="node19" href="$class_c_block_index.html#ab843ef9b8b0a0193ec3a5c24738e484f" title="CBlockIndex::GetBlockHash" alt="" coords="169,705,356,732"/>
+<area shape="rect" id="node20" href="$class_c_coins_view_cache.html#aabcd1da9f28445e09c9af5f68ce7f100" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="170,757,355,798"/>
+<area shape="rect" id="node21" href="$class_c_coins_view_cache.html#aa3f787f77b123f0fd340fbe4e458b4ad" title="CCoinsViewCache::SetBest\lBlock" alt="" coords="171,822,355,863"/>
+<area shape="rect" id="node22" href="$namespace_checkpoints.html#afe6d974f9851567cd7f0c6066e0919b5" title="Returns last CBlockIndex* in mapBlockIndex that is a checkpoint. " alt="" coords="156,888,369,915"/>
+<area shape="rect" id="node23" href="$class_c_chain_params.html#af71a8a6f78167a9f2eac75f663233ac5" title="CChainParams::Checkpoints" alt="" coords="168,939,357,965"/>
+<area shape="rect" id="node24" href="$class_c_block_index.html#ae1f702384690c6b8302e026a84172ef3" title="Efficiently find an ancestor of this block. " alt="" coords="175,989,351,1016"/>
+<area shape="rect" id="node25" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="226,1040,299,1067"/>
+<area shape="rect" id="node26" href="$class_c_coins_view_cache.html#a2b72aa925d9c1a1bd662f7e2852059d9" title="CCoinsViewCache::AccessCoins" alt="" coords="417,1293,632,1320"/>
+<area shape="rect" id="node27" href="$class_c_coins.html#af28a2e44f0b41c3a4a6366607b4b8f81" title="CCoins::IsPruned" alt="" coords="201,1141,324,1168"/>
+<area shape="rect" id="node28" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="170,1192,355,1219"/>
+<area shape="rect" id="node29" href="$versionbits_8cpp.html#a90d3b0a121694c9559dddcdd848757be" title="VersionBitsState" alt="" coords="465,1635,585,1661"/>
+<area shape="rect" id="node30" href="$main_8cpp.html#acb0226867d001d0edd267f2e4842bace" title="IsWitnessEnabled" alt="" coords="199,1597,326,1624"/>
+<area shape="rect" id="node31" href="$class_c_block_index.html#ae2b58426ae9365dce6cfacc5d0c92e44" title="CBlockIndex::GetBlockPos" alt="" coords="173,1344,353,1371"/>
+<area shape="rect" id="node32" href="$serialize_8h.html#a404beecbf8d7aec8d2cdac3cbb71e808" title="GetSizeOfCompactSize" alt="" coords="183,1395,343,1421"/>
+<area shape="rect" id="node33" href="$class_c_coins_view_cache.html#a2b547a48709e9f9af9a4cfc77a328a3f" title="Check whether all prevouts of the transaction are present in the UTXO set represented by this view..." alt="" coords="163,1445,363,1472"/>
+<area shape="rect" id="node34" href="$main_8cpp.html#af23a43e92a13ed6bac9f342aa5f935c6" title="SequenceLocks" alt="" coords="205,1496,320,1523"/>
+<area shape="rect" id="node35" href="$main_8cpp.html#a9492095e3b49db30b5496655698f5aad" title="GetTransactionSigOpCost" alt="" coords="438,1761,611,1788"/>
+<area shape="rect" id="node36" href="$class_c_coins_view_cache.html#a7fd5ad106e1ac2c2770005672421ff93" title="CCoinsViewCache::GetValueIn" alt="" coords="424,1508,625,1535"/>
+<area shape="rect" id="node37" href="$class_c_transaction.html#aef472df5cb11c53281d975ee9e7cf133" title="CTransaction::GetValueOut" alt="" coords="172,1648,353,1675"/>
+<area shape="rect" id="node38" href="$main_8cpp.html#ab89558337c8bacb727146a6378399e48" title="CheckInputs" alt="" coords="215,503,310,529"/>
+<area shape="rect" id="node39" href="$class_c_check_queue_control.html#aa11e8248c91b0758b39132db4090ff8d" title="CCheckQueueControl::Add" alt="" coords="173,1749,352,1776"/>
+<area shape="rect" id="node40" href="$main_8cpp.html#a76ffac026788c8c1e6d55fb1beae0962" title="UpdateCoins" alt="" coords="215,1091,311,1117"/>
+<area shape="rect" id="node41" href="$main_8cpp.html#a3e7cb06e156ad8400b9214479e946187" title="GetBlockSubsidy" alt="" coords="201,1851,324,1877"/>
+<area shape="rect" id="node42" href="$class_c_check_queue_control.html#ab31d809a76b876d21608c0c5d0e3baf0" title="CCheckQueueControl\l::Wait" alt="" coords="189,1902,336,1943"/>
+<area shape="rect" id="node43" href="$class_c_block_index.html#a62654ef291abc44d2e32db9a8d85b7d1" title="CBlockIndex::GetUndoPos" alt="" coords="174,1968,351,1995"/>
+<area shape="rect" id="node44" href="$struct_c_disk_block_pos.html#a924f2805b274345afce890b27a0934d9" title="CDiskBlockPos::IsNull" alt="" coords="186,2019,339,2045"/>
+<area shape="rect" id="node45" href="$class_c_block_index.html#ab79ac7f3db34001898a371ecce27808f" title="Check whether this block index entry is valid up to the passed validity level. " alt="" coords="191,2069,334,2096"/>
+<area shape="rect" id="node46" href="$main_8cpp.html#a16dd07301ce5269712d7936840c0217f" title="FindUndoPos" alt="" coords="213,2120,313,2147"/>
+<area shape="rect" id="node47" href="$class_c_chain_params.html#ae4f7e42b4fa574aad4e2688f574227da" title="CChainParams::MessageStart" alt="" coords="163,2171,362,2197"/>
+<area shape="rect" id="node48" href="$class_c_block_index.html#a076aff906933e9d75a37aa9b81c01384" title="CBlockIndex::RaiseValidity" alt="" coords="173,2221,352,2248"/>
+<area shape="rect" id="node49" href="$class_c_block_tree_d_b.html#a1e03745f9675ad352a1483a0aa7ef308" title="CBlockTreeDB::WriteTxIndex" alt="" coords="167,2272,358,2299"/>
+<area shape="rect" id="node50" href="$validationinterface_8cpp.html#a0aaad62c8654cb1868295e0682b05866" title="GetMainSignals" alt="" coords="205,2323,320,2349"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ab614834058e311f0add85dfb327f4d23" title="CheckBlockHeader" alt="" coords="458,376,591,403"/>
+<area shape="rect" id="node7" href="$merkle_8cpp.html#aa6eda15268d7ec708195aed9b5d9eab3" title="BlockMerkleRoot" alt="" coords="464,528,585,555"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a3d8c4ba3a0c2b7a05cab21c95a886fbe" title="CheckTransaction" alt="" coords="461,427,588,453"/>
+<area shape="rect" id="node11" href="$class_c_validation_state.html#a1646cea7505a779d16ca77237ec1e621" title="CValidationState::Invalid" alt="" coords="443,579,606,605"/>
+<area shape="rect" id="node12" href="$class_c_validation_state.html#acd7ebd36b71c43bcbce3a070fbb1dae6" title="CValidationState::GetRejectCode" alt="" coords="417,208,632,235"/>
+<area shape="rect" id="node13" href="$class_c_validation_state.html#a2e7ea577adfdf90aaff44ad0fa16adde" title="CValidationState::GetReject\lReason" alt="" coords="432,259,617,301"/>
+</map>

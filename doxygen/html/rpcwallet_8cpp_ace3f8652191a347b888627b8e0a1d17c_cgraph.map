@@ -1,0 +1,51 @@
+<map id="importprivkey" name="importprivkey">
+<area shape="rect" id="node2" href="$rpcdump_8cpp.html#ac9a5dd7d31080f8d2551dce06d3be0e1" title="EnsureWalletIsAvailable" alt="" coords="189,31,351,57"/>
+<area shape="rect" id="node3" href="$rpc_2protocol_8cpp.html#a41a2234c99900304357a44796b2259d5" title="JSONRPCError" alt="" coords="492,31,603,57"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="217,689,323,716"/>
+<area shape="rect" id="node7" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="213,740,327,767"/>
+<area shape="rect" id="node8" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="209,791,331,817"/>
+<area shape="rect" id="node9" href="$rpcdump_8cpp.html#a8f837f6d506b9719cef93188db00fd3c" title="EnsureWalletIsUnlocked" alt="" coords="188,132,352,159"/>
+<area shape="rect" id="node12" href="$class_uni_value.html#a9f69bbd4ccf8d083934cbb510c039cef" title="UniValue::get_str" alt="" coords="209,841,331,868"/>
+<area shape="rect" id="node13" href="$class_c_bitcoin_secret.html#a6a8aff02f66099f33f573ad3e6375bb1" title="CBitcoinSecret::SetString" alt="" coords="185,892,355,919"/>
+<area shape="rect" id="node16" href="$class_c_bitcoin_secret.html#a4d6bf559d092e6d47f8001c7171096df" title="CBitcoinSecret::GetKey" alt="" coords="189,943,351,969"/>
+<area shape="rect" id="node18" href="$class_c_key.html#a62094263b7422a45b45ac508396f19eb" title="Check whether this private key is valid. " alt="" coords="219,993,321,1020"/>
+<area shape="rect" id="node19" href="$class_c_key.html#ae4b61da6ec62f676fe6362ac5fc26aca" title="CKey::GetPubKey" alt="" coords="483,487,612,513"/>
+<area shape="rect" id="node26" href="$class_c_key.html#a3890764f7a2e5d9cdeffb3e102e4545d" title="CKey::VerifyPubKey" alt="" coords="199,639,341,665"/>
+<area shape="rect" id="node33" href="$class_c_pub_key.html#a9c1908fef34fd9e1c4b5e0ffd5d3834e" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="488,537,607,564"/>
+<area shape="rect" id="node35" href="$group__map_wallet.html#ga26fd9a9f48230daf346500d2afb6115e" title="CWallet::MarkDirty" alt="" coords="204,1044,336,1071"/>
+<area shape="rect" id="node37" href="$group___actions.html#ga53e5528d7005608594e73f500bc5bb8f" title="CWallet::SetAddressBook" alt="" coords="183,1107,357,1133"/>
+<area shape="rect" id="node41" href="$class_c_crypto_key_store.html#a0cefe933dd3a6ac7744432493696bffc" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="179,183,361,209"/>
+<area shape="rect" id="node43" href="$group__map_wallet.html#ga3240da36cd717146296969227a3e0bd5" title="Adds a key to the store, and saves it to disk. " alt="" coords="186,385,354,412"/>
+<area shape="rect" id="node49" href="$group__map_wallet.html#ga979a17e80e4897ed1f4ae9a4be7c493c" title="CWallet::ScanForWalletTransactions" alt="" coords="152,1157,388,1184"/>
+<area shape="rect" id="node50" href="$class_c_chain.html#a1eee0372da596a8fc68369e480adc2f1" title="CChain::Genesis" alt="" coords="210,1208,330,1235"/>
+<area shape="rect" id="node4" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="774,56,822,83"/>
+<area shape="rect" id="node5" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="725,5,871,32"/>
+<area shape="rect" id="node10" href="$class_c_crypto_key_store.html#a1c3ebef555fd13676d67509b95820fcf" title="CCryptoKeyStore::IsLocked" alt="" coords="707,183,889,209"/>
+<area shape="rect" id="node11" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="937,183,1124,209"/>
+<area shape="rect" id="node14" href="$class_c_base58_data.html#a250fa3bc97d03c7d87de5485c8b49b57" title="CBase58Data::SetString" alt="" coords="465,892,629,919"/>
+<area shape="rect" id="node15" href="$class_c_bitcoin_secret.html#a4662c854955af56c047d0e9052096fba" title="CBitcoinSecret::IsValid" alt="" coords="469,943,625,969"/>
+<area shape="rect" id="node17" href="$class_c_key.html#aaa13d5f08456bba094210c5eeabf64c8" title="Initialize using begin and end iterators to byte data. " alt="" coords="506,993,589,1020"/>
+<area shape="rect" id="node20" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="721,553,875,594"/>
+<area shape="rect" id="node21" href="$class_c_key.html#aabd29e0d5faf30032cc8519a1ce62a5a" title="CKey::begin" alt="" coords="751,385,845,412"/>
+<area shape="rect" id="node22" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="721,487,875,529"/>
+<area shape="rect" id="node23" href="$class_c_pub_key.html#add9987e0d25aff11181f5ad70413994b" title="CPubKey::begin" alt="" coords="740,335,856,361"/>
+<area shape="rect" id="node24" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="976,644,1085,671"/>
+<area shape="rect" id="node25" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="736,619,860,645"/>
+<area shape="rect" id="node27" href="$class_c_pub_key.html#a397e437d9d0a008e2641892147b0931a" title="Check whether this is a compressed public key. " alt="" coords="714,872,882,899"/>
+<area shape="rect" id="node28" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="494,639,601,665"/>
+<area shape="rect" id="node29" href="$class_c_hash256.html#a9cc25033c6435cb28e2e8e377c949a7a" title="CHash256::Write" alt="" coords="487,689,608,716"/>
+<area shape="rect" id="node30" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="738,771,858,797"/>
+<area shape="rect" id="node31" href="$class_c_key.html#a3b161899b4fa79f5a7036d2ccf12ce3a" title="CKey::Sign" alt="" coords="503,588,591,615"/>
+<area shape="rect" id="node32" href="$class_c_pub_key.html#ab4047c7ce31b72591d8108a2563cd21b" title="CPubKey::Verify" alt="" coords="488,740,607,767"/>
+<area shape="rect" id="node34" href="$hash_8h.html#a4490f70ddae16e9e48460a0416a48a6b" title="Hash160" alt="" coords="761,720,835,747"/>
+<area shape="rect" id="node36" href="$class_c_wallet_tx.html#ac8a376bcb955e437489504dc596b43cf" title="make sure balances are recalculated " alt="" coords="474,1044,621,1071"/>
+<area shape="rect" id="node38" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="517,1119,577,1145"/>
+<area shape="rect" id="node39" href="$class_c_wallet_d_b.html#a8d4e8d73b977dc62c137bd3543c278bf" title="CWalletDB::WritePurpose" alt="" coords="461,1169,634,1196"/>
+<area shape="rect" id="node40" href="$class_c_wallet_d_b.html#ad1b3bce77e9dd6ddd8c668a469c38f0a" title="CWalletDB::WriteName" alt="" coords="468,1220,627,1247"/>
+<area shape="rect" id="node42" href="$class_c_basic_key_store.html#a29a60832d549913b1fa8be77b95205a5" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="459,183,636,209"/>
+<area shape="rect" id="node44" href="$class_c_crypto_key_store.html#a340109b8673267676a34664a76ed3274" title="Add a key to the store. " alt="" coords="436,233,659,260"/>
+<area shape="rect" id="node45" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="GetScriptForDestination" alt="" coords="467,284,628,311"/>
+<area shape="rect" id="node46" href="$standard_8cpp.html#aa376c6e2bc4848cfd4f777f8dd239469" title="GetScriptForRawPubKey" alt="" coords="464,385,631,412"/>
+<area shape="rect" id="node47" href="$class_c_wallet_d_b.html#a7ebef5e0c7f604aa2159ba96d527e3a2" title="CWalletDB::WriteKey" alt="" coords="473,335,621,361"/>
+<area shape="rect" id="node48" href="$class_c_key.html#ab38813e7091f658612dfb14f17c9e317" title="CKey::GetPrivKey" alt="" coords="484,436,611,463"/>
+</map>

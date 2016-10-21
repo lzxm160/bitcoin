@@ -1,0 +1,9 @@
+<map id="CAddrInfo::GetNewBucket" name="CAddrInfo::GetNewBucket">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="261,56,383,83"/>
+<area shape="rect" id="node7" href="$class_c_addr_info.html#aee08d115a3314aa8c960fbff960f62b2" title="Calculate in which &quot;new&quot; bucket this entry belongs, using its default source. " alt="" coords="235,107,409,133"/>
+<area shape="rect" id="node8" href="$addrman__tests_8cpp.html#a905125589b2b8d1aa3f22093d6293ff7" title="BOOST_AUTO_TEST_CASE" alt="" coords="227,157,417,184"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="465,56,580,83"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="635,5,825,32"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="628,56,832,83"/>
+<area shape="rect" id="node6" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="635,107,825,133"/>
+</map>

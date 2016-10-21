@@ -1,0 +1,5 @@
+<map id="ReceiveCoinsDialog::clear" name="ReceiveCoinsDialog::clear">
+<area shape="rect" id="node2" href="$class_receive_coins_dialog.html#af6363e303b255dae972e71b7f730bac1" title="ReceiveCoinsDialog\l::ReceiveCoinsDialog" alt="" coords="189,5,333,47"/>
+<area shape="rect" id="node3" href="$class_receive_coins_dialog.html#aeed78dd55cfc9def8b1b3ec3cec4bc11" title="ReceiveCoinsDialog\l::reject" alt="" coords="193,71,329,112"/>
+<area shape="rect" id="node4" href="$class_receive_coins_dialog.html#aa34d81582b9a1c4311e5cf551aab415e" title="ReceiveCoinsDialog\l::accept" alt="" coords="193,136,329,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BitcoinUnits::maxMoney" name="BitcoinUnits::maxMoney">
+<area shape="rect" id="node2" href="$class_amount_spin_box.html#a055616d98771e6fcef3ee225d7b09ee9" title="AmountSpinBox::stepBy" alt="" coords="248,5,413,32"/>
+<area shape="rect" id="node3" href="$class_amount_spin_box.html#a9b076524ead3bd646dfa5889e48d0218" title="AmountSpinBox::minimumSizeHint" alt="" coords="217,56,444,83"/>
+<area shape="rect" id="node4" href="$class_amount_spin_box.html#a08f9cce15aa3b35b66a2f8d2ff8c455c" title="AmountSpinBox::stepEnabled" alt="" coords="233,107,429,133"/>
+</map>

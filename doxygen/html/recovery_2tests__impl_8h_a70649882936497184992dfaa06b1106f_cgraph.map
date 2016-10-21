@@ -1,0 +1,12 @@
+<map id="test_ecdsa_recovery_end_to_end" name="test_ecdsa_recovery_end_to_end">
+<area shape="rect" id="node2" href="$tests_8c.html#a51e09e6745e0afdb0d596ee0f4b3c3f7" title="random_scalar_order_test" alt="" coords="208,5,380,32"/>
+<area shape="rect" id="node3" href="$secp256k1_8h.html#a366f922fc0c787351e82ff8e3a95f652" title="secp256k1_ec_seckey\l_verify" alt="" coords="217,57,371,98"/>
+<area shape="rect" id="node4" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="217,122,371,163"/>
+<area shape="rect" id="node5" href="$secp256k1__recovery_8h.html#a1b1f4423a232f681e90e5f9d28f3d148" title="secp256k1_ecdsa_sign\l_recoverable" alt="" coords="215,187,373,229"/>
+<area shape="rect" id="node6" href="$secp256k1_8h.html#a691c048f3a3b4e7f51417c57ec058be7" title="secp256k1_ecdsa_sign" alt="" coords="215,253,373,280"/>
+<area shape="rect" id="node7" href="$secp256k1__recovery_8h.html#a12f08c89ceb61949c6a4ec6eb2511185" title="secp256k1_ecdsa_recoverable\l_signature_serialize_compact" alt="" coords="195,305,393,346"/>
+<area shape="rect" id="node8" href="$secp256k1__recovery_8h.html#ad7a20c9f7ccd9fc6d75a19a3b4195aa5" title="secp256k1_ecdsa_recoverable\l_signature_convert" alt="" coords="195,370,393,411"/>
+<area shape="rect" id="node9" href="$secp256k1_8h.html#a41065390f9039c4140ec04999724987d" title="secp256k1_ecdsa_verify" alt="" coords="213,436,375,463"/>
+<area shape="rect" id="node10" href="$secp256k1__recovery_8h.html#a6699b45dc75be70f028ac7d8ffaba46e" title="secp256k1_ecdsa_recoverable\l_signature_parse_compact" alt="" coords="195,487,393,529"/>
+<area shape="rect" id="node11" href="$secp256k1__recovery_8h.html#a7e156c6f4be24b07f4a563210dcb1a2e" title="secp256k1_ecdsa_recover" alt="" coords="207,553,381,580"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CAddrMan::Create" name="CAddrMan::Create">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="199,56,321,83"/>
+<area shape="rect" id="node7" href="$class_c_addr_man_test.html#ad6eeff9cd2c48eb2be42c8dfe283159b" title="CAddrManTest::Create" alt="" coords="183,107,337,133"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="423,56,538,83"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="631,5,821,32"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="624,56,828,83"/>
+<area shape="rect" id="node6" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="631,107,821,133"/>
+<area shape="rect" id="node8" href="$addrman__tests_8cpp.html#af1b5cf3248afff056f8837577615e73e" title="BOOST_AUTO_TEST_CASE" alt="" coords="385,107,576,133"/>
+</map>

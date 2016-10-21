@@ -1,0 +1,7 @@
+<map id="WalletView::updateEncryptionStatus" name="WalletView::updateEncryptionStatus">
+<area shape="rect" id="node2" href="$class_wallet_frame.html#ab6d4f86307bf1b28b53c2583c5166905" title="WalletFrame::setCurrentWallet" alt="" coords="249,5,451,32"/>
+<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="257,56,443,83"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a164c3de8fc69ef6f39fb7c15e4bda553" title="WalletView::encryptWallet" alt="" coords="263,107,437,133"/>
+<area shape="rect" id="node4" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="509,56,672,83"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#a8a9a419ba3e249f29fe321f2d789b761" title="WalletFrame::encryptWallet" alt="" coords="499,107,683,133"/>
+</map>

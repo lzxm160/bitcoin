@@ -1,0 +1,9 @@
+<map id="ProcessNewBlock" name="ProcessNewBlock">
+<area shape="rect" id="node2" href="$mining_8cpp.html#aaae0f2a327448cdc3c6f47104c452e5f" title="generateBlocks" alt="" coords="221,31,333,57"/>
+<area shape="rect" id="node5" href="$mining_8cpp.html#a220fade8a685be34364aad455f99f6d6" title="submitblock" alt="" coords="231,81,323,108"/>
+<area shape="rect" id="node6" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="181,132,372,159"/>
+<area shape="rect" id="node7" href="$struct_test_chain100_setup.html#a5602b576453958c0e53b293e9ed7db46" title="TestChain100Setup::\lCreateAndProcessBlock" alt="" coords="195,183,359,225"/>
+<area shape="rect" id="node3" href="$mining_8cpp.html#afc5f2c0cbe40a2f876b46df2929cf359" title="generate" alt="" coords="455,5,527,32"/>
+<area shape="rect" id="node4" href="$mining_8cpp.html#a848ee6ea1fe991feaa38ca99f3a14ebb" title="generatetoaddress" alt="" coords="427,56,556,83"/>
+<area shape="rect" id="node8" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="420,183,563,225"/>
+</map>

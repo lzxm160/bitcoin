@@ -1,0 +1,11 @@
+<map id="CTxMemPool::estimateSmartFee" name="CTxMemPool::estimateSmartFee">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#acc6d4370b7b3942507647904043b181a" title="CBlockPolicyEstimator\l::estimateSmartFee" alt="" coords="268,113,424,154"/>
+<area shape="rect" id="node3" href="$class_tx_confirm_stats.html#ab2b42aa0beab3ed825ccc8486dfc0a84" title="TxConfirmStats::GetMaxConfirms" alt="" coords="692,5,908,32"/>
+<area shape="rect" id="node4" href="$class_tx_confirm_stats.html#a7ac4f70e6029ecf06e8d1528ab9c33f1" title="TxConfirmStats::Estimate\lMedianVal" alt="" coords="473,54,643,95"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a56f7bb294117be90abcde1d915eefdd3" title="CTxMemPool::GetMinFee" alt="" coords="472,120,644,147"/>
+<area shape="rect" id="node8" href="$class_c_fee_rate.html#a5cf990404e896b332cf6fb836244b4a6" title="CFeeRate::GetFeePerK" alt="" coords="720,175,880,201"/>
+<area shape="rect" id="node10" href="$util_8cpp.html#a24f685720bf40370e5bd2a192ad50cd8" title="GetArg" alt="" coords="527,221,589,248"/>
+<area shape="rect" id="node6" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="765,57,835,84"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#ad1017726b774f953e8dacb0ec69c3cf8" title="CTxMemPool::DynamicMemory\lUsage" alt="" coords="697,109,903,150"/>
+<area shape="rect" id="node9" href="$class_c_fee_rate.html#a81dd5e0549a587d5a0c68096ee1da202" title="CFeeRate::GetFee" alt="" coords="956,175,1087,201"/>
+</map>

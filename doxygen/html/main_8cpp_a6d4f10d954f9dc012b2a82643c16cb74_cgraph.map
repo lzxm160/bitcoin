@@ -1,0 +1,14 @@
+<map id="LimitMempoolSize" name="LimitMempoolSize">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#a283d0422469c908a881a6484308ee2b6" title="CTxMemPool::Expire" alt="" coords="204,56,349,83"/>
+<area shape="rect" id="node6" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="241,187,312,213"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#a75ada1d7bb5d96989cc73ee4a0a158d8" title="CTxMemPool::TrimToSize" alt="" coords="190,136,363,163"/>
+<area shape="rect" id="node13" href="$class_c_coins_view_cache.html#ab0bc342537c7f841bd3e9cf2a4d179dd" title="CCoinsViewCache::Uncache" alt="" coords="183,237,371,264"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#aea6c845956f051442dac0a13975b2192" title="CTxMemPool::CalculateDescendants" alt="" coords="419,56,657,83"/>
+<area shape="rect" id="node5" href="$class_c_tx_mem_pool.html#a4e382cf0488830bfee102380bf0cbcca" title="CTxMemPool::RemoveStaged" alt="" coords="441,5,635,32"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#ad368d8d0f26b8848aeb1109928d60fae" title="CTxMemPool::GetMemPoolChildren" alt="" coords="705,56,936,83"/>
+<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#ad1017726b774f953e8dacb0ec69c3cf8" title="CTxMemPool::DynamicMemory\lUsage" alt="" coords="435,158,641,199"/>
+<area shape="rect" id="node9" href="$class_c_tx_mem_pool.html#a93b2aa8c01fa291d183a82a9e0beeb35" title="CTxMemPool::exists" alt="" coords="467,224,609,251"/>
+<area shape="rect" id="node10" href="$classindirectmap.html#a0ab8936b0eeb9bc8b5a1bb1ed22fce0b" title="indirectmap::lower\l_bound" alt="" coords="475,275,601,317"/>
+<area shape="rect" id="node11" href="$classindirectmap.html#acd46b7ca9e1569854a40327744dde108" title="indirectmap::end" alt="" coords="479,341,597,368"/>
+<area shape="rect" id="node12" href="$class_c_fee_rate.html#ab517bd05a9b78fbd02aabe7d74d7049f" title="CFeeRate::ToString" alt="" coords="470,107,606,133"/>
+</map>

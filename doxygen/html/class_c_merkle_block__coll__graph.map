@@ -1,0 +1,6 @@
+<map id="CMerkleBlock" name="CMerkleBlock">
+<area shape="rect" id="node2" href="$class_c_partial_merkle_tree.html" title="CPartialMerkleTree" alt="" coords="5,185,137,212"/>
+<area shape="rect" id="node3" href="$class_c_block_header.html" title="CBlockHeader" alt="" coords="161,185,267,212"/>
+<area shape="rect" id="node4" href="$classuint256.html" title="uint256" alt="" coords="182,81,246,108"/>
+<area shape="rect" id="node5" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="151,5,277,32"/>
+</map>

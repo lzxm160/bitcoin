@@ -1,0 +1,13 @@
+<map id="WalletModel::getEncryptionStatus" name="WalletModel::getEncryptionStatus">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a89180a13e5b0c2ca7732164b9dec3806" title="WalletModel::updateStatus" alt="" coords="245,9,423,35"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#ae98eaede9493625ce778a0a873b3d124" title="WalletModel::requestUnlock" alt="" coords="241,59,427,86"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#ad348f2ed9f843ef9125ca416307c7412" title="WalletView::updateEncryption\lStatus" alt="" coords="236,111,432,152"/>
+<area shape="rect" id="node11" href="$class_wallet_view.html#ac258d549f0e55ad4f84b9d21848faf02" title="WalletView::unlockWallet" alt="" coords="249,177,419,203"/>
+<area shape="rect" id="node4" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="509,5,653,47"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#ab6d4f86307bf1b28b53c2583c5166905" title="WalletFrame::setCurrentWallet" alt="" coords="480,122,681,149"/>
+<area shape="rect" id="node7" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="488,173,673,199"/>
+<area shape="rect" id="node9" href="$class_wallet_view.html#a164c3de8fc69ef6f39fb7c15e4bda553" title="WalletView::encryptWallet" alt="" coords="493,71,668,98"/>
+<area shape="rect" id="node8" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="740,173,903,199"/>
+<area shape="rect" id="node10" href="$class_wallet_frame.html#a8a9a419ba3e249f29fe321f2d789b761" title="WalletFrame::encryptWallet" alt="" coords="729,71,913,98"/>
+<area shape="rect" id="node12" href="$class_wallet_frame.html#a31b6e87c87b383ef53225b6c2b37f057" title="WalletFrame::unlockWallet" alt="" coords="491,223,670,250"/>
+</map>

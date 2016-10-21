@@ -1,0 +1,11 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_c_addr_man_test.html#a2de4da0e3776ab04c9fef864a109922b" title="Ensure that bucket placement is always the same for testing purposes. " alt="" coords="244,5,468,32"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a8e40f591c179719001f00516668920b5" title="Return the number of (unique) addresses in all tables. " alt="" coords="299,56,413,83"/>
+<area shape="rect" id="node4" href="$class_c_addr_man_test.html#ad6eeff9cd2c48eb2be42c8dfe283159b" title="CAddrManTest::Create" alt="" coords="279,107,433,133"/>
+<area shape="rect" id="node6" href="$class_c_addr_man_test.html#ab2ae70434310d6a19b84bb7283b3a821" title="CAddrManTest::Delete" alt="" coords="279,157,433,184"/>
+<area shape="rect" id="node9" href="$class_c_addr_man_test.html#a57076c225342d5dd4698c75db9939fa8" title="CAddrManTest::Find" alt="" coords="285,208,427,235"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#aac93f51c0580e38a950a0f63b053bedb" title="CAddrMan::Create" alt="" coords="516,107,645,133"/>
+<area shape="rect" id="node7" href="$class_c_addr_man.html#af488eac123030538770dbc4e3b16eb74" title="Delete an entry. It must not be in tried, and have refcount 0. " alt="" coords="517,157,645,184"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a3074bc8e3dcfb5348054613f575dc38e" title="Swap two elements in vRandom. " alt="" coords="693,157,864,184"/>
+<area shape="rect" id="node10" href="$class_c_addr_man.html#ac961ead1a1afde144fc486b6d7c7369d" title="Find an entry. " alt="" coords="523,208,639,235"/>
+</map>

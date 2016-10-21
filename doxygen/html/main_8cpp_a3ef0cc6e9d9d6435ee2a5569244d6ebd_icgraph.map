@@ -1,0 +1,7 @@
+<map id="UnregisterNodeSignals" name="UnregisterNodeSignals">
+<area shape="rect" id="node2" href="$init_8h.html#ac5f038c2b480cf9ef5e19e3eba8dbaf9" title="Shutdown" alt="" coords="264,31,343,57"/>
+<area shape="rect" id="node6" href="$struct_testing_setup.html#a9d7595ffd3a2a579748f56e52b0a685f" title="TestingSetup::~TestingSetup" alt="" coords="208,81,399,108"/>
+<area shape="rect" id="node3" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="491,5,554,32"/>
+<area shape="rect" id="node5" href="$class_bitcoin_core.html#a94f3f4622ba698e321f3a2e0e686129f" title="BitcoinCore::shutdown" alt="" coords="447,56,599,83"/>
+<area shape="rect" id="node4" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="647,5,697,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CWallet::Unlock" name="CWallet::Unlock">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a6d7ebdcf0d28d058c658eb44a6c4a6c6" title="WalletModel::setWalletLocked" alt="" coords="169,13,368,39"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a001d7bf0dae09484298af47da1c84df6" title="walletpassphrase" alt="" coords="207,63,330,90"/>
+<area shape="rect" id="node3" href="$class_ask_passphrase_dialog.html#ac2f176af3693b73870d26ef0bfc6cbb9" title="AskPassphraseDialog\l::accept" alt="" coords="416,5,567,47"/>
+</map>

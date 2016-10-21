@@ -1,0 +1,10 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$classarith__uint256.html#a458133c9f123519646b07e6143f2164f" title="arith_uint256::SetCompact" alt="" coords="245,5,421,32"/>
+<area shape="rect" id="node3" href="$classbase__uint.html#ac9929c28600796a9acf75881bb750576" title="base_uint::GetHex" alt="" coords="267,56,398,83"/>
+<area shape="rect" id="node7" href="$classarith__uint256.html#a943e22c7910b92d5e48c71f420c4ae30" title="arith_uint256::GetCompact" alt="" coords="244,132,421,159"/>
+<area shape="rect" id="node4" href="$arith__uint256_8cpp.html#af4848fa3f8b64d222b5d8a370bc72458" title="ArithToUint256" alt="" coords="511,5,617,32"/>
+<area shape="rect" id="node6" href="$classbase__blob.html#a9541747b1f91f9469ac0aff90665bd32" title="base_blob::GetHex" alt="" coords="497,56,631,83"/>
+<area shape="rect" id="node5" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="707,5,827,32"/>
+<area shape="rect" id="node8" href="$classbase__uint.html#a4867652ab4163a10ac4e3d04f0352423" title="base_uint\&lt; 256 \&gt;::bits" alt="" coords="488,107,640,133"/>
+<area shape="rect" id="node9" href="$classbase__uint.html#abf39b71afc016b333b8996def4c6bc40" title="base_uint\&lt; 256 \&gt;::GetLow64" alt="" coords="469,157,659,184"/>
+</map>

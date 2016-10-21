@@ -1,0 +1,8 @@
+<map id="ParseMoney" name="ParseMoney">
+<area shape="rect" id="node2" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="392,31,461,57"/>
+<area shape="rect" id="node6" href="$util__tests_8cpp.html#a1156520b0b6c0b671ddc24b5b7138553" title="BOOST_AUTO_TEST_CASE" alt="" coords="151,31,341,57"/>
+<area shape="rect" id="node7" href="$class_c_wallet.html#a8a49ee5b4a38ec8330db638b0e5514f3" title="CWallet::ParameterInteraction" alt="" coords="148,81,344,108"/>
+<area shape="rect" id="node3" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="550,5,613,32"/>
+<area shape="rect" id="node5" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="509,56,653,83"/>
+<area shape="rect" id="node4" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="701,5,752,32"/>
+</map>

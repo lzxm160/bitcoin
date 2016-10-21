@@ -1,0 +1,5 @@
+<map id="CCoinsViewCache::HaveInputs" name="CCoinsViewCache::HaveInputs">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51" title="CTransaction::IsCoinBase" alt="" coords="275,5,447,32"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#a2b72aa925d9c1a1bd662f7e2852059d9" title="CCoinsViewCache::AccessCoins" alt="" coords="253,56,468,83"/>
+<area shape="rect" id="node4" href="$class_c_coins.html#a69bdcbac02e1644cb02b2645068777b5" title="check whether a particular output is still available " alt="" coords="294,107,427,133"/>
+</map>

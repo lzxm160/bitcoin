@@ -1,0 +1,42 @@
+<map id="walletpassphrase" name="walletpassphrase">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#ac9a5dd7d31080f8d2551dce06d3be0e1" title="EnsureWalletIsAvailable" alt="" coords="189,136,350,163"/>
+<area shape="rect" id="node3" href="$rpc_2protocol_8cpp.html#a41a2234c99900304357a44796b2259d5" title="JSONRPCError" alt="" coords="467,136,577,163"/>
+<area shape="rect" id="node21" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="176,237,363,264"/>
+<area shape="rect" id="node22" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="216,288,323,315"/>
+<area shape="rect" id="node23" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="212,339,327,365"/>
+<area shape="rect" id="node24" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="208,389,331,416"/>
+<area shape="rect" id="node25" href="$class_uni_value.html#a9f69bbd4ccf8d083934cbb510c039cef" title="UniValue::get_str" alt="" coords="208,440,331,467"/>
+<area shape="rect" id="node26" href="$group__map_wallet.html#ga002c61a2b74f2c46063340c568e6cc1b" title="CWallet::Unlock" alt="" coords="211,491,327,517"/>
+<area shape="rect" id="node33" href="$group___actions.html#ga9730278506e0a4f1c65239b951525b55" title="CWallet::TopUpKeyPool" alt="" coords="188,541,351,568"/>
+<area shape="rect" id="node36" href="$class_uni_value.html#a4891070715a7c974a2c829f01637b473" title="UniValue::get_int64" alt="" coords="202,592,337,619"/>
+<area shape="rect" id="node38" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="234,643,305,669"/>
+<area shape="rect" id="node39" href="$server_8cpp.html#a5061d3a516e4daf4f4be1e11fc98248a" title="RPCRunLater" alt="" coords="219,187,320,213"/>
+<area shape="rect" id="node4" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="755,111,803,137"/>
+<area shape="rect" id="node20" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="707,161,852,188"/>
+<area shape="rect" id="node5" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="943,81,1030,108"/>
+<area shape="rect" id="node11" href="$namespacetinyformat.html#ad784060b98bfd4f1b3089fbb7686a676" title="Format list of arguments to the stream according to given format string. " alt="" coords="925,136,1048,163"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="1123,31,1250,57"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="1143,81,1230,108"/>
+<area shape="rect" id="node8" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="1357,5,1484,32"/>
+<area shape="rect" id="node9" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="1372,56,1469,83"/>
+<area shape="rect" id="node10" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="1325,107,1516,133"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="tinyformat::vformat" alt="" coords="1123,136,1251,163"/>
+<area shape="rect" id="node19" href="$namespacetinyformat.html#ab7fedd020bd6b353233d0ecbd686a007" title="tinyformat::makeFormatList" alt="" coords="1096,187,1277,213"/>
+<area shape="rect" id="node13" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1361,158,1480,199"/>
+<area shape="rect" id="node14" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1567,93,1733,134"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1564,158,1736,199"/>
+<area shape="rect" id="node18" href="$classtinyformat_1_1detail_1_1_format_arg.html#acf5721edb4cd5009995b48211614667e" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1583,223,1717,265"/>
+<area shape="rect" id="node16" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1784,125,1932,166"/>
+<area shape="rect" id="node17" href="$classtinyformat_1_1detail_1_1_format_arg.html#a3cc3ee90db72cd62b5e0813f70bf5185" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1796,190,1920,231"/>
+<area shape="rect" id="node27" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="411,389,633,416"/>
+<area shape="rect" id="node29" href="$class_c_crypter.html#ac5a813381a88db619331a9d5492cd339" title="CCrypter::Decrypt" alt="" coords="459,440,585,467"/>
+<area shape="rect" id="node31" href="$class_c_crypto_key_store.html#a81bd70e18aa75f566526620a74f9cd88" title="CCryptoKeyStore::Unlock" alt="" coords="437,491,607,517"/>
+<area shape="rect" id="node28" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="719,389,840,416"/>
+<area shape="rect" id="node30" href="$class_a_e_s256_c_b_c_decrypt.html#adb9655062470e55da2db0b92a6138552" title="AES256CBCDecrypt::Decrypt" alt="" coords="682,440,877,467"/>
+<area shape="rect" id="node32" href="$class_c_crypto_key_store.html#af202f587051735be5a39344d9e333720" title="CCryptoKeyStore::SetCrypted" alt="" coords="681,491,877,517"/>
+<area shape="rect" id="node34" href="$util_8cpp.html#a24f685720bf40370e5bd2a192ad50cd8" title="GetArg" alt="" coords="491,541,553,568"/>
+<area shape="rect" id="node35" href="$class_c_wallet_d_b.html#ad43630ad28a68c3e8b1a633f09aa0964" title="CWalletDB::WritePool" alt="" coords="447,592,597,619"/>
+<area shape="rect" id="node37" href="$utilstrencodings_8cpp.html#acb4637787cab6998d4a403d0dcdf51e6" title="ParseInt64" alt="" coords="480,643,564,669"/>
+<area shape="rect" id="node40" href="$class_r_p_c_timer_interface.html#afbb7a79b18bdbc1a6900ba8eb882c5b3" title="RPCTimerInterface::Name" alt="" coords="436,187,608,213"/>
+<area shape="rect" id="node41" href="$class_r_p_c_timer_interface.html#a4588767c14008834cb7f035a3f2de2e9" title="RPCTimerInterface::\lNewTimer" alt="" coords="453,238,591,279"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RPCConsole::banSelectedNode" name="RPCConsole::banSelectedNode">
+<area shape="rect" id="node2" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="274,5,449,47"/>
+<area shape="rect" id="node3" href="$class_peer_table_model.html#aa735d366015dafba4c5d79dfb76abe49" title="PeerTableModel::getRowBy\lNodeId" alt="" coords="270,71,453,112"/>
+<area shape="rect" id="node4" href="$class_peer_table_model.html#a98084d3299642316c71c5de3d36b9859" title="PeerTableModel::getNodeStats" alt="" coords="260,137,463,163"/>
+<area shape="rect" id="node6" href="$class_client_model.html#ad02b8bf216a08845e393f9bac8c4ed42" title="ClientModel::getBanTable\lModel" alt="" coords="276,188,447,229"/>
+<area shape="rect" id="node7" href="$class_ban_table_model.html#a15107160d33bbf2635b9460cb07f9661" title="BanTableModel::refresh" alt="" coords="282,254,441,281"/>
+<area shape="rect" id="node5" href="$class_peer_table_priv.html#a58c817cce967ddd5ae4bad622bfaecb4" title="PeerTablePriv::index" alt="" coords="533,137,673,163"/>
+<area shape="rect" id="node8" href="$class_ban_table_priv.html#a36dc74cf3d2a45de4c0e55aa79e64c98" title="BanTablePriv::refreshBanlist" alt="" coords="511,254,695,281"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CTxWitness::SetNull" name="CTxWitness::SetNull">
+<area shape="rect" id="node2" href="$group___actions.html#ga0a899bf61e6cd56fa9a30e45e61e25be" title="CWallet::CreateTransaction" alt="" coords="196,31,377,57"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="425,5,637,32"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a02c1a7b5244896e62bc5ae698f7a76c9" title="sendmany" alt="" coords="490,56,573,83"/>
+</map>

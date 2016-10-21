@@ -1,0 +1,51 @@
+<map id="CPubKey::size" name="CPubKey::size">
+<area shape="rect" id="node2" href="$class_c_script_compressor.html#a1feb663ddab3a45218c7cb02f2a25717" title="CScriptCompressor::\lDecompress" alt="" coords="641,181,784,222"/>
+<area shape="rect" id="node4" href="$class_c_key.html#ae4b61da6ec62f676fe6362ac5fc26aca" title="CKey::GetPubKey" alt="" coords="413,766,542,792"/>
+<area shape="rect" id="node20" href="$class_c_pub_key.html#ab4047c7ce31b72591d8108a2563cd21b" title="CPubKey::Verify" alt="" coords="418,1174,537,1200"/>
+<area shape="rect" id="node24" href="$class_c_pub_key.html#a2533ec5fc9a1c3d2ef39d0faa3ad6cdd" title="fully validate whether this is a valid public key (more expensive than IsValid()) ..." alt="" coords="401,1418,553,1444"/>
+<area shape="rect" id="node27" href="$class_c_pub_key.html#a572689418fecf47b300a11519bc3da36" title="Turn this public key into an uncompressed public key. " alt="" coords="398,290,557,316"/>
+<area shape="rect" id="node28" href="$class_c_pub_key.html#add183528b09791bdd0f982e63308d263" title="Derive BIP32 child pubkey. " alt="" coords="417,340,537,367"/>
+<area shape="rect" id="node30" href="$struct_c_ext_pub_key.html#a5f96df4cbd4637e6b8462192f62af446" title="CExtPubKey::Encode" alt="" coords="179,83,329,110"/>
+<area shape="rect" id="node32" href="$class_c_pub_key.html#aa559d2a4f2cbdec84c02a4adc18fa657" title="CPubKey::end" alt="" coords="201,428,307,455"/>
+<area shape="rect" id="node35" href="$class_c_wallet_d_b.html#a7ebef5e0c7f604aa2159ba96d527e3a2" title="CWalletDB::WriteKey" alt="" coords="403,534,551,560"/>
+<area shape="rect" id="node36" href="$class_c_pub_key.html#a71ca590df9b99faaf1604f826d2c8807" title="Implement serialization, as if this was a byte vector. " alt="" coords="163,740,345,767"/>
+<area shape="rect" id="node37" href="$class_c_pub_key.html#a315865ee4c45726c01fae44d53b180a1" title="CPubKey::Serialize" alt="" coords="187,791,321,818"/>
+<area shape="rect" id="node38" href="$class_c_pub_key.html#a9c1908fef34fd9e1c4b5e0ffd5d3834e" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="653,588,772,615"/>
+<area shape="rect" id="node48" href="$class_c_pub_key.html#a85b5eaf92b26cb4a230586050285c3f4" title="Get the 256&#45;bit hash of this public key. " alt="" coords="186,974,322,1000"/>
+<area shape="rect" id="node49" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="192,639,316,666"/>
+<area shape="rect" id="node50" href="$class_c_pub_key.html#a397e437d9d0a008e2641892147b0931a" title="Check whether this is a compressed public key. " alt="" coords="393,1072,561,1099"/>
+<area shape="rect" id="node3" href="$class_c_script_compressor.html#a016fa6e3d2735d95fcf773271da073d5" title="CScriptCompressor::\lUnserialize" alt="" coords="911,66,1054,108"/>
+<area shape="rect" id="node5" href="$class_c_key.html#a1bae09b7447a951d8fc3328b7dcc3a3f" title="Derive BIP32 child key. " alt="" coords="664,436,761,463"/>
+<area shape="rect" id="node6" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="924,284,1041,311"/>
+<area shape="rect" id="node8" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="1149,335,1337,362"/>
+<area shape="rect" id="node9" href="$struct_c_ext_key.html#a49f98a470d61ab1f2948b7c414ec9563" title="CExtKey::Neuter" alt="" coords="653,314,773,340"/>
+<area shape="rect" id="node10" href="$key_8h.html#a55cc40f04bf887c1000667caccb0684a" title="ECC_InitSanityCheck" alt="" coords="909,1162,1056,1188"/>
+<area shape="rect" id="node11" href="$class_c_key_store.html#a0b4ca43724cfcc6e2ea70c0baa192750" title="CKeyStore::AddKey" alt="" coords="643,740,782,767"/>
+<area shape="rect" id="node12" href="$_do_s__tests_8cpp.html#a8c90f8b9a8e9d4602485e369c862b4c0" title="BOOST_AUTO_TEST_CASE" alt="" coords="887,908,1078,935"/>
+<area shape="rect" id="node13" href="$class_c_basic_key_store.html#af4446a8bb146fd6f021bef71b455c7e3" title="CBasicKeyStore::GetPubKey" alt="" coords="616,842,809,868"/>
+<area shape="rect" id="node14" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="641,893,784,934"/>
+<area shape="rect" id="node15" href="$class_c_crypto_key_store.html#a8c0f6b63fb04193df16243c4459b7c61" title="will encrypt previously unencrypted keys " alt="" coords="609,1263,816,1290"/>
+<area shape="rect" id="node16" href="$rpcwallet_8cpp.html#ace3f8652191a347b888627b8e0a1d17c" title="importprivkey" alt="" coords="933,1111,1032,1138"/>
+<area shape="rect" id="node17" href="$rpcwallet_8cpp.html#a71dce63ec2a80b836bab5f31fef8da46" title="importwallet" alt="" coords="937,959,1028,986"/>
+<area shape="rect" id="node18" href="$group__map_wallet.html#ga061fe7f54f80ec40f856b3e6365c2f4a" title="CWallet::GenerateNewKey" alt="" coords="894,1010,1071,1036"/>
+<area shape="rect" id="node19" href="$group__map_wallet.html#ga3b89a2ec734e938af4b1e8968562ce23" title="CWallet::GenerateNewHDMasterKey" alt="" coords="865,1060,1100,1087"/>
+<area shape="rect" id="node7" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="1208,158,1279,184"/>
+<area shape="rect" id="node21" href="$class_c_key.html#a3890764f7a2e5d9cdeffb3e102e4545d" title="CKey::VerifyPubKey" alt="" coords="642,1111,783,1138"/>
+<area shape="rect" id="node22" href="$class_transaction_signature_checker.html#a59179724477a42488a70a2828f51093d" title="TransactionSignatureChecker\l::VerifySignature" alt="" coords="617,1365,809,1406"/>
+<area shape="rect" id="node23" href="$key__tests_8cpp.html#add8f8fb6aeee707149cdf29db2eca2b2" title="BOOST_AUTO_TEST_CASE" alt="" coords="617,1314,808,1340"/>
+<area shape="rect" id="node25" href="$class_c_script_compressor.html#a4cec58b09c4ab7873b5884ed690ed0f9" title="CScriptCompressor::\lIsToPubKey" alt="" coords="641,1482,784,1524"/>
+<area shape="rect" id="node26" href="$rpcwallet_8cpp.html#aaaa83aae4b9dc51b4ac76d4be0dd237d" title="_createmultisig_redeemScript" alt="" coords="615,1431,810,1458"/>
+<area shape="rect" id="node29" href="$struct_c_ext_pub_key.html#a404798f7d800ffb539cf97431025597f" title="CExtPubKey::Derive" alt="" coords="913,132,1053,159"/>
+<area shape="rect" id="node31" href="$struct_c_ext_pub_key.html#a2b712da53dc65694aefe2546b673f1d8" title="CExtPubKey::Serialize" alt="" coords="400,83,555,110"/>
+<area shape="rect" id="node33" href="$standard_8h.html#a918dcaa16c3228c31ca9878bed066c65" title="GetScriptForRawPubKey" alt="" coords="394,239,561,266"/>
+<area shape="rect" id="node34" href="$bloom__tests_8cpp.html#aa703c3cbd7e593a372f55a5902e3fa45" title="BOOST_AUTO_TEST_CASE" alt="" coords="887,234,1078,260"/>
+<area shape="rect" id="node39" href="$class_c_basic_key_store.html#acc2e33f319de88e88f86b0dc79bdcb65" title="Add a key to the store. " alt="" coords="873,436,1092,463"/>
+<area shape="rect" id="node40" href="$class_c_basic_key_store.html#a2417d0ae4e654c88cf47a1ba5f71b5a3" title="Support for Watch&#45;only addresses. " alt="" coords="875,487,1090,514"/>
+<area shape="rect" id="node41" href="$class_c_basic_key_store.html#a20c0eccf943d6d16e24c6e2fb63fb527" title="CBasicKeyStore::RemoveWatchOnly" alt="" coords="864,538,1101,564"/>
+<area shape="rect" id="node42" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="911,589,1055,630"/>
+<area shape="rect" id="node43" href="$class_payment_server.html#ab846f9e8778e5cc878b644133e8628f1" title="PaymentServer::fetchPaymentACK" alt="" coords="870,655,1095,682"/>
+<area shape="rect" id="node44" href="$misc_8cpp.html#a395e3289609c817a2605bd14d45ae641" title="verifymessage" alt="" coords="931,706,1035,732"/>
+<area shape="rect" id="node45" href="$ismine_8cpp.html#a825478fbb9e96130529467ab5e16047e" title="HaveKeys" alt="" coords="943,756,1023,783"/>
+<area shape="rect" id="node46" href="$ismine_8h.html#a4195950ab5803ec41e62b459117b3473" title="IsMine" alt="" coords="1213,807,1273,834"/>
+<area shape="rect" id="node47" href="$standard_8h.html#a951f7e601746ae076afdf3169ecca2fc" title="ExtractDestination" alt="" coords="918,858,1047,884"/>
+</map>

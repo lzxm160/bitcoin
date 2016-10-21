@@ -1,0 +1,5 @@
+<map id="FormatStateMessage" name="FormatStateMessage">
+<area shape="rect" id="node2" href="$class_c_validation_state.html#a2e7ea577adfdf90aaff44ad0fa16adde" title="CValidationState::GetReject\lReason" alt="" coords="215,5,400,47"/>
+<area shape="rect" id="node3" href="$class_c_validation_state.html#a38ff914b43901ed05654c0ac44f7e335" title="CValidationState::GetDebug\lMessage" alt="" coords="215,71,400,112"/>
+<area shape="rect" id="node4" href="$class_c_validation_state.html#acd7ebd36b71c43bcbce3a070fbb1dae6" title="CValidationState::GetRejectCode" alt="" coords="200,137,415,163"/>
+</map>

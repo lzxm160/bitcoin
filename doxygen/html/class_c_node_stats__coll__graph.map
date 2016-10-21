@@ -1,0 +1,5 @@
+<map id="CNodeStats" name="CNodeStats">
+<area shape="rect" id="node2" href="$class_c_address.html" title="CAddress" alt="" coords="12,157,91,184"/>
+<area shape="rect" id="node3" href="$class_c_service.html" title="CService" alt="" coords="15,81,88,108"/>
+<area shape="rect" id="node4" href="$class_c_net_addr.html" title="CNetAddr" alt="" coords="12,5,91,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CountWitnessSigOps" name="CountWitnessSigOps">
+<area shape="rect" id="node2" href="$class_c_script.html#a11e9cac739d4044d83fdd13cdf72ed01" title="CScript::IsWitnessProgram" alt="" coords="202,107,382,133"/>
+<area shape="rect" id="node5" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="635,208,748,235"/>
+<area shape="rect" id="node6" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="799,284,901,311"/>
+<area shape="rect" id="node7" href="$class_c_script.html#acba6d6d35776de4ce3a632446f44805f" title="CScript::IsPayToScriptHash" alt="" coords="200,31,384,57"/>
+<area shape="rect" id="node8" href="$class_c_script.html#ac81d0879690dc02cfb6712244e4add43" title="CScript::IsPushOnly" alt="" coords="222,309,362,336"/>
+<area shape="rect" id="node9" href="$class_c_script.html#a94635ed93d8d244ec3acfa83f9ecfe5f" title="CScript::GetOp" alt="" coords="453,259,563,285"/>
+<area shape="rect" id="node3" href="$classprevector.html#a8430c39b212986d6cd2ba9d6fa939241" title="prevector::size" alt="" coords="455,5,561,32"/>
+<area shape="rect" id="node4" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="CScript::DecodeOP_N" alt="" coords="432,157,584,184"/>
+<area shape="rect" id="node10" href="$class_c_script.html#a93ec95275ccce9b701c8f53c57cd7975" title="CScript::GetOp2" alt="" coords="632,259,751,285"/>
+</map>

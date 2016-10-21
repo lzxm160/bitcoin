@@ -1,0 +1,10 @@
+<map id="CCoins::FromTx" name="CCoins::FromTx">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51" title="CTransaction::IsCoinBase" alt="" coords="172,56,344,83"/>
+<area shape="rect" id="node3" href="$class_c_coins.html#ad8b649abb32bdba255adec6dcfd57fc5" title="CCoins::ClearUnspendable" alt="" coords="169,107,347,133"/>
+<area shape="rect" id="node4" href="$class_c_script.html#a5d8efd005dde9242d88212c8b7fdb696" title="CScript::IsUnspendable" alt="" coords="395,56,553,83"/>
+<area shape="rect" id="node7" href="$class_c_tx_out.html#a9fe5e6a1be651f130d3dc84a64e78a24" title="CTxOut::SetNull" alt="" coords="416,107,532,133"/>
+<area shape="rect" id="node9" href="$class_c_coins.html#a7cfa2efc07f4d35785c9c75caa8bddcb" title="remove spent outputs at the end of vout " alt="" coords="415,157,533,184"/>
+<area shape="rect" id="node5" href="$classprevector.html#a8430c39b212986d6cd2ba9d6fa939241" title="prevector::size" alt="" coords="605,5,711,32"/>
+<area shape="rect" id="node6" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="601,56,715,83"/>
+<area shape="rect" id="node8" href="$class_c_script.html#a7b2baf842621f07c4939408acf63377c" title="CScript::clear" alt="" coords="607,107,709,133"/>
+</map>

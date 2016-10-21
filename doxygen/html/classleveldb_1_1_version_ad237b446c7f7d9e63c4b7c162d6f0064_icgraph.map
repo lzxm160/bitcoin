@@ -1,0 +1,8 @@
+<map id="leveldb::Version::Ref" name="leveldb::Version::Ref">
+<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_impl.html#a089964ddcd1f5dc85e73499ae57be508" title="leveldb::DBImpl::Get" alt="" coords="230,5,370,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_d_b_impl.html#af08e218d92064699942c195ce0f06010" title="leveldb::DBImpl::GetApproximate\lSizes" alt="" coords="193,57,407,98"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_version_set_1_1_builder.html#a19d0dd9aec1b825e7d938e9ac24dc4f7" title="leveldb::VersionSet\l::Builder::Builder" alt="" coords="233,122,367,163"/>
+<area shape="rect" id="node6" href="$classleveldb_1_1_version_set.html#a1cdc6a05e0a7df9f29b5bccd485a0219" title="leveldb::VersionSet\l::PickCompaction" alt="" coords="233,187,367,229"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_version_set.html#a3a03f9a6c86e861be314cf8e01f33142" title="leveldb::VersionSet\l::CompactRange" alt="" coords="233,253,367,294"/>
+<area shape="rect" id="node3" href="$namespaceleveldb.html#acc1b0ed2e8e9e4e6b930a1727d9fe0f8" title="leveldb::TEST" alt="" coords="455,5,556,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CCoinsViewMemPool::GetCoins" name="CCoinsViewMemPool::GetCoins">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#aece353ee4b15d632f0dddd8462062693" title="CTxMemPool::get" alt="" coords="222,5,349,32"/>
+<area shape="rect" id="node3" href="$class_c_coins_view.html#aaf5668eb2f9033583d7072dc2a3f96ef" title="Retrieve the CCoins (unspent transaction outputs) for a given txid. " alt="" coords="208,56,363,83"/>
+<area shape="rect" id="node4" href="$class_c_coins.html#af28a2e44f0b41c3a4a6366607b4b8f81" title="CCoins::IsPruned" alt="" coords="224,107,347,133"/>
+<area shape="rect" id="node5" href="$class_c_tx_out.html#aeaa6b16e0c4caee54196cf8eb0f127f3" title="CTxOut::IsNull" alt="" coords="411,107,517,133"/>
+</map>

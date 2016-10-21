@@ -1,0 +1,6 @@
+<map id="CBlockHeader::IsNull" name="CBlockHeader::IsNull">
+<area shape="rect" id="node2" href="$class_partially_downloaded_block.html#aa803baa7d5ad014718e91b124b7189fa" title="PartiallyDownloadedBlock\l::InitData" alt="" coords="199,5,371,47"/>
+<area shape="rect" id="node4" href="$class_partially_downloaded_block.html#ade6114faf58b6260aeba06e7a65eb7f6" title="PartiallyDownloadedBlock\l::IsTxAvailable" alt="" coords="199,71,371,112"/>
+<area shape="rect" id="node5" href="$class_partially_downloaded_block.html#a70d4525306b97c4a5d73effd8dd6cec4" title="PartiallyDownloadedBlock\l::FillBlock" alt="" coords="199,136,371,177"/>
+<area shape="rect" id="node3" href="$blockencodings__tests_8cpp.html#a61f18ec62745c7dd5762dc408ce63d53" title="BOOST_AUTO_TEST_CASE" alt="" coords="419,78,609,105"/>
+</map>

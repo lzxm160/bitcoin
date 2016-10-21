@@ -1,0 +1,17 @@
+<map id="run_schnorr_tests" name="run_schnorr_tests">
+<area shape="rect" id="node2" href="$schnorr_2tests__impl_8h.html#a0fadfae101d2df588a044f55eafcc0e6" title="test_schnorr_end_to_end" alt="" coords="180,157,348,184"/>
+<area shape="rect" id="node9" href="$schnorr_2tests__impl_8h.html#ac01f457db870f54e7034a59bcf51f5fb" title="test_schnorr_sign_verify" alt="" coords="183,56,345,83"/>
+<area shape="rect" id="node11" href="$schnorr_2tests__impl_8h.html#afe1ab7f4400ea6152deaeea5959aa0bc" title="test_schnorr_recovery" alt="" coords="189,5,339,32"/>
+<area shape="rect" id="node12" href="$schnorr_2tests__impl_8h.html#a7c79e0204a103b99844bdf1b2ac4cb57" title="test_schnorr_threshold" alt="" coords="187,369,341,396"/>
+<area shape="rect" id="node3" href="$tests_8c.html#a51e09e6745e0afdb0d596ee0f4b3c3f7" title="random_scalar_order_test" alt="" coords="414,56,586,83"/>
+<area shape="rect" id="node4" href="$secp256k1_8h.html#a366f922fc0c787351e82ff8e3a95f652" title="secp256k1_ec_seckey\l_verify" alt="" coords="423,209,577,250"/>
+<area shape="rect" id="node5" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="423,274,577,315"/>
+<area shape="rect" id="node6" href="$secp256k1__schnorr_8h.html#ab7e18ffba471cded051c249f5f8cab48" title="secp256k1_schnorr_sign" alt="" coords="417,157,583,184"/>
+<area shape="rect" id="node7" href="$secp256k1__schnorr_8h.html#ab9bcde80df113d29823401a460ea9bcc" title="secp256k1_schnorr_verify" alt="" coords="415,340,585,367"/>
+<area shape="rect" id="node8" href="$secp256k1__schnorr_8h.html#aa15ce0fb89d5eacfd2a11a88ee70636c" title="secp256k1_schnorr_recover" alt="" coords="409,107,591,133"/>
+<area shape="rect" id="node10" href="$schnorr_2tests__impl_8h.html#a31efca2980eb021090e8b4df3d274d3b" title="test_schnorr_hash" alt="" coords="435,5,565,32"/>
+<area shape="rect" id="node13" href="$secp256k1__schnorr_8h.html#a62dd4ce1d4843fe3a4d73ee44d142cb3" title="secp256k1_schnorr_generate\l_nonce_pair" alt="" coords="404,457,596,498"/>
+<area shape="rect" id="node14" href="$secp256k1_8h.html#a4d9b18720afc67f3685a9f171bac6737" title="secp256k1_ec_pubkey\l_combine" alt="" coords="423,522,577,563"/>
+<area shape="rect" id="node15" href="$secp256k1__schnorr_8h.html#a9887da00f1d053c0c86b865bad5b8d82" title="secp256k1_schnorr_partial_sign" alt="" coords="396,588,604,615"/>
+<area shape="rect" id="node16" href="$secp256k1__schnorr_8h.html#a3e2e970becbc63f9d1cd0ef054488b58" title="secp256k1_schnorr_partial\l_combine" alt="" coords="411,391,589,433"/>
+</map>

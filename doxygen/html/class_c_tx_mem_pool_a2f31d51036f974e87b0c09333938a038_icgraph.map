@@ -1,0 +1,9 @@
+<map id="CTxMemPool::estimateSmartPriority" name="CTxMemPool::estimateSmartPriority">
+<area shape="rect" id="node2" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="275,5,409,47"/>
+<area shape="rect" id="node4" href="$mining_8cpp.html#a517e3ca69b9b9ebe24dd3b5a22f348cb" title="estimatesmartpriority" alt="" coords="270,71,414,98"/>
+<area shape="rect" id="node5" href="$policyestimator__tests_8cpp.html#a16bb8afdd1c29d823bb04824dc255a28" title="BOOST_AUTO_TEST_CASE" alt="" coords="247,122,437,149"/>
+<area shape="rect" id="node6" href="$group___actions.html#ga0a899bf61e6cd56fa9a30e45e61e25be" title="CWallet::CreateTransaction" alt="" coords="251,173,433,199"/>
+<area shape="rect" id="node3" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="525,5,658,47"/>
+<area shape="rect" id="node7" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="485,147,697,174"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a02c1a7b5244896e62bc5ae698f7a76c9" title="sendmany" alt="" coords="550,198,633,225"/>
+</map>

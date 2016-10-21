@@ -1,0 +1,9 @@
+<map id="CZMQNotificationInterface::CreateWithArguments" name="CZMQNotificationInterface::CreateWithArguments">
+<area shape="rect" id="node2" href="$class_c_z_m_q_abstract_notifier.html#ab4179b7aeac89ce1a9214a46b21a4899" title="CZMQAbstractNotifier\l::SetType" alt="" coords="237,5,385,47"/>
+<area shape="rect" id="node3" href="$class_c_z_m_q_abstract_notifier.html#a6ada06e94b36fb8c872ad880ae2eb3d6" title="CZMQAbstractNotifier\l::SetAddress" alt="" coords="237,71,385,112"/>
+<area shape="rect" id="node4" href="$class_c_z_m_q_notification_interface.html#a33097d2313d722ff02dd0f2c77f66d58" title="CZMQNotificationInterface\l::Initialize" alt="" coords="225,136,397,177"/>
+<area shape="rect" id="node5" href="$zmqnotificationinterface_8cpp.html#a9c02cc6f228cd34521a310534ec2d5ba" title="zmqError" alt="" coords="482,51,557,78"/>
+<area shape="rect" id="node6" href="$class_c_z_m_q_abstract_notifier.html#a877029827c0b1224bf0826a2e433e370" title="CZMQAbstractNotifier\l::Initialize" alt="" coords="445,103,593,144"/>
+<area shape="rect" id="node7" href="$class_c_z_m_q_abstract_notifier.html#af61e42343e1ff78688ccdf86948c6a75" title="CZMQAbstractNotifier\l::GetType" alt="" coords="445,168,593,209"/>
+<area shape="rect" id="node8" href="$class_c_z_m_q_abstract_notifier.html#ad0aa1165dfd720d17b860ed539455aca" title="CZMQAbstractNotifier\l::GetAddress" alt="" coords="445,233,593,275"/>
+</map>

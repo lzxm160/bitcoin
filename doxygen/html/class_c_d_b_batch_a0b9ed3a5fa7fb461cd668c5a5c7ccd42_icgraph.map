@@ -1,0 +1,11 @@
+<map id="CDBBatch::Erase" name="CDBBatch::Erase">
+<area shape="rect" id="node2" href="$class_c_d_b_wrapper.html#a583311ba1b0eb24d07511aad3325d61f" title="CDBWrapper::Erase" alt="" coords="204,31,344,57"/>
+<area shape="rect" id="node9" href="$dbwrapper__tests_8cpp.html#aaea5ae31034f621b506bf29432ea69b8" title="BOOST_AUTO_TEST_CASE" alt="" coords="179,81,369,108"/>
+<area shape="rect" id="node10" href="$class_c_coins_view_d_b.html#a33f98ec9323ce48e1704327bc8a2a002" title="CCoinsViewDB::BatchWrite" alt="" coords="183,132,365,159"/>
+<area shape="rect" id="node3" href="$class_c_block_tree_d_b.html#a8fa5d150b98f4fd1aa8cf503eddfccef" title="CBlockTreeDB::WriteReindexing" alt="" coords="417,31,628,57"/>
+<area shape="rect" id="node4" href="$init_8cpp.html#a0189c34248cd89bbbe20d4d6045bd7c9" title="ThreadImport" alt="" coords="676,5,773,32"/>
+<area shape="rect" id="node5" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="821,31,891,57"/>
+<area shape="rect" id="node6" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="979,5,1042,32"/>
+<area shape="rect" id="node8" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="939,56,1083,83"/>
+<area shape="rect" id="node7" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1131,5,1181,32"/>
+</map>

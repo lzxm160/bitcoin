@@ -1,0 +1,32 @@
+<map id="CSHA512::Finalize" name="CSHA512::Finalize">
+<area shape="rect" id="node2" href="$class_c_h_m_a_c___s_h_a512.html#a03e1288c20422f66b7e732aafda804e5" title="CHMAC_SHA512::CHMAC\l_SHA512" alt="" coords="185,41,364,82"/>
+<area shape="rect" id="node3" href="$class_c_h_m_a_c___s_h_a512.html#a3042ed5129bd381eb18ed2da201d6ed5" title="CHMAC_SHA512::Finalize" alt="" coords="186,107,363,133"/>
+<area shape="rect" id="node14" href="$random_8h.html#aa65e9af42fdb369289f81d8c401fb814" title="GetStrongRandBytes" alt="" coords="202,259,347,285"/>
+<area shape="rect" id="node4" href="$hash_8h.html#a391c1a6a1f947abbc53cc51fc709110e" title="BIP32Hash" alt="" coords="448,56,535,83"/>
+<area shape="rect" id="node12" href="$struct_c_ext_key.html#a8cd6ecafdd649082601d7eebbec79688" title="CExtKey::SetMaster" alt="" coords="925,107,1068,133"/>
+<area shape="rect" id="node5" href="$class_c_key.html#a1bae09b7447a951d8fc3328b7dcc3a3f" title="Derive BIP32 child key. " alt="" coords="687,56,785,83"/>
+<area shape="rect" id="node10" href="$class_c_pub_key.html#add183528b09791bdd0f982e63308d263" title="Derive BIP32 child pubkey. " alt="" coords="676,5,796,32"/>
+<area shape="rect" id="node6" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="938,56,1055,83"/>
+<area shape="rect" id="node7" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="1199,31,1269,57"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="1140,81,1328,108"/>
+<area shape="rect" id="node8" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="1376,31,1567,57"/>
+<area shape="rect" id="node11" href="$struct_c_ext_pub_key.html#a404798f7d800ffb539cf97431025597f" title="CExtPubKey::Derive" alt="" coords="927,5,1067,32"/>
+<area shape="rect" id="node13" href="$rpcwallet_8cpp.html#a84626901983e76a517c35e461a9a9442" title="dumpwallet" alt="" coords="1191,132,1277,159"/>
+<area shape="rect" id="node15" href="$class_c_key.html#a9d12ed9d297e4286250fd7ea6b59e1a5" title="Generate a new private key using a cryptographic PRNG. " alt="" coords="420,259,563,285"/>
+<area shape="rect" id="node28" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="412,427,571,453"/>
+<area shape="rect" id="node16" href="$key_8h.html#a55cc40f04bf887c1000667caccb0684a" title="ECC_InitSanityCheck" alt="" coords="663,208,809,235"/>
+<area shape="rect" id="node23" href="$_do_s__tests_8cpp.html#a8c90f8b9a8e9d4602485e369c862b4c0" title="BOOST_AUTO_TEST_CASE" alt="" coords="641,259,831,285"/>
+<area shape="rect" id="node24" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="665,310,807,351"/>
+<area shape="rect" id="node25" href="$group__map_wallet.html#ga061fe7f54f80ec40f856b3e6365c2f4a" title="CWallet::GenerateNewKey" alt="" coords="647,376,825,403"/>
+<area shape="rect" id="node26" href="$group__map_wallet.html#ga3b89a2ec734e938af4b1e8968562ce23" title="CWallet::GenerateNewHDMasterKey" alt="" coords="619,157,853,184"/>
+<area shape="rect" id="node17" href="$init_8cpp.html#a878797b40fb8eb0d7f330a41d7742d11" title="InitSanityCheck" alt="" coords="940,208,1053,235"/>
+<area shape="rect" id="node22" href="$sanity__tests_8cpp.html#a64393db199b90df61f95069c15f67396" title="BOOST_AUTO_TEST_CASE" alt="" coords="901,259,1092,285"/>
+<area shape="rect" id="node18" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="1199,183,1269,209"/>
+<area shape="rect" id="node19" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="1440,208,1503,235"/>
+<area shape="rect" id="node21" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="1399,157,1543,184"/>
+<area shape="rect" id="node20" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1615,208,1665,235"/>
+<area shape="rect" id="node27" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="917,157,1076,184"/>
+<area shape="rect" id="node29" href="$class_wallet_model.html#a444340830badcd48e3a4dd6b03d9c4d7" title="WalletModel::setWalletEncrypted" alt="" coords="628,427,844,453"/>
+<area shape="rect" id="node31" href="$rpcwallet_8cpp.html#a080b6ac524f3796a7653dee70513227a" title="encryptwallet" alt="" coords="687,477,785,504"/>
+<area shape="rect" id="node30" href="$class_ask_passphrase_dialog.html#ac2f176af3693b73870d26ef0bfc6cbb9" title="AskPassphraseDialog\l::accept" alt="" coords="921,419,1072,461"/>
+</map>

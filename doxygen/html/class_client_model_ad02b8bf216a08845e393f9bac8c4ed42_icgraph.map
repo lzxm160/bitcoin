@@ -1,0 +1,9 @@
+<map id="ClientModel::getBanTableModel" name="ClientModel::getBanTableModel">
+<area shape="rect" id="node2" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="492,46,683,73"/>
+<area shape="rect" id="node7" href="$class_r_p_c_console.html#aacaf485583b6342c5e1877e7582f95c5" title="RPCConsole::banSelectedNode" alt="" coords="231,46,437,73"/>
+<area shape="rect" id="node8" href="$class_r_p_c_console.html#a9a974887c33bf1d4b25eb6aeea002941" title="RPCConsole::unbanSelectedNode" alt="" coords="224,97,444,123"/>
+<area shape="rect" id="node3" href="$class_bitcoin_g_u_i.html#a99d71e1f8478ab937ce2522c8d3815e3" title="BitcoinGUI::setClientModel" alt="" coords="731,46,909,73"/>
+<area shape="rect" id="node4" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="957,5,1088,47"/>
+<area shape="rect" id="node6" href="$class_bitcoin_application.html#aceb08b4063e4fb264cf11cf7f9edd969" title="BitcoinApplication\l::initializeResult" alt="" coords="959,71,1086,112"/>
+<area shape="rect" id="node5" href="$bitcoin_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1136,13,1187,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSubNet::Match" name="CSubNet::Match">
+<area shape="rect" id="node2" href="$class_c_connman.html#aa014a4c7bbfc843aa4fff786a2aa8c96" title="CConnman::IsBanned" alt="" coords="172,5,320,32"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#ace6d92a39c2ba3062e52b16735c65df7" title="CConnman::Ban" alt="" coords="187,56,305,83"/>
+<area shape="rect" id="node3" href="$class_c_connman.html#a67fbd95cf5bbd67f21ad2d6391af3c0e" title="CConnman::OpenNetworkConnection" alt="" coords="368,5,605,32"/>
+</map>

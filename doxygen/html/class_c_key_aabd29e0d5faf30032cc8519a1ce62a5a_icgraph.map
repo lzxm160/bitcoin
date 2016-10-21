@@ -1,0 +1,51 @@
+<map id="CKey::begin" name="CKey::begin">
+<area shape="rect" id="node2" href="$class_c_bitcoin_secret.html#a3629c0fce320664c3c07cb082939d6ec" title="CBitcoinSecret::SetKey" alt="" coords="178,64,338,91"/>
+<area shape="rect" id="node5" href="$class_c_key.html#aa62c082c9037565fce02b457cc335e7b" title="Initialize from a CPrivKey (serialized OpenSSL private key data). " alt="" coords="195,152,321,179"/>
+<area shape="rect" id="node6" href="$class_c_key.html#ab38813e7091f658612dfb14f17c9e317" title="CKey::GetPrivKey" alt="" coords="195,283,321,309"/>
+<area shape="rect" id="node10" href="$class_c_key.html#ae4b61da6ec62f676fe6362ac5fc26aca" title="CKey::GetPubKey" alt="" coords="193,772,323,799"/>
+<area shape="rect" id="node11" href="$class_c_key.html#a1bae09b7447a951d8fc3328b7dcc3a3f" title="Derive BIP32 child key. " alt="" coords="472,1016,569,1043"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="958,1016,1146,1043"/>
+<area shape="rect" id="node29" href="$class_c_crypto_key_store.html#a8c0f6b63fb04193df16243c4459b7c61" title="will encrypt previously unencrypted keys " alt="" coords="417,1117,624,1144"/>
+<area shape="rect" id="node33" href="$class_c_key.html#a3b161899b4fa79f5a7036d2ccf12ce3a" title="CKey::Sign" alt="" coords="214,468,302,495"/>
+<area shape="rect" id="node35" href="$class_c_key.html#a141751588f8bfe5f1b6fc27f4e64b63f" title="Load private key and check that public key matches. " alt="" coords="744,392,835,419"/>
+<area shape="rect" id="node43" href="$class_c_key.html#a59afeabf3f63d99dfdbd3722087853a1" title="CKey::SignCompact" alt="" coords="188,1295,328,1321"/>
+<area shape="rect" id="node46" href="$struct_c_ext_key.html#a317248e5cade5991d970a6660a8ddb71" title="CExtKey::Encode" alt="" coords="195,1219,321,1245"/>
+<area shape="rect" id="node48" href="$class_c_crypto_key_store.html#a340109b8673267676a34664a76ed3274" title="Add a key to the store. " alt="" coords="147,203,369,229"/>
+<area shape="rect" id="node50" href="$rpcwallet_8cpp.html#a84626901983e76a517c35e461a9a9442" title="dumpwallet" alt="" coords="215,1345,301,1372"/>
+<area shape="rect" id="node3" href="$class_c_bitcoin_secret.html#a0358baa459a1f22661b601d9d83eacf8" title="CBitcoinSecret::CBitcoin\lSecret" alt="" coords="437,57,604,98"/>
+<area shape="rect" id="node4" href="$base58__tests_8cpp.html#a1fd3203c7badbc6513c9dcaf58d4ccf9" title="BOOST_AUTO_TEST_CASE" alt="" coords="425,5,616,32"/>
+<area shape="rect" id="node7" href="$group__map_wallet.html#ga3240da36cd717146296969227a3e0bd5" title="Adds a key to the store, and saves it to disk. " alt="" coords="437,173,605,200"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#ace3f8652191a347b888627b8e0a1d17c" title="importprivkey" alt="" coords="740,341,839,368"/>
+<area shape="rect" id="node9" href="$rpcwallet_8cpp.html#a71dce63ec2a80b836bab5f31fef8da46" title="importwallet" alt="" coords="744,291,835,317"/>
+<area shape="rect" id="node12" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="731,1016,848,1043"/>
+<area shape="rect" id="node16" href="$struct_c_ext_key.html#a49f98a470d61ab1f2948b7c414ec9563" title="CExtKey::Neuter" alt="" coords="729,1168,849,1195"/>
+<area shape="rect" id="node17" href="$key_8h.html#a55cc40f04bf887c1000667caccb0684a" title="ECC_InitSanityCheck" alt="" coords="716,493,863,520"/>
+<area shape="rect" id="node21" href="$class_c_key_store.html#a0b4ca43724cfcc6e2ea70c0baa192750" title="CKeyStore::AddKey" alt="" coords="451,797,590,824"/>
+<area shape="rect" id="node23" href="$_do_s__tests_8cpp.html#a8c90f8b9a8e9d4602485e369c862b4c0" title="BOOST_AUTO_TEST_CASE" alt="" coords="694,848,885,875"/>
+<area shape="rect" id="node24" href="$class_c_basic_key_store.html#af4446a8bb146fd6f021bef71b455c7e3" title="CBasicKeyStore::GetPubKey" alt="" coords="424,696,617,723"/>
+<area shape="rect" id="node28" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="449,950,592,991"/>
+<area shape="rect" id="node30" href="$group__map_wallet.html#ga061fe7f54f80ec40f856b3e6365c2f4a" title="CWallet::GenerateNewKey" alt="" coords="701,620,878,647"/>
+<area shape="rect" id="node31" href="$group__map_wallet.html#ga3b89a2ec734e938af4b1e8968562ce23" title="CWallet::GenerateNewHDMasterKey" alt="" coords="672,443,907,469"/>
+<area shape="rect" id="node13" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="1017,1168,1087,1195"/>
+<area shape="rect" id="node14" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="1197,1168,1388,1195"/>
+<area shape="rect" id="node18" href="$init_8cpp.html#a878797b40fb8eb0d7f330a41d7742d11" title="InitSanityCheck" alt="" coords="1450,519,1563,545"/>
+<area shape="rect" id="node20" href="$sanity__tests_8cpp.html#a64393db199b90df61f95069c15f67396" title="BOOST_AUTO_TEST_CASE" alt="" coords="957,493,1147,520"/>
+<area shape="rect" id="node19" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="1832,475,1901,501"/>
+<area shape="rect" id="node22" href="$rawtransaction_8cpp.html#a20a66f1d55549861fea58975ebe5c3fd" title="signrawtransaction" alt="" coords="724,797,855,824"/>
+<area shape="rect" id="node25" href="$class_c_crypto_key_store.html#abd897aff07ec5679235b14cb4485dc37" title="CCryptoKeyStore::GetPubKey" alt="" coords="690,696,889,723"/>
+<area shape="rect" id="node26" href="$class_wallet_model.html#a25601217a489e196e947e47c2189c311" title="WalletModel::getPubKey" alt="" coords="969,671,1135,697"/>
+<area shape="rect" id="node27" href="$rpcwallet_8cpp.html#aaaa83aae4b9dc51b4ac76d4be0dd237d" title="_createmultisig_redeemScript" alt="" coords="955,721,1149,748"/>
+<area shape="rect" id="node32" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="1625,443,1784,469"/>
+<area shape="rect" id="node34" href="$class_c_key.html#a3890764f7a2e5d9cdeffb3e102e4545d" title="CKey::VerifyPubKey" alt="" coords="450,443,591,469"/>
+<area shape="rect" id="node40" href="$class_transaction_signature_creator.html#a5bcef0a18e729f372e6123c94710caa4" title="TransactionSignatureCreator\l::CreateSig" alt="" coords="427,225,614,266"/>
+<area shape="rect" id="node41" href="$multisig__tests_8cpp.html#aa6b1a64f7cb6676d0ce8bb16334f03db" title="sign_multisig" alt="" coords="471,493,570,520"/>
+<area shape="rect" id="node36" href="$walletdb_8cpp.html#ad1f171cf096f5479805a06fc20480343" title="ReadKeyValue" alt="" coords="998,367,1106,393"/>
+<area shape="rect" id="node37" href="$class_c_wallet_d_b.html#a14f26e53502d1a60dd2b034f830acf03" title="CWalletDB::LoadWallet" alt="" coords="1213,392,1372,419"/>
+<area shape="rect" id="node39" href="$class_c_wallet_d_b.html#af9fa539659473e1484dc280ec01c0b70" title="CWalletDB::Recover" alt="" coords="1223,341,1363,368"/>
+<area shape="rect" id="node38" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="1436,392,1577,419"/>
+<area shape="rect" id="node42" href="$multisig__tests_8cpp.html#a34755e012e0e58a11c989e40fda0d003" title="BOOST_AUTO_TEST_CASE" alt="" coords="694,544,885,571"/>
+<area shape="rect" id="node44" href="$misc_8cpp.html#a5e097de02d97cf33b676821242f0908e" title="signmessagewithprivkey" alt="" coords="439,1371,602,1397"/>
+<area shape="rect" id="node45" href="$rpcwallet_8cpp.html#a95d30866deb9a289859518f21b6ec721" title="signmessage" alt="" coords="471,1320,570,1347"/>
+<area shape="rect" id="node47" href="$struct_c_ext_key.html#a1a0e45dcb7505c1d3e790cc7a8ecbeb7" title="CExtKey::Serialize" alt="" coords="455,1269,587,1296"/>
+<area shape="rect" id="node49" href="$class_c_wallet.html#a439bab81d7989f91a4f0909960516eea" title="Adds a key to the store, without saving it to disk (used by LoadWallet) " alt="" coords="726,181,853,208"/>
+</map>

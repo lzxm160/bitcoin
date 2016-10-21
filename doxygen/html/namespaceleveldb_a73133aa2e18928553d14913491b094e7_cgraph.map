@@ -1,0 +1,13 @@
+<map id="leveldb::SetCurrentFile" name="leveldb::SetCurrentFile">
+<area shape="rect" id="node2" href="$namespaceleveldb.html#a1ea160b70b18dc85b537e16db3d6ddd0" title="leveldb::DescriptorFileName" alt="" coords="213,5,396,32"/>
+<area shape="rect" id="node3" href="$classleveldb_1_1_slice.html#aac9a3ee9b05567c8c93793e7593a5f13" title="leveldb::Slice::starts_with" alt="" coords="220,56,389,83"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_slice.html#a1be5b22958a115ebecb2b017aad2b3f6" title="leveldb::Slice::remove\l_prefix" alt="" coords="231,107,378,149"/>
+<area shape="rect" id="node6" href="$namespaceleveldb.html#a0563c700d6ff17e88f429464c1442da1" title="leveldb::TempFileName" alt="" coords="227,173,383,200"/>
+<area shape="rect" id="node7" href="$namespaceleveldb.html#aaa2ccf468819a9d769dd0bf38674a6e9" title="leveldb::WriteStringToFileSync" alt="" coords="205,224,404,251"/>
+<area shape="rect" id="node8" href="$classleveldb_1_1_slice.html#a2cdd9fb649105033fde510afc9416732" title="leveldb::Slice::ToString" alt="" coords="227,275,382,301"/>
+<area shape="rect" id="node9" href="$classleveldb_1_1_status.html#ab31e89a858c766716e3dc952be857c65" title="leveldb::Status::ok" alt="" coords="240,325,369,352"/>
+<area shape="rect" id="node10" href="$classleveldb_1_1_env.html#abd743b3d4751ada1ab307427827ed5b0" title="leveldb::Env::RenameFile" alt="" coords="221,376,388,403"/>
+<area shape="rect" id="node11" href="$namespaceleveldb.html#affcb2d434f2a772d7c764cd5d1797a9a" title="leveldb::CurrentFileName" alt="" coords="221,427,388,453"/>
+<area shape="rect" id="node12" href="$classleveldb_1_1_env.html#ac956b984466d5f09309664177687f9af" title="leveldb::Env::DeleteFile" alt="" coords="227,477,383,504"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_slice.html#a947d3173f04f8a30553e89046daf91d5" title="leveldb::Slice::size" alt="" coords="452,115,583,141"/>
+</map>

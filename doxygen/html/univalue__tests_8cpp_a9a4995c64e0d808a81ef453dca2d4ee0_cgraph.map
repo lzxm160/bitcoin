@@ -1,0 +1,10 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_uni_value.html#a9b2df9e0db0d6370fd59783a7942af91" title="UniValue::setInt" alt="" coords="264,5,379,32"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#abab649c2dbd593233de6364254456026" title="UniValue::pushKV" alt="" coords="257,56,385,83"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#a89821b3f48732c1539e674378cdf7a87" title="UniValue::pushKVs" alt="" coords="254,107,389,133"/>
+<area shape="rect" id="node5" href="$class_uni_value.html#a84bce5e964f68f3cd732095910969ad7" title="UniValue::empty" alt="" coords="262,157,381,184"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="268,208,375,235"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#ae24e93ffe4d65a827f235be60445d562" title="UniValue::exists" alt="" coords="263,259,380,285"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#a2ec95a1ab26c60f471e2baef3ffa11ef" title="UniValue::checkObject" alt="" coords="244,309,399,336"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#a3d941ccb4afeb53cb104939e91c6f599" title="UniValue::clear" alt="" coords="266,360,377,387"/>
+</map>

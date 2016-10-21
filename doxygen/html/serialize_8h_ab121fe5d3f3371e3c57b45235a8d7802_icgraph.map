@@ -1,0 +1,21 @@
+<map id="ser_writedata8" name="ser_writedata8">
+<area shape="rect" id="node2" href="$serialize_8h.html#a57a07500f5e1eb9589dc8d57bbd73a18" title="Serialize" alt="" coords="189,208,261,235"/>
+<area shape="rect" id="node11" href="$serialize_8h.html#a02cf7f551f8876dcd142e7c6c8a27e3b" title="WriteCompactSize" alt="" coords="160,537,291,564"/>
+<area shape="rect" id="node20" href="$serialize_8h.html#af2cf364ed9c068fd7092f0207a756c22" title="WriteVarInt" alt="" coords="182,588,269,615"/>
+<area shape="rect" id="node3" href="$class_c_hash_writer.html#a6551aed7315be5ba750680df18562f3a" title="CHashWriter::operator\&lt;\&lt;" alt="" coords="351,5,517,32"/>
+<area shape="rect" id="node4" href="$serialize_8h.html#af5f0d0d13f777e2cb99816e7e7025a19" title="Serialize_impl" alt="" coords="383,56,485,83"/>
+<area shape="rect" id="node5" href="$serialize_8h.html#ab485c675206b85cf5b2800ce1d3ca2c2" title="Serialize" alt="" coords="398,107,470,133"/>
+<area shape="rect" id="node6" href="$serialize_8h.html#a5f02c34fed6e79db633162f773fe0573" title="SerReadWrite" alt="" coords="383,157,485,184"/>
+<area shape="rect" id="node7" href="$class_c_size_computer.html#a03a29c76f82dca1559e7922b35bebd0d" title="CSizeComputer::operator\&lt;\&lt;" alt="" coords="342,208,526,235"/>
+<area shape="rect" id="node8" href="$class_override_stream.html#a959347a477ffbcf25741b88f4646aa16" title="OverrideStream::operator\&lt;\&lt;" alt="" coords="343,259,525,285"/>
+<area shape="rect" id="node9" href="$class_c_auto_file.html#a8e194596d1f8f64059247724b25df82c" title="CAutoFile::operator\&lt;\&lt;" alt="" coords="359,309,509,336"/>
+<area shape="rect" id="node10" href="$script___p2_s_h__tests_8cpp.html#aa93e584bfc96da8e9c4170b909755265" title="BOOST_AUTO_TEST_CASE" alt="" coords="339,360,529,387"/>
+<area shape="rect" id="node12" href="$struct_c_ext_key.html#a1a0e45dcb7505c1d3e790cc7a8ecbeb7" title="CExtKey::Serialize" alt="" coords="368,411,500,437"/>
+<area shape="rect" id="node13" href="$class_c_pub_key.html#a315865ee4c45726c01fae44d53b180a1" title="CPubKey::Serialize" alt="" coords="367,461,501,488"/>
+<area shape="rect" id="node14" href="$struct_c_ext_pub_key.html#a2b712da53dc65694aefe2546b673f1d8" title="CExtPubKey::Serialize" alt="" coords="357,512,511,539"/>
+<area shape="rect" id="node15" href="$class_limited_string.html#a4421821da094900bf15f79768a13e8b9" title="LimitedString::Serialize" alt="" coords="356,563,512,589"/>
+<area shape="rect" id="node16" href="$serialize_8h.html#adee5a9a0b11fd58c829855619c222ab7" title="Serialize" alt="" coords="398,613,470,640"/>
+<area shape="rect" id="node17" href="$serialize_8h.html#ada852df5acfb9cb1ad7d5d6379fca3f8" title="Serialize_impl" alt="" coords="383,664,485,691"/>
+<area shape="rect" id="node19" href="$serialize__tests_8cpp.html#ae9e969e46809b2f06681d5db4aed2b27" title="BOOST_AUTO_TEST_CASE" alt="" coords="339,715,529,741"/>
+<area shape="rect" id="node18" href="$serialize_8h.html#a0ee8a7e06e6f52f5c4d8a33a25d20291" title="Serialize" alt="" coords="577,664,649,691"/>
+</map>

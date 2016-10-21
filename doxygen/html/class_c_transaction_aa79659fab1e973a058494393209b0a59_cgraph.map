@@ -1,0 +1,12 @@
+<map id="CTransaction::SerializationOp" name="CTransaction::SerializationOp">
+<area shape="rect" id="node2" href="$transaction_8h.html#a69fc812a216630697a475ff58171d29c" title="SerializeTransaction" alt="" coords="267,5,406,32"/>
+<area shape="rect" id="node3" href="$class_c_transaction.html#af57dc6caa30929cf86638395f0f29fa1" title="CTransaction::UpdateHash" alt="" coords="248,56,425,83"/>
+<area shape="rect" id="node4" href="$hash_8h.html#a6de694e43f17c62025c6883965b65e63" title="SerializeHash" alt="" coords="473,56,576,83"/>
+<area shape="rect" id="node5" href="$class_c_hash_writer.html#ae94a937211502eabf19477630090093a" title="CHashWriter::GetHash" alt="" coords="624,56,779,83"/>
+<area shape="rect" id="node6" href="$class_c_hash256.html#aa8a70c1b7cf24ce7d00240a1131cf4e7" title="CHash256::Finalize" alt="" coords="827,56,961,83"/>
+<area shape="rect" id="node7" href="$class_c_s_h_a256.html#a4259230be0caefa590bc324fc12b9b90" title="CSHA256::Finalize" alt="" coords="1009,5,1141,32"/>
+<area shape="rect" id="node8" href="$class_c_s_h_a256.html#a9d7de520a562655da85349372820c883" title="CSHA256::Write" alt="" coords="1189,31,1308,57"/>
+<area shape="rect" id="node11" href="$class_c_s_h_a256.html#a2122395dd5604990eaa0077b43a0e8d4" title="CSHA256::Reset" alt="" coords="1015,107,1136,133"/>
+<area shape="rect" id="node9" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1356,31,1428,57"/>
+<area shape="rect" id="node10" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1476,31,1557,57"/>
+</map>

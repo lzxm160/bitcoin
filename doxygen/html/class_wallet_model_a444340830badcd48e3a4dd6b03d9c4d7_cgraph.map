@@ -1,0 +1,20 @@
+<map id="WalletModel::setWalletEncrypted" name="WalletModel::setWalletEncrypted">
+<area shape="rect" id="node2" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="269,208,428,235"/>
+<area shape="rect" id="node3" href="$random_8cpp.html#ad3431dd191f6ae9977f482c150da3d6f" title="GetStrongRandBytes" alt="" coords="515,107,660,133"/>
+<area shape="rect" id="node10" href="$utiltime_8cpp.html#a139d0fe6387b9e230a9b8bb12d9b43b9" title="GetTimeMillis" alt="" coords="537,157,638,184"/>
+<area shape="rect" id="node11" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="476,208,699,235"/>
+<area shape="rect" id="node12" href="$class_c_crypter.html#a329901fe08961af3db216022b4f21369" title="CCrypter::Encrypt" alt="" coords="524,259,651,285"/>
+<area shape="rect" id="node14" href="$class_c_d_b.html#acfb8a373edb9c4cfab780fb7578b277e" title="CDB::Rewrite" alt="" coords="537,385,637,412"/>
+<area shape="rect" id="node4" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="791,5,897,32"/>
+<area shape="rect" id="node5" href="$class_c_s_h_a512.html#aefd8260a2c205f11d44670ae68f1aff0" title="CSHA512::Write" alt="" coords="989,107,1108,133"/>
+<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1156,132,1228,159"/>
+<area shape="rect" id="node8" href="$class_c_s_h_a512.html#aef4627aae19eeeb54bf02ea7b222b688" title="CSHA512::Finalize" alt="" coords="778,107,910,133"/>
+<area shape="rect" id="node9" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="783,208,905,235"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1276,132,1357,159"/>
+<area shape="rect" id="node13" href="$class_a_e_s256_c_b_c_encrypt.html#aa61a093650dd1bbaf21b0f8e2f3cdc1d" title="AES256CBCEncrypt::Encrypt" alt="" coords="747,259,941,285"/>
+<area shape="rect" id="node15" href="$class_c_d_b_env.html#ac53fd53afdd1e0881b8ffbb11a89b556" title="CDBEnv::CloseDb" alt="" coords="781,309,907,336"/>
+<area shape="rect" id="node16" href="$class_c_d_b_env.html#aa4e0fe52dfc0da22fe9bf59eeda57fba" title="CDBEnv::CheckpointLSN" alt="" coords="760,360,928,387"/>
+<area shape="rect" id="node17" href="$class_c_data_stream.html#ac6567f6d600d644d9855b52bb59049cd" title="CDataStream::size" alt="" coords="778,411,910,437"/>
+<area shape="rect" id="node18" href="$class_c_data_stream.html#ade6ed9a3a481e333900e6496707b9692" title="CDataStream::clear" alt="" coords="776,461,912,488"/>
+<area shape="rect" id="node19" href="$utiltime_8cpp.html#ac635182d3e845eda4af4fa5ab31609da" title="MilliSleep" alt="" coords="805,512,883,539"/>
+</map>

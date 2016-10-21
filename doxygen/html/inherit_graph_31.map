@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_base_signature_creator.html" title="BaseSignatureCreator" alt="" coords="5,31,155,57"/>
+<area shape="rect" id="node2" href="$class_dummy_signature_creator.html" title="DummySignatureCreator" alt="" coords="214,5,378,32"/>
+<area shape="rect" id="node3" href="$class_transaction_signature_creator.html" title="TransactionSignatureCreator" alt="" coords="203,56,389,83"/>
+<area shape="rect" id="node4" href="$class_mutable_transaction_signature_creator.html" title="MutableTransactionSignature\lCreator" alt="" coords="437,49,628,90"/>
+</map>

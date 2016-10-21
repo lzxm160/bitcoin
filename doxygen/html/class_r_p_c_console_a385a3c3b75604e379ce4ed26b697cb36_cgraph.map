@@ -1,0 +1,9 @@
+<map id="RPCConsole::setFontSize" name="RPCConsole::setFontSize">
+<area shape="rect" id="node2" href="$rpcconsole_8cpp.html#aa2dbbb8d07fa94117835608f55f0318a" title="FONT_RANGE" alt="" coords="239,21,349,47"/>
+<area shape="rect" id="node3" href="$class_r_p_c_console.html#a8ce64bac6c4420afacee4d2ead446649" title="RPCConsole::clear" alt="" coords="228,71,360,98"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a1fec7b0941e6ec411a717e1efb22a863" title="PlatformStyle::SingleColor\lImage" alt="" coords="408,5,583,47"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="418,71,573,98"/>
+<area shape="rect" id="node7" href="$class_r_p_c_console.html#ad7a93a587a78b0080a930bd325460b20" title="RPCConsole::message" alt="" coords="417,122,574,149"/>
+<area shape="rect" id="node5" href="$class_platform_style.html#a1c21234aff601548130e5b52c0fcfc47" title="PlatformStyle::SingleColor" alt="" coords="631,13,805,39"/>
+<area shape="rect" id="node8" href="$namespace_g_u_i_util.html#a2d4b7f2c11ebc4b97af10bc20d19b1b2" title="GUIUtil::HtmlEscape" alt="" coords="647,122,789,149"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TorController::TorController" name="TorController::TorController">
+<area shape="rect" id="node2" href="$class_tor_control_connection.html#a36b6359caf9a304efe310b9b7141a939" title="TorControlConnection\l::Connect" alt="" coords="237,5,384,47"/>
+<area shape="rect" id="node4" href="$class_tor_controller.html#a524481ece961670f745dbbfb4d9d5a33" title="TorController::GetPrivate\lKeyFile" alt="" coords="229,71,392,112"/>
+<area shape="rect" id="node3" href="$class_tor_control_connection.html#addb42114063641eab12be2fc39b859d5" title="TorControlConnection\l::Disconnect" alt="" coords="440,5,587,47"/>
+<area shape="rect" id="node5" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="470,78,557,105"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="667,27,793,54"/>
+<area shape="rect" id="node7" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="681,78,779,105"/>
+<area shape="rect" id="node8" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="635,129,825,155"/>
+</map>

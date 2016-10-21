@@ -1,0 +1,24 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_uni_value.html#a3d941ccb4afeb53cb104939e91c6f599" title="UniValue::clear" alt="" coords="261,5,371,32"/>
+<area shape="rect" id="node3" href="$class_uni_value.html#a70c4bfad8015106cc480042462f413c1" title="UniValue::isNull" alt="" coords="259,56,373,83"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#ae8e17c2a90b668d0771a0523d70cd70d" title="UniValue::getValStr" alt="" coords="248,107,384,133"/>
+<area shape="rect" id="node5" href="$class_uni_value.html#a0894e98fb8db031d2477c70147e0fd18" title="UniValue::setObject" alt="" coords="247,157,385,184"/>
+<area shape="rect" id="node6" href="$class_uni_value.html#a1495362616cd6711b20022182b2e6536" title="UniValue::isObject" alt="" coords="251,208,381,235"/>
+<area shape="rect" id="node7" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="263,259,369,285"/>
+<area shape="rect" id="node8" href="$class_uni_value.html#abe136a74397b68cc5243c170064cf6ff" title="UniValue::getType" alt="" coords="252,309,380,336"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#a84bce5e964f68f3cd732095910969ad7" title="UniValue::empty" alt="" coords="257,360,375,387"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a00c402e60dbabcf3b4ea4246552bcacb" title="UniValue::setArray" alt="" coords="251,411,381,437"/>
+<area shape="rect" id="node11" href="$class_uni_value.html#a58313bd5c29e30b861079ca9d7c9c2b9" title="UniValue::isArray" alt="" coords="255,461,377,488"/>
+<area shape="rect" id="node12" href="$class_uni_value.html#ac20022e977498c332838daf4bf4f0948" title="UniValue::setStr" alt="" coords="257,512,375,539"/>
+<area shape="rect" id="node13" href="$class_uni_value.html#ab2a363f4deef3cc0088845e9e171bf50" title="UniValue::isStr" alt="" coords="261,563,371,589"/>
+<area shape="rect" id="node14" href="$class_uni_value.html#af887f08e539e589accea7beebd51eaae" title="UniValue::setFloat" alt="" coords="251,613,381,640"/>
+<area shape="rect" id="node15" href="$class_uni_value.html#a7fbb6d10b1353a8522f7b0d0784fa5b8" title="UniValue::isNum" alt="" coords="257,664,375,691"/>
+<area shape="rect" id="node16" href="$class_uni_value.html#a9b2df9e0db0d6370fd59783a7942af91" title="UniValue::setInt" alt="" coords="259,715,373,741"/>
+<area shape="rect" id="node17" href="$class_uni_value.html#a073f2837ea47118d3be94360e3e93061" title="UniValue::setNumStr" alt="" coords="244,765,388,792"/>
+<area shape="rect" id="node18" href="$class_uni_value.html#afd5b112dc63426ca6b0a6137041e0809" title="UniValue::setBool" alt="" coords="253,816,379,843"/>
+<area shape="rect" id="node19" href="$class_uni_value.html#a90fbe6da57ac8aca50a339572db234ee" title="UniValue::isBool" alt="" coords="257,867,375,893"/>
+<area shape="rect" id="node20" href="$class_uni_value.html#a74fc2d8e439542b82228c0d0bb0626a4" title="UniValue::isTrue" alt="" coords="436,968,553,995"/>
+<area shape="rect" id="node21" href="$class_uni_value.html#aef42bc672fda4bf8d2ada190ed1de28d" title="UniValue::isFalse" alt="" coords="254,968,378,995"/>
+<area shape="rect" id="node22" href="$class_uni_value.html#ab28e9956f511cfe0db77e41cd6e488f3" title="UniValue::getBool" alt="" coords="253,1019,379,1045"/>
+<area shape="rect" id="node23" href="$class_uni_value.html#a9532075643c9c9876fd0f1b62fcc3f92" title="UniValue::setNull" alt="" coords="255,1069,377,1096"/>
+</map>

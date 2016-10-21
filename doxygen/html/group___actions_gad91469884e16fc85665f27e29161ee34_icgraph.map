@@ -1,0 +1,8 @@
+<map id="CWallet::GetImmatureBalance" name="CWallet::GetImmatureBalance">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a7444972994dad1499ba204bb8734fd7b" title="WalletModel::getImmature\lBalance" alt="" coords="252,23,427,65"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a28a02b96aa185b33ba6cfbd96b99cebc" title="getwalletinfo" alt="" coords="293,89,386,116"/>
+<area shape="rect" id="node3" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="475,5,675,32"/>
+<area shape="rect" id="node6" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="483,56,666,83"/>
+<area shape="rect" id="node4" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="723,31,908,57"/>
+<area shape="rect" id="node5" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="956,31,1119,57"/>
+</map>

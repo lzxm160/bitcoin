@@ -1,0 +1,16 @@
+<map id="CAddrMan::Delete" name="CAddrMan::Delete">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#ab283de3e750f006c85573976bd40da81" title="Clear a position in a &quot;new&quot; table. This is the only place where entries are actually deleted..." alt="" coords="185,44,332,71"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="419,95,540,121"/>
+<area shape="rect" id="node13" href="$class_c_addr_man.html#a68eaf1797ecb8bff380aa7f9fc452e14" title="CAddrMan::Unserialize" alt="" coords="181,145,336,172"/>
+<area shape="rect" id="node14" href="$class_c_addr_man_test.html#ab2ae70434310d6a19b84bb7283b3a821" title="CAddrManTest::Delete" alt="" coords="182,196,335,223"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="404,44,555,71"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="623,44,752,71"/>
+<area shape="rect" id="node5" href="$class_c_addr_man.html#a993e80e74701d7bc6bb49880c387b847" title="Mark an entry as accessible. " alt="" coords="841,31,963,57"/>
+<area shape="rect" id="node6" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="1052,5,1255,32"/>
+<area shape="rect" id="node7" href="$addrman__tests_8cpp.html#a68763c565f212d2fecd6c99f11b4d2d9" title="BOOST_AUTO_TEST_CASE" alt="" coords="1058,56,1249,83"/>
+<area shape="rect" id="node9" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="630,120,745,147"/>
+<area shape="rect" id="node10" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="807,81,997,108"/>
+<area shape="rect" id="node11" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="800,132,1004,159"/>
+<area shape="rect" id="node12" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="807,183,997,209"/>
+<area shape="rect" id="node15" href="$addrman__tests_8cpp.html#ac3c7a96f8d68dea67f82acb79e8609a3" title="BOOST_AUTO_TEST_CASE" alt="" coords="384,196,575,223"/>
+</map>

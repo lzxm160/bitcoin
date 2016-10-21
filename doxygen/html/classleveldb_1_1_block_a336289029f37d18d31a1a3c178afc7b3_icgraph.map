@@ -1,0 +1,15 @@
+<map id="leveldb::Block::NewIterator" name="leveldb::Block::NewIterator">
+<area shape="rect" id="node2" href="$classleveldb_1_1_table.html#ad354f57ece050ca0c5f42669b7c01cc2" title="leveldb::Table::NewIterator" alt="" coords="232,121,405,148"/>
+<area shape="rect" id="node10" href="$classleveldb_1_1_table.html#a1795d45c54945ee7652b19e6ad6c030b" title="leveldb::Table::Approximate\lOffsetOf" alt="" coords="228,173,409,214"/>
+<area shape="rect" id="node13" href="$classleveldb_1_1_block_constructor.html#a94b568e7f3aa7ad26eda141c3b4297ca" title="leveldb::BlockConstructor\l::NewIterator" alt="" coords="234,238,403,279"/>
+<area shape="rect" id="node14" href="$namespaceleveldb.html#af55d0693f84c040c3bf5ef986c6ad27e" title="leveldb::TEST" alt="" coords="268,304,369,331"/>
+<area shape="rect" id="node3" href="$classleveldb_1_1_table_cache.html#afe8c83b1cbbf3bfc06c66a69611aa250" title="leveldb::TableCache\l::NewIterator" alt="" coords="472,49,609,90"/>
+<area shape="rect" id="node9" href="$classleveldb_1_1_table_constructor.html#a4897f3cb58fed2bd3a9f7f6468b6a105" title="leveldb::TableConstructor\l::NewIterator" alt="" coords="457,114,624,155"/>
+<area shape="rect" id="node4" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="703,5,832,32"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_version.html#a035a0fa5bfe7ab84a711b1138b0b9a3d" title="leveldb::Version::AddIterators" alt="" coords="672,56,863,83"/>
+<area shape="rect" id="node6" href="$classleveldb_1_1_version_set.html#ada7f3ed63b1c48adb6e5b38348b300e1" title="leveldb::VersionSet\l::ApproximateOffsetOf" alt="" coords="692,173,843,214"/>
+<area shape="rect" id="node8" href="$classleveldb_1_1_version_set.html#a181194e96a88e69a60c1fda9cf3c4651" title="leveldb::VersionSet\l::MakeInputIterator" alt="" coords="701,107,834,149"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_d_b_impl.html#af08e218d92064699942c195ce0f06010" title="leveldb::DBImpl::GetApproximate\lSizes" alt="" coords="911,173,1124,214"/>
+<area shape="rect" id="node11" href="$classleveldb_1_1_table_constructor.html#a798ee199e8fdc5ec020725dba32a4cb6" title="leveldb::TableConstructor\l::ApproximateOffsetOf" alt="" coords="457,231,624,273"/>
+<area shape="rect" id="node12" href="$namespaceleveldb.html#a3c4934cad4099a61dd153fe6a1d5f85e" title="leveldb::TEST" alt="" coords="717,239,818,265"/>
+</map>

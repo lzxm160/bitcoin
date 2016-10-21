@@ -1,0 +1,25 @@
+<map id="TxConfirmStats::GetMaxConfirms" name="TxConfirmStats::GetMaxConfirms">
+<area shape="rect" id="node2" href="$class_tx_confirm_stats.html#a7ac4f70e6029ecf06e8d1528ab9c33f1" title="TxConfirmStats::Estimate\lMedianVal" alt="" coords="269,211,440,253"/>
+<area shape="rect" id="node6" href="$class_c_block_policy_estimator.html#a55418a0d0c84ff184d67b1bd366ca525" title="CBlockPolicyEstimator\l::estimateFee" alt="" coords="488,81,644,122"/>
+<area shape="rect" id="node10" href="$class_c_block_policy_estimator.html#acc6d4370b7b3942507647904043b181a" title="CBlockPolicyEstimator\l::estimateSmartFee" alt="" coords="488,146,644,187"/>
+<area shape="rect" id="node16" href="$class_c_block_policy_estimator.html#adcaa52e6fdabbf8b0907bb5521aaa4f9" title="CBlockPolicyEstimator\l::estimatePriority" alt="" coords="488,277,644,318"/>
+<area shape="rect" id="node19" href="$class_c_block_policy_estimator.html#a81d98a40d7560a1edec92d565bb7ba4b" title="CBlockPolicyEstimator\l::estimateSmartPriority" alt="" coords="488,342,644,383"/>
+<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html#a4dbf4773f292c71c51cd17b7eb67dad0" title="CBlockPolicyEstimator\l::processBlock" alt="" coords="488,211,644,253"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#aea14d073b24e31251465ac3c2279ee65" title="CTxMemPool::removeForBlock" alt="" coords="699,215,900,241"/>
+<area shape="rect" id="node5" href="$mempool__tests_8cpp.html#a775653dcab3f73c3dc74559ef7dbd6c5" title="BOOST_AUTO_TEST_CASE" alt="" coords="955,208,1145,235"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#ae0a5ad226288e4b209c6629328269469" title="CTxMemPool::estimateFee" alt="" coords="709,88,889,115"/>
+<area shape="rect" id="node8" href="$mining_8cpp.html#abf27209855c39328246f9bf542c83475" title="estimatefee" alt="" coords="1005,5,1095,32"/>
+<area shape="rect" id="node9" href="$policyestimator__tests_8cpp.html#a16bb8afdd1c29d823bb04824dc255a28" title="BOOST_AUTO_TEST_CASE" alt="" coords="955,259,1145,285"/>
+<area shape="rect" id="node11" href="$class_c_tx_mem_pool.html#ad71c73ef57c626a00f5a4e5c3daae748" title="CTxMemPool::estimateSmartFee" alt="" coords="692,153,907,180"/>
+<area shape="rect" id="node12" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="1233,150,1366,191"/>
+<area shape="rect" id="node14" href="$mining_8cpp.html#ac42427ba4c097cf34d08567b3e876d6f" title="estimatesmartfee" alt="" coords="989,56,1111,83"/>
+<area shape="rect" id="node15" href="$group___actions.html#ga64a76474added26d9fbf904b5dd978a8" title="CWallet::GetMinimumFee" alt="" coords="964,157,1136,184"/>
+<area shape="rect" id="node13" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="1453,150,1587,191"/>
+<area shape="rect" id="node17" href="$class_c_tx_mem_pool.html#aa30175b2668fcefb3d4f224d38d5732e" title="CTxMemPool::estimatePriority" alt="" coords="700,284,899,311"/>
+<area shape="rect" id="node18" href="$mining_8cpp.html#ad42aeaf15121dc760b090f64ef9d5484" title="estimatepriority" alt="" coords="995,309,1105,336"/>
+<area shape="rect" id="node20" href="$class_c_tx_mem_pool.html#a2f31d51036f974e87b0c09333938a038" title="CTxMemPool::estimateSmart\lPriority" alt="" coords="703,353,896,394"/>
+<area shape="rect" id="node21" href="$mining_8cpp.html#a517e3ca69b9b9ebe24dd3b5a22f348cb" title="estimatesmartpriority" alt="" coords="978,461,1122,488"/>
+<area shape="rect" id="node22" href="$group___actions.html#ga0a899bf61e6cd56fa9a30e45e61e25be" title="CWallet::CreateTransaction" alt="" coords="959,411,1141,437"/>
+<area shape="rect" id="node23" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="1193,436,1405,463"/>
+<area shape="rect" id="node24" href="$rpcwallet_8cpp.html#a02c1a7b5244896e62bc5ae698f7a76c9" title="sendmany" alt="" coords="1258,385,1341,412"/>
+</map>

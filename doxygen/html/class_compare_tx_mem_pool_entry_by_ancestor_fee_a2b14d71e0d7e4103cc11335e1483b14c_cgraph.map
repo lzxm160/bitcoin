@@ -1,0 +1,6 @@
+<map id="CompareTxMemPoolEntryByAncestorFee::operator()" name="CompareTxMemPoolEntryByAncestorFee::operator()">
+<area shape="rect" id="node2" href="$class_c_tx_mem_pool_entry.html#aaf9bccb404733dedfa2172f60a27927b" title="CTxMemPoolEntry::GetModFees\lWithAncestors" alt="" coords="296,5,511,47"/>
+<area shape="rect" id="node3" href="$class_c_tx_mem_pool_entry.html#a15be2400b3fc100276ca2ee9905a3c57" title="CTxMemPoolEntry::GetSize\lWithAncestors" alt="" coords="310,71,497,112"/>
+<area shape="rect" id="node4" href="$class_c_tx_mem_pool_entry.html#a59f51f38161c191dae2614c53ed40fb2" title="CTxMemPoolEntry::GetTx" alt="" coords="316,137,491,163"/>
+<area shape="rect" id="node5" href="$class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990" title="CTransaction::GetHash" alt="" coords="325,187,482,214"/>
+</map>

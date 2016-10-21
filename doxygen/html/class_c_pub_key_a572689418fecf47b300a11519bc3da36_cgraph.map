@@ -1,0 +1,9 @@
+<map id="CPubKey::Decompress" name="CPubKey::Decompress">
+<area shape="rect" id="node2" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="227,5,351,32"/>
+<area shape="rect" id="node3" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="415,31,524,57"/>
+<area shape="rect" id="node4" href="$secp256k1_8h.html#a4e5dc8952c9a7e791376505ef2023ca1" title="secp256k1_ec_pubkey\l_parse" alt="" coords="212,107,367,149"/>
+<area shape="rect" id="node5" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="212,173,367,214"/>
+<area shape="rect" id="node6" href="$class_c_pub_key.html#af59bc1d3be119c1f8b49d3c1e2c0797b" title="Initialize a public key using begin/end iterators to byte data. " alt="" coords="237,239,342,265"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="433,239,505,265"/>
+<area shape="rect" id="node8" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="572,239,653,265"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TransactionSignatureCreator" name="TransactionSignatureCreator">
+<area shape="rect" id="node2" href="$class_base_signature_creator.html" title="BaseSignatureCreator" alt="" coords="24,351,173,377"/>
+<area shape="rect" id="node3" href="$class_c_key_store.html" title="CKeyStore" alt="" coords="56,261,141,288"/>
+<area shape="rect" id="node4" href="$class_c_critical_section.html" title="CCriticalSection" alt="" coords="41,172,156,199"/>
+<area shape="rect" id="node5" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; boost\l::recursive_mutex \&gt;" alt="" coords="21,81,177,123"/>
+</map>

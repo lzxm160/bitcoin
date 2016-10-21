@@ -1,0 +1,10 @@
+<map id="CWallet::GetKeyFromPool" name="CWallet::GetKeyFromPool">
+<area shape="rect" id="node2" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="270,5,414,47"/>
+<area shape="rect" id="node3" href="$class_payment_server.html#ab846f9e8778e5cc878b644133e8628f1" title="PaymentServer::fetchPaymentACK" alt="" coords="229,71,455,98"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a271b9e4c68747b1c497a42e2379c590b" title="getnewaddress" alt="" coords="287,122,397,149"/>
+<area shape="rect" id="node5" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="263,173,421,199"/>
+<area shape="rect" id="node6" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="503,173,572,199"/>
+<area shape="rect" id="node7" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="661,147,723,174"/>
+<area shape="rect" id="node9" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="620,198,764,225"/>
+<area shape="rect" id="node8" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="812,147,863,174"/>
+</map>

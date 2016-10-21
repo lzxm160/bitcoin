@@ -1,0 +1,11 @@
+<map id="CWalletDB::EraseDestData" name="CWalletDB::EraseDestData">
+<area shape="rect" id="node2" href="$group___actions.html#gac6542da8493cbb958068b7a01c05b631" title="CWallet::DelAddressBook" alt="" coords="236,78,409,105"/>
+<area shape="rect" id="node5" href="$class_c_wallet.html#a9a03cf9972842588178387839f0ded3c" title="Erases a destination data tuple in the store and on disk. " alt="" coords="241,135,405,162"/>
+<area shape="rect" id="node3" href="$class_address_table_model.html#a5c6bd467fd1fc499d126fe2b7380ce5c" title="AddressTableModel::\lsetData" alt="" coords="472,5,616,47"/>
+<area shape="rect" id="node4" href="$class_address_table_model.html#a682e6e3374d65543e49769906c8916e5" title="AddressTableModel::\lremoveRows" alt="" coords="472,71,616,112"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a88d44bc0994c1701386f63b1f266637f" title="WalletModel::saveReceive\lRequest" alt="" coords="457,136,631,177"/>
+<area shape="rect" id="node7" href="$class_recent_requests_table_model.html#a63504be44ff9d33d5c508f6303622e5a" title="RecentRequestsTableModel\l::removeRows" alt="" coords="679,103,863,144"/>
+<area shape="rect" id="node8" href="$class_recent_requests_table_model.html#ae9866ffd5aed0f041437996410928edd" title="RecentRequestsTableModel\l::addNewRequest" alt="" coords="679,168,863,209"/>
+<area shape="rect" id="node9" href="$class_recent_requests_table_model.html#ab3ef691b8c34e6d6e5ae0bdf7953a360" title="RecentRequestsTableModel\l::RecentRequestsTableModel" alt="" coords="911,135,1103,176"/>
+<area shape="rect" id="node10" href="$class_recent_requests_table_model.html#aad0b9435284ed1f4b67852b34d7694a9" title="RecentRequestsTableModel\l::addNewRequest" alt="" coords="915,200,1099,241"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="BaseSignatureCreator" name="BaseSignatureCreator">
+<area shape="rect" id="node2" href="$class_dummy_signature_creator.html" title="DummySignatureCreator" alt="" coords="5,80,169,107"/>
+<area shape="rect" id="node3" href="$class_transaction_signature_creator.html" title="TransactionSignatureCreator" alt="" coords="194,80,381,107"/>
+<area shape="rect" id="node4" href="$class_mutable_transaction_signature_creator.html" title="MutableTransactionSignature\lCreator" alt="" coords="192,155,383,196"/>
+</map>

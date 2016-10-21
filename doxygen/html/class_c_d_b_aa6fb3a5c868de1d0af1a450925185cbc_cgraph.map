@@ -1,0 +1,27 @@
+<map id="CDB::CDB" name="CDB::CDB">
+<area shape="rect" id="node2" href="$class_c_d_b_env.html#aaaef61cd032e25144c06e405fb7f93cf" title="CDBEnv::Open" alt="" coords="149,154,258,181"/>
+<area shape="rect" id="node8" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="741,230,827,257"/>
+<area shape="rect" id="node21" href="$class_c_d_b_env.html#ae44129114301a41635c3707c6bc92ab1" title="CDBEnv::IsMock" alt="" coords="143,281,263,307"/>
+<area shape="rect" id="node22" href="$class_c_d_b.html#a5f7d7854dcbcec1b1f85bc6a0008563e" title="CDB::Exists" alt="" coords="335,331,430,358"/>
+<area shape="rect" id="node25" href="$class_c_d_b.html#aa3e63c0921af4c6fc92def1ba14500f1" title="CDB::WriteVersion" alt="" coords="137,382,269,409"/>
+<area shape="rect" id="node3" href="$util_8cpp.html#a4458ca67cacd593b21c8e1386d192064" title="TryCreateDirectory" alt="" coords="317,78,448,105"/>
+<area shape="rect" id="node4" href="$util_8cpp.html#a64d956f1dda7f9a80ab5d594532b906d" title="GetBoolArg" alt="" coords="338,129,427,155"/>
+<area shape="rect" id="node5" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="359,179,407,206"/>
+<area shape="rect" id="node6" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="527,179,614,206"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#ad784060b98bfd4f1b3089fbb7686a676" title="Format list of arguments to the stream according to given format string. " alt="" coords="509,129,632,155"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="721,179,847,206"/>
+<area shape="rect" id="node9" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="955,281,1081,307"/>
+<area shape="rect" id="node10" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="969,179,1067,206"/>
+<area shape="rect" id="node11" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="923,230,1113,257"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="tinyformat::vformat" alt="" coords="720,78,848,105"/>
+<area shape="rect" id="node20" href="$namespacetinyformat.html#ab7fedd020bd6b353233d0ecbd686a007" title="tinyformat::makeFormatList" alt="" coords="693,129,875,155"/>
+<area shape="rect" id="node14" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="959,71,1077,112"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1165,5,1330,47"/>
+<area shape="rect" id="node16" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1161,71,1333,112"/>
+<area shape="rect" id="node19" href="$classtinyformat_1_1detail_1_1_format_arg.html#acf5721edb4cd5009995b48211614667e" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1180,136,1315,177"/>
+<area shape="rect" id="node17" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1381,37,1529,79"/>
+<area shape="rect" id="node18" href="$classtinyformat_1_1detail_1_1_format_arg.html#a3cc3ee90db72cd62b5e0813f70bf5185" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1393,103,1517,144"/>
+<area shape="rect" id="node23" href="$class_c_data_stream.html#a5542e71bd7af2ab7cd7be0f381d39cb5" title="CDataStream::reserve" alt="" coords="496,382,645,409"/>
+<area shape="rect" id="node24" href="$class_c_data_stream.html#ac6567f6d600d644d9855b52bb59049cd" title="CDataStream::size" alt="" coords="505,331,637,358"/>
+<area shape="rect" id="node26" href="$class_c_d_b.html#a7fb5b4fa36e57e17287f2c1c762bd708" title="CDB::Write" alt="" coords="339,382,427,409"/>
+</map>

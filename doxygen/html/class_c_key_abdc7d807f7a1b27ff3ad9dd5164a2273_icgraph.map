@@ -1,0 +1,11 @@
+<map id="CKey::IsCompressed" name="CKey::IsCompressed">
+<area shape="rect" id="node2" href="$class_c_bitcoin_secret.html#a3629c0fce320664c3c07cb082939d6ec" title="CBitcoinSecret::SetKey" alt="" coords="212,71,372,98"/>
+<area shape="rect" id="node5" href="$class_c_key.html#a1bae09b7447a951d8fc3328b7dcc3a3f" title="Derive BIP32 child key. " alt="" coords="243,122,341,149"/>
+<area shape="rect" id="node10" href="$class_transaction_signature_creator.html#a5bcef0a18e729f372e6123c94710caa4" title="TransactionSignatureCreator\l::CreateSig" alt="" coords="199,173,385,215"/>
+<area shape="rect" id="node3" href="$class_c_bitcoin_secret.html#a0358baa459a1f22661b601d9d83eacf8" title="CBitcoinSecret::CBitcoin\lSecret" alt="" coords="445,5,612,47"/>
+<area shape="rect" id="node4" href="$base58__tests_8cpp.html#a1fd3203c7badbc6513c9dcaf58d4ccf9" title="BOOST_AUTO_TEST_CASE" alt="" coords="433,71,624,98"/>
+<area shape="rect" id="node6" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="470,122,587,149"/>
+<area shape="rect" id="node7" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="731,97,801,123"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="672,147,860,174"/>
+<area shape="rect" id="node8" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="908,97,1099,123"/>
+</map>

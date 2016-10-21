@@ -1,0 +1,7 @@
+<map id="CWallet::LoadToWallet" name="CWallet::LoadToWallet">
+<area shape="rect" id="node2" href="$class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990" title="CTransaction::GetHash" alt="" coords="208,5,365,32"/>
+<area shape="rect" id="node3" href="$class_c_wallet_tx.html#ab0ee7347584bff886dc24b9f63ff023c" title="CWalletTx::BindWallet" alt="" coords="210,56,363,83"/>
+<area shape="rect" id="node5" href="$class_c_merkle_tx.html#aada56323da45b9cef191c846725bc382" title="CMerkleTx::hashUnset" alt="" coords="209,107,364,133"/>
+<area shape="rect" id="node4" href="$class_c_wallet_tx.html#ac8a376bcb955e437489504dc596b43cf" title="make sure balances are recalculated " alt="" coords="413,56,560,83"/>
+<area shape="rect" id="node6" href="$classbase__blob.html#aff2f3d1d623d91b6895a6a153434770e" title="base_blob::IsNull" alt="" coords="426,107,547,133"/>
+</map>

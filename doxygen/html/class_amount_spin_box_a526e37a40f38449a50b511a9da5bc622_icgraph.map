@@ -1,0 +1,6 @@
+<map id="AmountSpinBox::value" name="AmountSpinBox::value">
+<area shape="rect" id="node2" href="$class_amount_spin_box.html#a055616d98771e6fcef3ee225d7b09ee9" title="AmountSpinBox::stepBy" alt="" coords="228,5,393,32"/>
+<area shape="rect" id="node3" href="$class_amount_spin_box.html#aef946e84b685f35c02782b50f4cce842" title="AmountSpinBox::setDisplayUnit" alt="" coords="207,56,415,83"/>
+<area shape="rect" id="node4" href="$class_amount_spin_box.html#a08f9cce15aa3b35b66a2f8d2ff8c455c" title="AmountSpinBox::stepEnabled" alt="" coords="213,107,409,133"/>
+<area shape="rect" id="node5" href="$class_bitcoin_amount_field.html#a9a4b7d7ef7bee82a401cd572dfa9821c" title="BitcoinAmountField\l::value" alt="" coords="243,158,378,199"/>
+</map>

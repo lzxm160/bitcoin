@@ -1,0 +1,51 @@
+<map id="CBlockIndex::GetBlockTime" name="CBlockIndex::GetBlockTime">
+<area shape="rect" id="node2" href="$class_c_block_index.html#abffb24cc73329a3dce024403ba770b4a" title="CBlockIndex::GetMedianTimePast" alt="" coords="498,410,719,437"/>
+<area shape="rect" id="node18" href="$namespace_checkpoints.html#aa2e60b5114a431ccaff32a6e1f418af1" title="Guess how far we are in the verification process at the given block index. " alt="" coords="239,1036,443,1078"/>
+<area shape="rect" id="node22" href="$group__map_wallet.html#ga979a17e80e4897ed1f4ae9a4be7c493c" title="CWallet::ScanForWalletTransactions" alt="" coords="491,1196,727,1222"/>
+<area shape="rect" id="node26" href="$rpcwallet_8cpp.html#a71dce63ec2a80b836bab5f31fef8da46" title="importwallet" alt="" coords="827,1398,917,1425"/>
+<area shape="rect" id="node28" href="$main_8h.html#a5edcd96316574fd4a7f3ae0922a5cfd6" title="IsInitialBlockDownload" alt="" coords="265,740,416,766"/>
+<area shape="rect" id="node31" href="$main_8h.html#ab1f510e2b3980e61191ea680ace85665" title="SendMessages" alt="" coords="553,892,665,918"/>
+<area shape="rect" id="node36" href="$main_8h.html#aa57c8df97fb2e5339d528d6f30c9c808" title="ConnectBlock" alt="" coords="289,90,392,117"/>
+<area shape="rect" id="node38" href="$pow_8h.html#a4f7bb22f6a188117b401966decb048b5" title="GetNextWorkRequired" alt="" coords="533,217,685,244"/>
+<area shape="rect" id="node39" href="$pow_8h.html#ae040e051ee33e04c33124b0742480f0c" title="CalculateNextWorkRequired" alt="" coords="248,217,433,244"/>
+<area shape="rect" id="node41" href="$class_client_model.html#aa125307506dab8fa7eed17fd74af2c81" title="ClientModel::getHeaderTipTime" alt="" coords="507,1373,710,1400"/>
+<area shape="rect" id="node43" href="$class_client_model.html#a3dd65362947749364c48ff53a37820db" title="ClientModel::getLastBlockDate" alt="" coords="508,1102,709,1129"/>
+<area shape="rect" id="node44" href="$mining_8cpp.html#a5f6e044d7c2d84b3beb3a356b02e025b" title="GetNetworkHashPS" alt="" coords="271,1348,410,1374"/>
+<area shape="rect" id="node46" href="$rawtransaction_8cpp.html#a719639f5d779706aae5c283784b3fd66" title="TxToJSON" alt="" coords="567,964,651,990"/>
+<area shape="rect" id="node49" href="$pow__tests_8cpp.html#ad906e88651e518a01ad7dc7846222ae1" title="BOOST_AUTO_TEST_CASE" alt="" coords="245,1398,436,1425"/>
+<area shape="rect" id="node50" href="$rpcwallet_8cpp.html#a84626901983e76a517c35e461a9a9442" title="dumpwallet" alt="" coords="297,1449,384,1476"/>
+<area shape="rect" id="node3" href="$main_8h.html#a6cb9692522ea533161204264849df858" title="CheckFinalTx" alt="" coords="821,436,923,462"/>
+<area shape="rect" id="node6" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="1023,486,1214,513"/>
+<area shape="rect" id="node8" href="$main_8h.html#ab32629f48779a272349654a1d98214d3" title="ContextualCheckBlockHeader" alt="" coords="775,65,969,92"/>
+<area shape="rect" id="node10" href="$class_block_assembler.html#acd45f01ed2556e805c82907def19efcb" title="BlockAssembler::CreateNew\lBlock" alt="" coords="1268,159,1456,200"/>
+<area shape="rect" id="node11" href="$mining_8cpp.html#a054ca23f5d86a8ca30138464ba10008c" title="getblocktemplate" alt="" coords="1504,225,1625,252"/>
+<area shape="rect" id="node12" href="$main_8h.html#ab45336f6fc64d2ac96b0052ddeb00893" title="ContextualCheckBlock" alt="" coords="795,116,949,142"/>
+<area shape="rect" id="node13" href="$miner_8h.html#a9c09903c7d6401b5405db02af064179c" title="UpdateTime" alt="" coords="1073,221,1164,248"/>
+<area shape="rect" id="node14" href="$blockchain_8cpp.html#aa1e97ce578bfdae0125555bda5a2d48d" title="blockheaderToJSON" alt="" coords="802,268,942,294"/>
+<area shape="rect" id="node15" href="$blockchain_8cpp.html#a6b596f07acd85fe676c798170fd8ddbe" title="blockToJSON" alt="" coords="821,638,923,665"/>
+<area shape="rect" id="node16" href="$blockchain_8cpp.html#a85d3a2a7f9202d1413ce29fecf0074cd" title="getblockchaininfo" alt="" coords="811,588,933,614"/>
+<area shape="rect" id="node17" href="$class_abstract_threshold_condition_checker.html#ae3d2c60f88cf668b43088f173c717167" title="AbstractThresholdCondition\lChecker::GetStateFor" alt="" coords="781,319,963,360"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#aec6804bad46c6ac1246a59c665131395" title="AcceptToMemoryPoolWorker" alt="" coords="1023,638,1215,665"/>
+<area shape="rect" id="node5" href="$class_transaction_record.html#a9b643dd885a790ae511705a1446556be" title="TransactionRecord::\lupdateStatus" alt="" coords="1049,370,1188,411"/>
+<area shape="rect" id="node7" href="$class_c_tx_mem_pool.html#acf12e024f4d6d5c0437227bc419c28fb" title="CTxMemPool::removeForReorg" alt="" coords="1017,436,1220,462"/>
+<area shape="rect" id="node9" href="$main_8h.html#a12c39e969c9077605ae8a91730fb78d3" title="TestBlockValidity" alt="" coords="1057,108,1180,134"/>
+<area shape="rect" id="node19" href="$class_client_model.html#a99f914ee1bf842509b93b81dca6505cc" title="ClientModel::getVerification\lProgress" alt="" coords="519,1036,699,1078"/>
+<area shape="rect" id="node20" href="$class_bitcoin_g_u_i.html#a99d71e1f8478ab937ce2522c8d3815e3" title="BitcoinGUI::setClientModel" alt="" coords="1029,1145,1208,1172"/>
+<area shape="rect" id="node21" href="$class_r_p_c_console.html#a355349a33664a07628e9ca22a60f5fa7" title="RPCConsole::setClientModel" alt="" coords="777,1094,967,1121"/>
+<area shape="rect" id="node23" href="$rpcwallet_8cpp.html#ace3f8652191a347b888627b8e0a1d17c" title="importprivkey" alt="" coords="823,1196,921,1222"/>
+<area shape="rect" id="node24" href="$rpcwallet_8cpp.html#ac1c1bdd8d9afbd38348c2249102d2372" title="importaddress" alt="" coords="820,1246,924,1273"/>
+<area shape="rect" id="node25" href="$rpcwallet_8cpp.html#a289efe60311d54a0921b837fc9c9839c" title="importpubkey" alt="" coords="822,1297,922,1324"/>
+<area shape="rect" id="node27" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="793,1348,951,1374"/>
+<area shape="rect" id="node29" href="$main_8cpp.html#a730d390bfb0df0e54a5c2ddb901e748a" title="CheckForkWarningConditions" alt="" coords="511,740,706,766"/>
+<area shape="rect" id="node30" href="$main_8h.html#ab7be3f1b4119e8df383a4332ddbd344a" title="ActivateBestChain" alt="" coords="545,572,673,598"/>
+<area shape="rect" id="node35" href="$class_client_model.html#afc3389cd7eef94a0f20b6913beb05f40" title="Return true if core is doing initial block download. " alt="" coords="523,674,694,715"/>
+<area shape="rect" id="node32" href="$main_8h.html#ab02615ff65f91d69f8d786ec900baa8a" title="RegisterNodeSignals" alt="" coords="801,841,943,868"/>
+<area shape="rect" id="node33" href="$main_8h.html#a3ef0cc6e9d9d6435ee2a5569244d6ebd" title="UnregisterNodeSignals" alt="" coords="795,892,949,918"/>
+<area shape="rect" id="node34" href="$_do_s__tests_8cpp.html#a51108789f5c0593c183bf1961e6efb8d" title="BOOST_AUTO_TEST_CASE" alt="" coords="777,790,967,817"/>
+<area shape="rect" id="node37" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="538,90,679,117"/>
+<area shape="rect" id="node40" href="$pow__tests_8cpp.html#a641e2e8e27bc18ba2ce0ddd6c936f0e8" title="BOOST_AUTO_TEST_CASE" alt="" coords="513,166,704,193"/>
+<area shape="rect" id="node42" href="$class_bitcoin_g_u_i.html#a6cd4a94b6742919131e9ce2154580711" title="BitcoinGUI::setNumBlocks" alt="" coords="783,1500,961,1526"/>
+<area shape="rect" id="node45" href="$mining_8cpp.html#a5691372c7149be5201e6431944bfaef6" title="getnetworkhashps" alt="" coords="545,1424,672,1450"/>
+<area shape="rect" id="node47" href="$rawtransaction_8cpp.html#aab9a57fd8f857122f587feee00a7757c" title="getrawtransaction" alt="" coords="810,993,934,1020"/>
+<area shape="rect" id="node48" href="$rawtransaction_8cpp.html#abd3d6aa800b863a2e503ef322d680d9b" title="decoderawtransaction" alt="" coords="798,942,946,969"/>
+</map>

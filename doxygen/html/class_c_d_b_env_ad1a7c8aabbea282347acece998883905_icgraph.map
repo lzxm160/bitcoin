@@ -1,0 +1,9 @@
+<map id="CDBEnv::Salvage" name="CDBEnv::Salvage">
+<area shape="rect" id="node2" href="$class_c_wallet_d_b.html#af9fa539659473e1484dc280ec01c0b70" title="CWalletDB::Recover" alt="" coords="176,56,316,83"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#ga40cd608c974a83e58af882d4421b2fbc" title="Verify the wallet database and perform salvage if required. " alt="" coords="379,31,489,57"/>
+<area shape="rect" id="node8" href="$class_c_wallet_d_b.html#ad6efdef4b446547fe9ea745c98609695" title="CWalletDB::Recover" alt="" coords="364,81,504,108"/>
+<area shape="rect" id="node4" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="552,31,621,57"/>
+<area shape="rect" id="node5" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="710,5,773,32"/>
+<area shape="rect" id="node7" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="669,56,813,83"/>
+<area shape="rect" id="node6" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="861,5,912,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GetNetworkHashPS" name="GetNetworkHashPS">
+<area shape="rect" id="node2" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="249,5,338,32"/>
+<area shape="rect" id="node3" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="239,56,348,83"/>
+<area shape="rect" id="node4" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="260,107,327,133"/>
+<area shape="rect" id="node5" href="$class_c_chain_params.html#a34b124f87e3b7864fec208ba8879e9e9" title="CChainParams::GetConsensus" alt="" coords="192,157,395,184"/>
+<area shape="rect" id="node6" href="$struct_consensus_1_1_params.html#ab823155fd4642e162c3270ea0843ef25" title="Consensus::Params::\lDifficultyAdjustmentInterval" alt="" coords="205,209,382,250"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="201,275,386,301"/>
+<area shape="rect" id="node8" href="$classbase__uint.html#aa701be5115bacf02c299b05598cf616d" title="base_uint::getdouble" alt="" coords="222,325,365,352"/>
+</map>

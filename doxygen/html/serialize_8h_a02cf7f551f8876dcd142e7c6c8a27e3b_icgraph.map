@@ -1,0 +1,10 @@
+<map id="WriteCompactSize" name="WriteCompactSize">
+<area shape="rect" id="node2" href="$struct_c_ext_key.html#a1a0e45dcb7505c1d3e790cc7a8ecbeb7" title="CExtKey::Serialize" alt="" coords="213,5,345,32"/>
+<area shape="rect" id="node3" href="$class_c_pub_key.html#a315865ee4c45726c01fae44d53b180a1" title="CPubKey::Serialize" alt="" coords="212,56,347,83"/>
+<area shape="rect" id="node4" href="$struct_c_ext_pub_key.html#a2b712da53dc65694aefe2546b673f1d8" title="CExtPubKey::Serialize" alt="" coords="202,107,357,133"/>
+<area shape="rect" id="node5" href="$class_limited_string.html#a4421821da094900bf15f79768a13e8b9" title="LimitedString::Serialize" alt="" coords="201,157,357,184"/>
+<area shape="rect" id="node6" href="$serialize_8h.html#adee5a9a0b11fd58c829855619c222ab7" title="Serialize" alt="" coords="243,208,315,235"/>
+<area shape="rect" id="node7" href="$serialize_8h.html#ada852df5acfb9cb1ad7d5d6379fca3f8" title="Serialize_impl" alt="" coords="228,259,331,285"/>
+<area shape="rect" id="node9" href="$serialize__tests_8cpp.html#ae9e969e46809b2f06681d5db4aed2b27" title="BOOST_AUTO_TEST_CASE" alt="" coords="184,309,375,336"/>
+<area shape="rect" id="node8" href="$serialize_8h.html#a0ee8a7e06e6f52f5c4d8a33a25d20291" title="Serialize" alt="" coords="423,259,495,285"/>
+</map>

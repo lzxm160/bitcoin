@@ -1,0 +1,8 @@
+<map id="CWalletDB::WriteBestBlock" name="CWalletDB::WriteBestBlock">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga1697a92171b4359f49b38aed643cf92b" title="CWallet::SetBestChain" alt="" coords="239,31,395,57"/>
+<area shape="rect" id="node3" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="443,31,601,57"/>
+<area shape="rect" id="node4" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="649,31,719,57"/>
+<area shape="rect" id="node5" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="807,5,870,32"/>
+<area shape="rect" id="node7" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="767,56,911,83"/>
+<area shape="rect" id="node6" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="959,5,1009,32"/>
+</map>

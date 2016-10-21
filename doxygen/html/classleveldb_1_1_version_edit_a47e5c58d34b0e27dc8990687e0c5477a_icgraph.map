@@ -1,0 +1,18 @@
+<map id="leveldb::VersionEdit::SetLogNumber" name="leveldb::VersionEdit::SetLogNumber">
+<area shape="rect" id="node2" href="$classleveldb_1_1_d_b.html#ac1da2b48e911287d86f3a3bfa0f851fe" title="leveldb::DB::Open" alt="" coords="371,184,497,211"/>
+<area shape="rect" id="node16" href="$namespaceleveldb.html#aa3106d7d6e907fc13c8c7ceed76740ad" title="leveldb::TEST" alt="" coords="205,232,307,259"/>
+<area shape="rect" id="node17" href="$classleveldb_1_1_version_set.html#ac1d014901be7095ace1aaec0cf391fb6" title="leveldb::VersionSet\l::LogAndApply" alt="" coords="189,283,323,325"/>
+<area shape="rect" id="node3" href="$class_c_d_b_wrapper.html#a196335b21f6416e63acc5be8c747b7db" title="CDBWrapper::CDBWrapper" alt="" coords="545,5,728,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_auto_compact_test.html#a31fe0ded855f188fac1650c70849760c" title="leveldb::AutoCompactTest\l::AutoCompactTest" alt="" coords="550,57,723,98"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_corruption_test.html#aaba7c05f06400ef45d1af5cb95f66a57" title="leveldb::CorruptionTest\l::TryReopen" alt="" coords="560,122,713,163"/>
+<area shape="rect" id="node8" href="$classleveldb_1_1_d_b_test.html#aee588b2d13db6be2a651a8fabeac5c79" title="leveldb::DBTest::TryReopen" alt="" coords="545,188,728,215"/>
+<area shape="rect" id="node13" href="$namespaceleveldb.html#a88d6fdcb16ed4edc65da40f383e6f23b" title="leveldb::TEST" alt="" coords="586,239,687,265"/>
+<area shape="rect" id="node14" href="$namespaceleveldb.html#af9cf6ec167c9b6f25fd050ab6fb67a90" title="leveldb::BM_LogAndApply" alt="" coords="550,291,723,317"/>
+<area shape="rect" id="node6" href="$classleveldb_1_1_corruption_test.html#aa2051faee6b6542d35ebdcf99918a713" title="leveldb::CorruptionTest\l::Reopen" alt="" coords="782,114,935,155"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_corruption_test.html#a9940767db260b1e4e60b8bcedc50217c" title="leveldb::CorruptionTest\l::CorruptionTest" alt="" coords="1017,114,1171,155"/>
+<area shape="rect" id="node9" href="$classleveldb_1_1_d_b_test.html#a38170a082cbc71fb446408ff5634c797" title="leveldb::DBTest::Reopen" alt="" coords="777,180,941,207"/>
+<area shape="rect" id="node11" href="$classleveldb_1_1_d_b_test.html#ab798a43e7feab6dddc8fa1eb7a5f61f6" title="leveldb::DBTest::Destroy\lAndReopen" alt="" coords="776,231,941,273"/>
+<area shape="rect" id="node10" href="$classleveldb_1_1_d_b_test.html#afc6fc9512e900de6ee10c5db15b22930" title="leveldb::DBTest::DBTest" alt="" coords="1013,180,1175,207"/>
+<area shape="rect" id="node12" href="$classleveldb_1_1_d_b_test.html#a587534fe403016f15cf1997ef7a40836" title="leveldb::DBTest::ChangeOptions" alt="" coords="989,239,1199,265"/>
+<area shape="rect" id="node15" href="$db__test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="833,297,884,324"/>
+</map>

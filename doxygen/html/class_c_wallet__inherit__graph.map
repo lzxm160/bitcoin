@@ -1,0 +1,6 @@
+<map id="CWallet" name="CWallet">
+<area shape="rect" id="node2" href="$class_c_crypto_key_store.html" title="CCryptoKeyStore" alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node3" href="$class_c_basic_key_store.html" title="CBasicKeyStore" alt="" coords="7,80,126,107"/>
+<area shape="rect" id="node4" href="$class_c_key_store.html" title="CKeyStore" alt="" coords="24,5,109,32"/>
+<area shape="rect" id="node5" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="153,155,290,181"/>
+</map>

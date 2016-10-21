@@ -1,0 +1,51 @@
+<map id="generate" name="generate">
+<area shape="rect" id="node2" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="133,5,239,32"/>
+<area shape="rect" id="node3" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="129,56,243,83"/>
+<area shape="rect" id="node4" href="$class_uni_value.html#ad22273eb84c91fff70a61ad11faa7121" title="UniValue::get_int" alt="" coords="125,107,247,133"/>
+<area shape="rect" id="node6" href="$validationinterface_8cpp.html#a0aaad62c8654cb1868295e0682b05866" title="GetMainSignals" alt="" coords="757,789,872,816"/>
+<area shape="rect" id="node7" href="$rpc_2protocol_8cpp.html#a41a2234c99900304357a44796b2259d5" title="JSONRPCError" alt="" coords="313,107,423,133"/>
+<area shape="rect" id="node22" href="$mining_8cpp.html#aaae0f2a327448cdc3c6f47104c452e5f" title="generateBlocks" alt="" coords="130,259,242,285"/>
+<area shape="rect" id="node5" href="$utilstrencodings_8cpp.html#a880a215d9e931432b095084c756a49bb" title="ParseInt32" alt="" coords="326,5,410,32"/>
+<area shape="rect" id="node8" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="553,157,601,184"/>
+<area shape="rect" id="node21" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="505,107,650,133"/>
+<area shape="rect" id="node9" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="771,157,858,184"/>
+<area shape="rect" id="node15" href="$namespacetinyformat.html#ad784060b98bfd4f1b3089fbb7686a676" title="Format list of arguments to the stream according to given format string. " alt="" coords="753,107,876,133"/>
+<area shape="rect" id="node10" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="996,157,1123,184"/>
+<area shape="rect" id="node11" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="1016,208,1103,235"/>
+<area shape="rect" id="node12" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="1235,136,1361,163"/>
+<area shape="rect" id="node13" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="1249,187,1347,213"/>
+<area shape="rect" id="node14" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="1203,237,1393,264"/>
+<area shape="rect" id="node16" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="tinyformat::vformat" alt="" coords="995,56,1123,83"/>
+<area shape="rect" id="node20" href="$namespacetinyformat.html#ab7fedd020bd6b353233d0ecbd686a007" title="tinyformat::makeFormatList" alt="" coords="969,107,1150,133"/>
+<area shape="rect" id="node17" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1239,49,1357,90"/>
+<area shape="rect" id="node18" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1445,17,1610,58"/>
+<area shape="rect" id="node19" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1441,82,1613,123"/>
+<area shape="rect" id="node23" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="1005,764,1114,791"/>
+<area shape="rect" id="node24" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="1026,853,1093,880"/>
+<area shape="rect" id="node25" href="$miner_8cpp.html#a4873920d6e6dc589a2062dd3f17e2e52" title="IncrementExtraNonce" alt="" coords="295,208,441,235"/>
+<area shape="rect" id="node28" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="1015,587,1104,613"/>
+<area shape="rect" id="node29" href="$pow_8cpp.html#a4e1129d7ab72643eb7e830f7f72953d7" title="CheckProofOfWork" alt="" coords="301,56,435,83"/>
+<area shape="rect" id="node33" href="$class_c_block_header.html#ae1165e54882d364b030fb33673d64dbd" title="CBlockHeader::GetHash" alt="" coords="733,259,897,285"/>
+<area shape="rect" id="node37" href="$class_c_chain_params.html#a34b124f87e3b7864fec208ba8879e9e9" title="CChainParams::GetConsensus" alt="" coords="713,688,916,715"/>
+<area shape="rect" id="node38" href="$main_8cpp.html#a74363829947838be073b979d4beca404" title="ProcessNewBlock" alt="" coords="304,385,432,412"/>
+<area shape="rect" id="node26" href="$merkle_8cpp.html#aa6eda15268d7ec708195aed9b5d9eab3" title="BlockMerkleRoot" alt="" coords="517,208,638,235"/>
+<area shape="rect" id="node27" href="$merkle_8cpp.html#a72cae6e3250784fe5ba63714c20c73c1" title="ComputeMerkleRoot" alt="" coords="745,208,885,235"/>
+<area shape="rect" id="node30" href="$classarith__uint256.html#a458133c9f123519646b07e6143f2164f" title="arith_uint256::SetCompact" alt="" coords="489,5,665,32"/>
+<area shape="rect" id="node31" href="$arith__uint256_8cpp.html#a6a6e0e2e41ba7e31c4a741eb2426a516" title="UintToArith256" alt="" coords="524,56,631,83"/>
+<area shape="rect" id="node32" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="755,56,875,83"/>
+<area shape="rect" id="node34" href="$hash_8h.html#a6de694e43f17c62025c6883965b65e63" title="SerializeHash" alt="" coords="1008,259,1111,285"/>
+<area shape="rect" id="node35" href="$class_c_hash_writer.html#ae94a937211502eabf19477630090093a" title="CHashWriter::GetHash" alt="" coords="1221,288,1375,315"/>
+<area shape="rect" id="node36" href="$class_c_hash256.html#aa8a70c1b7cf24ce7d00240a1131cf4e7" title="CHash256::Finalize" alt="" coords="1460,288,1595,315"/>
+<area shape="rect" id="node39" href="$class_c_block_index.html#ab843ef9b8b0a0193ec3a5c24738e484f" title="CBlockIndex::GetBlockHash" alt="" coords="721,360,908,387"/>
+<area shape="rect" id="node40" href="$class_c_node.html#ac0f1a22fa938e84138536308e2001340" title="CNode::GetId" alt="" coords="527,411,627,437"/>
+<area shape="rect" id="node41" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="1024,309,1095,336"/>
+<area shape="rect" id="node42" href="$main_8cpp.html#ab75446b01e6ed124aa5ecce5b08b57f7" title="ActivateBestChain" alt="" coords="513,524,641,551"/>
+<area shape="rect" id="node43" href="$init_8cpp.html#a6f201ca9fe6b594f1985c12b4482ea5a" title="ShutdownRequested" alt="" coords="744,536,885,563"/>
+<area shape="rect" id="node44" href="$class_c_chain.html#af78b090452717b2c45ba1a58bbde3e78" title="CChain::FindFork" alt="" coords="753,637,876,664"/>
+<area shape="rect" id="node46" href="$main_8cpp.html#a5edcd96316574fd4a7f3ae0922a5cfd6" title="IsInitialBlockDownload" alt="" coords="739,411,890,437"/>
+<area shape="rect" id="node50" href="$main_8cpp.html#a0d01c135cc5a05475e3dc3910c9888da" title="FlushStateToDisk" alt="" coords="752,485,877,512"/>
+<area shape="rect" id="node45" href="$class_c_block_index.html#ae1f702384690c6b8302e026a84172ef3" title="Efficiently find an ancestor of this block. " alt="" coords="971,637,1147,664"/>
+<area shape="rect" id="node47" href="$namespace_checkpoints.html#a9688af1d9779e0d79a3d1d29f7a816fb" title="Return conservative estimate of total number of blocks, 0 if unknown. " alt="" coords="964,361,1155,402"/>
+<area shape="rect" id="node48" href="$class_c_chain_params.html#af71a8a6f78167a9f2eac75f663233ac5" title="CChainParams::Checkpoints" alt="" coords="965,427,1154,453"/>
+<area shape="rect" id="node49" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="967,477,1152,504"/>
+</map>

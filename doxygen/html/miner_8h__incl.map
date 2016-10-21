@@ -1,0 +1,25 @@
+<map id="E:/renesola/work/bitcoin/src/miner.h" name="E:/renesola/work/bitcoin/src/miner.h">
+<area shape="rect" id="node2" href="$primitives_2block_8h.html" title="primitives/block.h" alt="" coords="529,348,652,375"/>
+<area shape="rect" id="node7" href="$stdint_8h.html" title="stdint.h" alt="" coords="1181,796,1246,823"/>
+<area shape="rect" id="node28" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="1538,95,1635,121"/>
+<area shape="rect" id="node3" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="505,423,660,449"/>
+<area shape="rect" id="node5" href="$serialize_8h.html" title="serialize.h" alt="" coords="223,572,305,599"/>
+<area shape="rect" id="node26" href="$uint256_8h.html" title="uint256.h" alt="" coords="1159,497,1233,524"/>
+<area shape="rect" id="node4" href="$amount_8h.html" title="amount.h" alt="" coords="1334,497,1410,524"/>
+<area shape="rect" id="node22" href="$script_8h.html" title="script/script.h" alt="" coords="677,497,779,524"/>
+<area shape="rect" id="node6" href="$endian_8h.html" title="compat/endian.h" alt="" coords="746,647,865,673"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="913,647,999,673"/>
+<area shape="rect" id="node8" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="766,721,901,748"/>
+<area shape="rect" id="node23" href="$common_8h.html" title="crypto/common.h" alt="" coords="769,572,892,599"/>
+<area shape="rect" id="node31" href="$coins_8h.html" title="coins.h" alt="" coords="1000,177,1064,203"/>
+<area shape="rect" id="node35" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="1467,423,1567,449"/>
+<area shape="rect" id="node41" href="$sync_8h.html" title="sync.h" alt="" coords="1675,177,1736,203"/>
+<area shape="rect" id="node47" href="$random_8h.html" title="random.h" alt="" coords="1643,423,1719,449"/>
+<area shape="rect" id="node32" href="$compressor_8h.html" title="compressor.h" alt="" coords="404,348,505,375"/>
+<area shape="rect" id="node33" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="778,266,907,293"/>
+<area shape="rect" id="node34" href="$memusage_8h.html" title="memusage.h" alt="" coords="983,348,1081,375"/>
+<area shape="rect" id="node38" href="$hash_8h.html" title="hash.h" alt="" coords="1240,423,1301,449"/>
+<area shape="rect" id="node39" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="1607,647,1740,673"/>
+<area shape="rect" id="node40" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="1417,647,1532,673"/>
+<area shape="rect" id="node42" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="2437,266,2541,293"/>
+</map>

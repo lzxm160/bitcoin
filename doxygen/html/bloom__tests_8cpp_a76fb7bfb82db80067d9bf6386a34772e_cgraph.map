@@ -1,0 +1,7 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_c_rolling_bloom_filter.html#a0fedbf0cf38c9070a30c7c5f8299f5d7" title="CRollingBloomFilter\l::insert" alt="" coords="244,5,380,47"/>
+<area shape="rect" id="node3" href="$class_c_rolling_bloom_filter.html#a309bb5d23aca37f359a2d02fddce0aa6" title="CRollingBloomFilter\l::contains" alt="" coords="244,71,380,112"/>
+<area shape="rect" id="node4" href="$class_c_rolling_bloom_filter.html#a7615966dc0beaa381892d8f43aeb53a3" title="CRollingBloomFilter\l::reset" alt="" coords="244,136,380,177"/>
+<area shape="rect" id="node5" href="$random_8cpp.html#a27d9149d522b1fa87d84e5e9ca902aef" title="GetRand" alt="" coords="428,143,501,170"/>
+<area shape="rect" id="node6" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="549,143,656,170"/>
+</map>

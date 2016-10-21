@@ -1,0 +1,9 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$classbase__blob.html#a9541747b1f91f9469ac0aff90665bd32" title="base_blob::GetHex" alt="" coords="271,5,404,32"/>
+<area shape="rect" id="node3" href="$classbase__blob.html#a1a26b5da921f48b09b228d1bfda05088" title="base_blob::ToString" alt="" coords="269,56,406,83"/>
+<area shape="rect" id="node4" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="277,107,397,133"/>
+<area shape="rect" id="node5" href="$classbase__blob.html#a449c3f902fcab7af6c74aa9fee099542" title="base_blob::size" alt="" coords="281,157,394,184"/>
+<area shape="rect" id="node6" href="$classbase__blob.html#ab60d34d18e5b5f74d285480f7b3db00c" title="base_blob::end" alt="" coords="282,208,393,235"/>
+<area shape="rect" id="node7" href="$classbase__blob.html#ae88b1782486e704927aa10ae20c491a9" title="base_blob::GetSerializeSize" alt="" coords="244,259,431,285"/>
+<area shape="rect" id="node8" href="$classbase__blob.html#ac9ccfed4de6210801d4dbede71ad8ba6" title="base_blob::Serialize" alt="" coords="268,309,407,336"/>
+</map>

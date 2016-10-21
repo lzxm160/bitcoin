@@ -1,0 +1,20 @@
+<map id="leveldb::WriteBatchInternal::InsertInto" name="leveldb::WriteBatchInternal::InsertInto">
+<area shape="rect" id="node2" href="$classleveldb_1_1_write_batch_internal.html#af657c82bd9378b78c35a3a7429f945d4" title="leveldb::WriteBatchInternal\l::Sequence" alt="" coords="229,79,405,121"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_write_batch.html#ac6cb5a360bb095f4e9a6e817c4322a9d" title="leveldb::WriteBatch\l::Iterate" alt="" coords="250,254,385,295"/>
+<area shape="rect" id="node3" href="$namespaceleveldb.html#a239098b0291873752d0be16633652825" title="leveldb::DecodeFixed64" alt="" coords="462,5,621,32"/>
+<area shape="rect" id="node4" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="950,31,1022,57"/>
+<area shape="rect" id="node6" href="$namespaceleveldb.html#adae574304f9d1ed3e95742167cd449a9" title="leveldb::DecodeFixed32" alt="" coords="677,56,836,83"/>
+<area shape="rect" id="node5" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1136,31,1217,57"/>
+<area shape="rect" id="node8" href="$classleveldb_1_1_slice.html#a947d3173f04f8a30553e89046daf91d5" title="leveldb::Slice::size" alt="" coords="691,287,822,313"/>
+<area shape="rect" id="node9" href="$classleveldb_1_1_status.html#a755b1ee5b0029cf9ea1128f1cdff5855" title="leveldb::Status::Corruption" alt="" coords="454,123,629,149"/>
+<area shape="rect" id="node11" href="$classleveldb_1_1_slice.html#a1be5b22958a115ebecb2b017aad2b3f6" title="leveldb::Slice::remove\l_prefix" alt="" coords="468,225,615,266"/>
+<area shape="rect" id="node12" href="$classleveldb_1_1_slice.html#a7d0b93d5801bff5656068647759dcb8f" title="leveldb::Slice::empty" alt="" coords="470,291,613,317"/>
+<area shape="rect" id="node13" href="$namespaceleveldb.html#aa06a54af59e83922885a7eb8f0359a94" title="leveldb::GetLengthPrefixed\lSlice" alt="" coords="453,547,629,589"/>
+<area shape="rect" id="node16" href="$classleveldb_1_1_write_batch_1_1_handler.html#ad41d4985db289b94e29921167d206d4b" title="leveldb::WriteBatch\l::Handler::Put" alt="" coords="474,393,609,434"/>
+<area shape="rect" id="node17" href="$classleveldb_1_1_write_batch_1_1_handler.html#aeab6526b87bf5b50fb64216b69b34b17" title="leveldb::WriteBatch\l::Handler::Delete" alt="" coords="474,458,609,499"/>
+<area shape="rect" id="node18" href="$classleveldb_1_1_write_batch_internal.html#a5270ca4567dbae1524005ad14e0698e3" title="leveldb::WriteBatchInternal\l::Count" alt="" coords="453,57,629,98"/>
+<area shape="rect" id="node19" href="$classleveldb_1_1_status.html#a8e3720d233281c874a53c17e081f51b3" title="leveldb::Status::OK" alt="" coords="474,173,609,200"/>
+<area shape="rect" id="node10" href="$classleveldb_1_1_status.html#a941ec793179e81df3032a612cfe5039f" title="leveldb::Status::Status" alt="" coords="680,148,833,175"/>
+<area shape="rect" id="node14" href="$namespaceleveldb.html#addd01473dddfbc70ba64956fe6fac20c" title="leveldb::GetVarint32Ptr" alt="" coords="679,555,834,581"/>
+<area shape="rect" id="node15" href="$namespaceleveldb.html#abc68f00e57333a27e9ee4fb8d5033905" title="leveldb::GetVarint32PtrFallback" alt="" coords="884,555,1088,581"/>
+</map>

@@ -1,0 +1,45 @@
+<map id="addwitnessaddress" name="addwitnessaddress">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#ac9a5dd7d31080f8d2551dce06d3be0e1" title="EnsureWalletIsAvailable" alt="" coords="207,96,369,123"/>
+<area shape="rect" id="node3" href="$rpc_2protocol_8cpp.html#a41a2234c99900304357a44796b2259d5" title="JSONRPCError" alt="" coords="469,121,579,148"/>
+<area shape="rect" id="node21" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="235,197,341,224"/>
+<area shape="rect" id="node22" href="$main_8cpp.html#acb0226867d001d0edd267f2e4842bace" title="IsWitnessEnabled" alt="" coords="225,248,351,275"/>
+<area shape="rect" id="node24" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="243,299,333,325"/>
+<area shape="rect" id="node25" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="698,451,765,477"/>
+<area shape="rect" id="node26" href="$class_c_chain_params.html#a34b124f87e3b7864fec208ba8879e9e9" title="CChainParams::GetConsensus" alt="" coords="187,400,389,427"/>
+<area shape="rect" id="node27" href="$util_8cpp.html#a64d956f1dda7f9a80ab5d594532b906d" title="GetBoolArg" alt="" coords="243,451,333,477"/>
+<area shape="rect" id="node28" href="$class_c_bitcoin_address.html#a3861fc29b82dba7d8bc8430ca461a20f" title="CBitcoinAddress::IsValid" alt="" coords="441,451,607,477"/>
+<area shape="rect" id="node29" href="$class_c_bitcoin_address.html#a46d632250c4b47727f8e9b2f8141fd69" title="CBitcoinAddress::Get" alt="" coords="214,552,362,579"/>
+<area shape="rect" id="node32" href="$group___actions.html#ga53e5528d7005608594e73f500bc5bb8f" title="CWallet::SetAddressBook" alt="" coords="201,652,375,679"/>
+<area shape="rect" id="node36" href="$class_c_base58_data.html#a9a47b10dadff15b8d6a6d0e63ce3ae32" title="CBase58Data::ToString" alt="" coords="209,753,367,780"/>
+<area shape="rect" id="node4" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="707,96,755,123"/>
+<area shape="rect" id="node20" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="659,147,804,173"/>
+<area shape="rect" id="node5" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="876,71,963,97"/>
+<area shape="rect" id="node11" href="$namespacetinyformat.html#ad784060b98bfd4f1b3089fbb7686a676" title="Format list of arguments to the stream according to given format string. " alt="" coords="858,151,981,177"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="1062,20,1189,47"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="1082,71,1169,97"/>
+<area shape="rect" id="node8" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="1296,5,1423,32"/>
+<area shape="rect" id="node9" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="1311,56,1408,83"/>
+<area shape="rect" id="node10" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="1264,107,1455,133"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="tinyformat::vformat" alt="" coords="1061,151,1189,177"/>
+<area shape="rect" id="node19" href="$namespacetinyformat.html#ab7fedd020bd6b353233d0ecbd686a007" title="tinyformat::makeFormatList" alt="" coords="1035,201,1216,228"/>
+<area shape="rect" id="node13" href="$namespacetinyformat_1_1detail.html#a079a316938c0e8693efbeb0183b1390d" title="tinyformat::detail\l::formatImpl" alt="" coords="1300,158,1419,199"/>
+<area shape="rect" id="node14" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1506,93,1671,134"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#a681e8ceb825485cc5e3b057c11e4b1b5" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1503,158,1675,199"/>
+<area shape="rect" id="node18" href="$classtinyformat_1_1detail_1_1_format_arg.html#acf5721edb4cd5009995b48211614667e" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1521,223,1656,265"/>
+<area shape="rect" id="node16" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1723,126,1871,167"/>
+<area shape="rect" id="node17" href="$classtinyformat_1_1detail_1_1_format_arg.html#a3cc3ee90db72cd62b5e0813f70bf5185" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1735,191,1859,233"/>
+<area shape="rect" id="node23" href="$versionbits_8cpp.html#a90d3b0a121694c9559dddcdd848757be" title="VersionBitsState" alt="" coords="464,248,584,275"/>
+<area shape="rect" id="node30" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1553,608,1625,635"/>
+<area shape="rect" id="node31" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1756,608,1837,635"/>
+<area shape="rect" id="node33" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="494,627,554,653"/>
+<area shape="rect" id="node34" href="$class_c_wallet_d_b.html#a8d4e8d73b977dc62c137bd3543c278bf" title="CWalletDB::WritePurpose" alt="" coords="437,677,611,704"/>
+<area shape="rect" id="node35" href="$class_c_wallet_d_b.html#ad1b3bce77e9dd6ddd8c668a469c38f0a" title="CWalletDB::WriteName" alt="" coords="445,728,603,755"/>
+<area shape="rect" id="node37" href="$base58_8cpp.html#ace9a5807ee51604f33044339f073ec76" title="EncodeBase58Check" alt="" coords="451,779,597,805"/>
+<area shape="rect" id="node38" href="$hash_8h.html#ab3f6c437460137530d86e09c2c102e99" title="Hash" alt="" coords="705,716,757,743"/>
+<area shape="rect" id="node44" href="$base58_8cpp.html#a8d6f0e9d5df175b4966dcede31dc90ad" title="EncodeBase58" alt="" coords="676,779,787,805"/>
+<area shape="rect" id="node39" href="$class_c_hash256.html#a9cc25033c6435cb28e2e8e377c949a7a" title="CHash256::Write" alt="" coords="859,640,980,667"/>
+<area shape="rect" id="node41" href="$class_c_hash256.html#aa8a70c1b7cf24ce7d00240a1131cf4e7" title="CHash256::Finalize" alt="" coords="852,716,987,743"/>
+<area shape="rect" id="node40" href="$class_c_s_h_a256.html#a9d7de520a562655da85349372820c883" title="CSHA256::Write" alt="" coords="1300,640,1419,667"/>
+<area shape="rect" id="node42" href="$class_c_s_h_a256.html#a4259230be0caefa590bc324fc12b9b90" title="CSHA256::Finalize" alt="" coords="1059,716,1191,743"/>
+<area shape="rect" id="node43" href="$class_c_s_h_a256.html#a2122395dd5604990eaa0077b43a0e8d4" title="CSHA256::Reset" alt="" coords="1065,767,1186,793"/>
+</map>

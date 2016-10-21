@@ -1,0 +1,12 @@
+<map id="WalletView::backupWallet" name="WalletView::backupWallet">
+<area shape="rect" id="node2" href="$namespace_g_u_i_util.html#a788c51092a2255b1f8976d4794fc3ee6" title="GUIUtil::getSaveFileName" alt="" coords="233,31,405,57"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#aa316c19ef41f26ea89f194ab253d3206" title="WalletModel::backupWallet" alt="" coords="228,81,409,108"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html#a74118e304f4694671bcf7f2173a5a302" title="CWallet::BackupWallet" alt="" coords="457,81,615,108"/>
+<area shape="rect" id="node5" href="$class_c_d_b_env.html#ac53fd53afdd1e0881b8ffbb11a89b556" title="CDBEnv::CloseDb" alt="" coords="683,5,810,32"/>
+<area shape="rect" id="node6" href="$class_c_d_b_env.html#aa4e0fe52dfc0da22fe9bf59eeda57fba" title="CDBEnv::CheckpointLSN" alt="" coords="663,56,831,83"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="703,107,790,133"/>
+<area shape="rect" id="node11" href="$utiltime_8cpp.html#ac635182d3e845eda4af4fa5ab31609da" title="MilliSleep" alt="" coords="707,157,786,184"/>
+<area shape="rect" id="node8" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="911,56,1037,83"/>
+<area shape="rect" id="node9" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="925,107,1023,133"/>
+<area shape="rect" id="node10" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="879,157,1069,184"/>
+</map>

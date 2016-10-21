@@ -1,0 +1,13 @@
+<map id="CBlockIndex::GetUndoPos" name="CBlockIndex::GetUndoPos">
+<area shape="rect" id="node2" href="$main_8h.html#a8611a8552630b4821d47a4a154890a30" title="DisconnectBlock" alt="" coords="231,5,351,32"/>
+<area shape="rect" id="node3" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="399,56,540,83"/>
+<area shape="rect" id="node5" href="$main_8h.html#aa57c8df97fb2e5339d528d6f30c9c808" title="ConnectBlock" alt="" coords="239,107,342,133"/>
+<area shape="rect" id="node4" href="$blockchain_8cpp.html#a30b96575c158ca0465dbdb25705c4ca9" title="verifychain" alt="" coords="641,56,723,83"/>
+<area shape="rect" id="node6" href="$main_8h.html#a12c39e969c9077605ae8a91730fb78d3" title="TestBlockValidity" alt="" coords="408,107,531,133"/>
+<area shape="rect" id="node7" href="$class_block_assembler.html#acd45f01ed2556e805c82907def19efcb" title="BlockAssembler::CreateNew\lBlock" alt="" coords="588,158,776,199"/>
+<area shape="rect" id="node8" href="$mining_8cpp.html#a054ca23f5d86a8ca30138464ba10008c" title="getblocktemplate" alt="" coords="845,108,967,135"/>
+<area shape="rect" id="node9" href="$miner__tests_8cpp.html#aeed1f0d9588f9aecb80a2f7b82d0941e" title="TestPackageSelection" alt="" coords="830,163,982,189"/>
+<area shape="rect" id="node11" href="$struct_test_chain100_setup.html#a5602b576453958c0e53b293e9ed7db46" title="TestChain100Setup::\lCreateAndProcessBlock" alt="" coords="824,214,988,255"/>
+<area shape="rect" id="node10" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="1036,163,1227,189"/>
+<area shape="rect" id="node12" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="1060,214,1203,255"/>
+</map>

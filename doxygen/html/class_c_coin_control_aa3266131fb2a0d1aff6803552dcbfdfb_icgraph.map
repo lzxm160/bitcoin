@@ -1,0 +1,13 @@
+<map id="CCoinControl::IsSelected" name="CCoinControl::IsSelected">
+<area shape="rect" id="node2" href="$group___actions.html#ga361edccbc0d3f4299eee43c02aec4c6f" title="CWallet::AvailableCoins" alt="" coords="226,120,386,147"/>
+<area shape="rect" id="node11" href="$group___actions.html#ga478cfb93ad3462f166c9d2864b2d5a83" title="CWallet::FundTransaction" alt="" coords="220,183,392,209"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#ab448317375fa1e3a60559513b3af5f42" title="WalletModel::getBalance" alt="" coords="440,56,607,83"/>
+<area shape="rect" id="node9" href="$class_wallet_model.html#aadf8de5a584594abdb299b463bd7578f" title="WalletModel::listCoins" alt="" coords="447,107,599,133"/>
+<area shape="rect" id="node10" href="$rpcwallet_8cpp.html#a465ffe9ab07fa4986f64d618404ba7c3" title="listunspent" alt="" coords="481,157,566,184"/>
+<area shape="rect" id="node4" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="661,5,861,32"/>
+<area shape="rect" id="node7" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="669,56,852,83"/>
+<area shape="rect" id="node8" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="655,107,867,133"/>
+<area shape="rect" id="node5" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="915,31,1100,57"/>
+<area shape="rect" id="node6" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1148,31,1311,57"/>
+<area shape="rect" id="node12" href="$rpcwallet_8cpp.html#a78cbbebe13bd498eda54ea6b350979fc" title="fundrawtransaction" alt="" coords="458,208,589,235"/>
+</map>

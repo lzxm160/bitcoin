@@ -1,0 +1,5 @@
+<map id="leveldb::DBImpl::CompactionState" name="leveldb::DBImpl::CompactionState">
+<area shape="rect" id="node2" href="$classleveldb_1_1_table_builder.html" title="leveldb::TableBuilder" alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node3" href="$classleveldb_1_1_writable_file.html" title="leveldb::WritableFile" alt="" coords="170,5,309,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_compaction.html" title="leveldb::Compaction" alt="" coords="333,5,471,32"/>
+</map>

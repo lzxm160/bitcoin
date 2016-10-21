@@ -1,0 +1,6 @@
+<map id="CKey::Derive" name="CKey::Derive">
+<area shape="rect" id="node2" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="151,31,268,57"/>
+<area shape="rect" id="node3" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="375,5,445,32"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="316,56,504,83"/>
+<area shape="rect" id="node4" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="552,5,743,32"/>
+</map>

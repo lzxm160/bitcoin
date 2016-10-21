@@ -1,0 +1,5 @@
+<map id="CTxMemPool::estimateFee" name="CTxMemPool::estimateFee">
+<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#a55418a0d0c84ff184d67b1bd366ca525" title="CBlockPolicyEstimator\l::estimateFee" alt="" coords="233,5,389,47"/>
+<area shape="rect" id="node3" href="$class_tx_confirm_stats.html#ab2b42aa0beab3ed825ccc8486dfc0a84" title="TxConfirmStats::GetMaxConfirms" alt="" coords="656,13,872,39"/>
+<area shape="rect" id="node4" href="$class_tx_confirm_stats.html#a7ac4f70e6029ecf06e8d1528ab9c33f1" title="TxConfirmStats::Estimate\lMedianVal" alt="" coords="437,35,608,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="leveldb::BlockBuilder::CurrentSizeEstimate" name="leveldb::BlockBuilder::CurrentSizeEstimate">
+<area shape="rect" id="node2" href="$classleveldb_1_1_table_builder.html#a37bd347cb6340215475ac9b42dc19d10" title="leveldb::TableBuilder::Add" alt="" coords="204,35,375,61"/>
+<area shape="rect" id="node3" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="441,5,571,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_table_constructor.html#aa8ce3799a55859c2dee50d3e08f56ef2" title="leveldb::TableConstructor\l::FinishImpl" alt="" coords="423,57,589,98"/>
+</map>

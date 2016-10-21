@@ -1,0 +1,51 @@
+<map id="getbalance" name="getbalance">
+<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#ac9a5dd7d31080f8d2551dce06d3be0e1" title="EnsureWalletIsAvailable" alt="" coords="165,5,327,32"/>
+<area shape="rect" id="node10" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="193,56,299,83"/>
+<area shape="rect" id="node11" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="189,107,303,133"/>
+<area shape="rect" id="node12" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="185,157,307,184"/>
+<area shape="rect" id="node13" href="$server_8cpp.html#a513e384f1d458abddd1bf9be05125947" title="ValueFromAmount" alt="" coords="181,208,311,235"/>
+<area shape="rect" id="node14" href="$group___actions.html#gafb8dee3ffdf2bc5e7499b10bb65efdaf" title="CWallet::GetBalance" alt="" coords="174,309,318,336"/>
+<area shape="rect" id="node16" href="$main_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="CheckFinalTx" alt="" coords="667,411,769,437"/>
+<area shape="rect" id="node27" href="$class_c_merkle_tx.html#a8bd25cf06de6a443d0925ec8ba66c949" title="CMerkleTx::GetBlocksToMaturity" alt="" coords="139,360,353,387"/>
+<area shape="rect" id="node28" href="$class_c_merkle_tx.html#a2b536484ff937f98d400d29c740670ab" title="CMerkleTx::GetDepthInMain\lChain" alt="" coords="153,462,339,503"/>
+<area shape="rect" id="node30" href="$group__map_wallet.html#ga903ea0a0f7ff523f01951213187b0a4d" title="CWalletTx::GetAmounts" alt="" coords="165,557,327,584"/>
+<area shape="rect" id="node48" href="$rpcwallet_8cpp.html#a03870fd3dcf4ceb54b3ac5bc141aaa31" title="AccountFromValue" alt="" coords="179,259,313,285"/>
+<area shape="rect" id="node50" href="$group___actions.html#ga6e4553660a792be7cb7bb64755260d90" title="CWallet::GetAccountBalance" alt="" coords="150,608,342,635"/>
+<area shape="rect" id="node3" href="$rpc_2protocol_8cpp.html#a41a2234c99900304357a44796b2259d5" title="JSONRPCError" alt="" coords="444,107,555,133"/>
+<area shape="rect" id="node4" href="$util_8h.html#a0605c886f88f190fa6a51ae07ca7558a" title="error" alt="" coords="694,132,742,159"/>
+<area shape="rect" id="node9" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="645,81,791,108"/>
+<area shape="rect" id="node5" href="$util_8h.html#afd4c3002b2797c0560adddb6af3ca1da" title="LogPrintStr" alt="" coords="906,107,993,133"/>
+<area shape="rect" id="node8" href="$namespacetinyformat.html#ad784060b98bfd4f1b3089fbb7686a676" title="Format list of arguments to the stream according to given format string. " alt="" coords="888,157,1011,184"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="1137,81,1264,108"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="1157,132,1244,159"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#gaf2eff3b849af124cdf869fc03f587972" title="CWalletTx::IsTrusted" alt="" coords="428,360,571,387"/>
+<area shape="rect" id="node25" href="$group__map_wallet.html#gafc5a3b08c3e48e176e389cf172ae79b7" title="CWalletTx::GetAvailableCredit" alt="" coords="401,309,597,336"/>
+<area shape="rect" id="node17" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="895,512,1004,539"/>
+<area shape="rect" id="node18" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="905,309,994,336"/>
+<area shape="rect" id="node19" href="$class_c_block_index.html#abffb24cc73329a3dce024403ba770b4a" title="CBlockIndex::GetMedianTimePast" alt="" coords="839,360,1060,387"/>
+<area shape="rect" id="node21" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="888,411,1011,437"/>
+<area shape="rect" id="node24" href="$main_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="IsFinalTx" alt="" coords="912,461,987,488"/>
+<area shape="rect" id="node20" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="1108,360,1293,387"/>
+<area shape="rect" id="node22" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="1165,411,1236,437"/>
+<area shape="rect" id="node23" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="GetTimeOffset" alt="" coords="1148,461,1253,488"/>
+<area shape="rect" id="node26" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="669,309,767,336"/>
+<area shape="rect" id="node29" href="$class_c_chain.html#a1ab1fe2932227af222699c64847e838b" title="CChain::Contains" alt="" coords="438,461,561,488"/>
+<area shape="rect" id="node31" href="$standard_8cpp.html#a951f7e601746ae076afdf3169ecca2fc" title="ExtractDestination" alt="" coords="435,588,564,615"/>
+<area shape="rect" id="node47" href="$class_c_script.html#a5d8efd005dde9242d88212c8b7fdb696" title="CScript::IsUnspendable" alt="" coords="870,1171,1029,1197"/>
+<area shape="rect" id="node32" href="$standard_8cpp.html#a6ee6be50bff44464e905680c6fcee6dc" title="Solver" alt="" coords="689,867,747,893"/>
+<area shape="rect" id="node43" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="656,563,780,589"/>
+<area shape="rect" id="node45" href="$class_c_pub_key.html#a9c1908fef34fd9e1c4b5e0ffd5d3834e" title="Get the KeyID of this public key (hash of its serialization) " alt="" coords="659,613,777,640"/>
+<area shape="rect" id="node33" href="$class_c_script.html#acba6d6d35776de4ce3a632446f44805f" title="CScript::IsPayToScriptHash" alt="" coords="857,1019,1041,1045"/>
+<area shape="rect" id="node34" href="$classprevector.html#a8430c39b212986d6cd2ba9d6fa939241" title="prevector::size" alt="" coords="1147,1044,1254,1071"/>
+<area shape="rect" id="node35" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1341,993,1455,1020"/>
+<area shape="rect" id="node36" href="$class_c_script.html#a11e9cac739d4044d83fdd13cdf72ed01" title="CScript::IsWitnessProgram" alt="" coords="859,715,1039,741"/>
+<area shape="rect" id="node37" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="CScript::DecodeOP_N" alt="" coords="1125,664,1277,691"/>
+<area shape="rect" id="node38" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1149,765,1252,792"/>
+<area shape="rect" id="node39" href="$class_c_script.html#ac81d0879690dc02cfb6712244e4add43" title="CScript::IsPushOnly" alt="" coords="879,816,1019,843"/>
+<area shape="rect" id="node40" href="$class_c_script.html#a94635ed93d8d244ec3acfa83f9ecfe5f" title="CScript::GetOp" alt="" coords="1145,867,1256,893"/>
+<area shape="rect" id="node41" href="$class_c_script.html#a7b2baf842621f07c4939408acf63377c" title="CScript::clear" alt="" coords="899,917,1000,944"/>
+<area shape="rect" id="node42" href="$classprevector.html#acb71926f63896b2bd6f4da4ffe515d19" title="prevector::front" alt="" coords="896,968,1003,995"/>
+<area shape="rect" id="node44" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="895,563,1004,589"/>
+<area shape="rect" id="node46" href="$hash_8h.html#a4490f70ddae16e9e48460a0416a48a6b" title="Hash160" alt="" coords="913,613,986,640"/>
+<area shape="rect" id="node49" href="$class_uni_value.html#a9f69bbd4ccf8d083934cbb510c039cef" title="UniValue::get_str" alt="" coords="438,259,561,285"/>
+</map>

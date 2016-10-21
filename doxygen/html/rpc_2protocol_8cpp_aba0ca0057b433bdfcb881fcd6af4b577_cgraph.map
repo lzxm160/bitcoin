@@ -1,0 +1,10 @@
+<map id="GenerateAuthCookie" name="GenerateAuthCookie">
+<area shape="rect" id="node2" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="208,5,315,32"/>
+<area shape="rect" id="node3" href="$utilstrencodings_8h.html#ace13a819ca4e98c22847d26b3b357e75" title="HexStr" alt="" coords="230,56,293,83"/>
+<area shape="rect" id="node4" href="$rpc_2protocol_8cpp.html#aae8ad79d1767e2f4b1207c1af53af7c3" title="GetAuthCookieFile" alt="" coords="196,107,327,133"/>
+<area shape="rect" id="node5" href="$util_8cpp.html#a24f685720bf40370e5bd2a192ad50cd8" title="GetArg" alt="" coords="387,81,449,108"/>
+<area shape="rect" id="node6" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="375,132,461,159"/>
+<area shape="rect" id="node7" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="541,81,668,108"/>
+<area shape="rect" id="node8" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="556,132,653,159"/>
+<area shape="rect" id="node9" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="509,183,700,209"/>
+</map>

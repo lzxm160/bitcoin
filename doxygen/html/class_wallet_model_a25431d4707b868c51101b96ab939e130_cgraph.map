@@ -1,0 +1,15 @@
+<map id="WalletModel::getWatchBalance" name="WalletModel::getWatchBalance">
+<area shape="rect" id="node2" href="$group___actions.html#ga4e1047525a8f418485ce3a84057265d3" title="CWallet::GetWatchOnlyBalance" alt="" coords="259,136,468,163"/>
+<area shape="rect" id="node3" href="$group__map_wallet.html#gaf2eff3b849af124cdf869fc03f587972" title="CWalletTx::IsTrusted" alt="" coords="545,107,687,133"/>
+<area shape="rect" id="node13" href="$group__map_wallet.html#gabfe5cf87f8a2704e526506d9680659c9" title="CWalletTx::GetAvailableWatch\lOnlyCredit" alt="" coords="516,158,716,199"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a7e254ea66e047c3d3ed0bedc5997fc4f" title="CheckFinalTx" alt="" coords="764,107,865,133"/>
+<area shape="rect" id="node5" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="969,5,1079,32"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="979,56,1069,83"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#abffb24cc73329a3dce024403ba770b4a" title="CBlockIndex::GetMedianTimePast" alt="" coords="913,107,1135,133"/>
+<area shape="rect" id="node9" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="963,157,1085,184"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#adc332cd7ac94e639bb4239618341be19" title="IsFinalTx" alt="" coords="987,208,1061,235"/>
+<area shape="rect" id="node8" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="1183,107,1368,133"/>
+<area shape="rect" id="node10" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="1240,157,1311,184"/>
+<area shape="rect" id="node11" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="GetTimeOffset" alt="" coords="1223,208,1328,235"/>
+<area shape="rect" id="node14" href="$amount_8h.html#a12db56a9a1c931941f0943ecbb278aae" title="MoneyRange" alt="" coords="765,165,864,192"/>
+</map>

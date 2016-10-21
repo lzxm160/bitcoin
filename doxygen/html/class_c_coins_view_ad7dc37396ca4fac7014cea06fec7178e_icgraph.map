@@ -1,0 +1,4 @@
+<map id="CCoinsView::BatchWrite" name="CCoinsView::BatchWrite">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#ace15da3934c9d7a9cb9c7a787f92f764" title="CCoinsViewBacked::BatchWrite" alt="" coords="219,5,428,32"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#ac9888d4feaa46666d03871cd7cd1c01d" title="CCoinsViewCache::Flush" alt="" coords="239,56,408,83"/>
+</map>

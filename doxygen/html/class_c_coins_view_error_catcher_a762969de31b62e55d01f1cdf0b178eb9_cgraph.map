@@ -1,0 +1,5 @@
+<map id="CCoinsViewErrorCatcher::GetCoins" name="CCoinsViewErrorCatcher::GetCoins">
+<area shape="rect" id="node2" href="$class_c_coins_view_backed.html#a21b95a9910f94e9b7ebed62a6f329ea0" title="Retrieve the CCoins (unspent transaction outputs) for a given txid. " alt="" coords="219,5,417,32"/>
+<area shape="rect" id="node4" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="_" alt="" coords="299,56,337,83"/>
+<area shape="rect" id="node3" href="$class_c_coins_view.html#aaf5668eb2f9033583d7072dc2a3f96ef" title="Retrieve the CCoins (unspent transaction outputs) for a given txid. " alt="" coords="465,5,620,32"/>
+</map>

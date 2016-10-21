@@ -1,0 +1,18 @@
+<map id="SendCoinsEntry::validate" name="SendCoinsEntry::validate">
+<area shape="rect" id="node2" href="$class_payment_request_plus.html#a62ae278689d852e4a73cdef627763944" title="PaymentRequestPlus\l::IsInitialized" alt="" coords="243,5,391,47"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#a04604615253aeaae1253b1412a70a1f7" title="WalletModel::validateAddress" alt="" coords="220,71,413,98"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#af72fd9408f5cc4f11f6adb4dd533aa40" title="GUIUtil::isDust" alt="" coords="263,122,371,149"/>
+<area shape="rect" id="node4" href="$class_c_bitcoin_address.html#a3861fc29b82dba7d8bc8430ca461a20f" title="CBitcoinAddress::IsValid" alt="" coords="461,71,628,98"/>
+<area shape="rect" id="node5" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="732,71,799,98"/>
+<area shape="rect" id="node7" href="$standard_8cpp.html#ae40f28d3b46c21033f6ee1f1200d0321" title="GetScriptForDestination" alt="" coords="464,173,625,199"/>
+<area shape="rect" id="node8" href="$class_c_tx_out.html#aef983c97e242236c58d461fc47e55922" title="CTxOut::IsDust" alt="" coords="489,122,600,149"/>
+<area shape="rect" id="node9" href="$class_c_tx_out.html#a692765405d9dbf516448c3637122b9a0" title="CTxOut::GetDustThreshold" alt="" coords="676,122,855,149"/>
+<area shape="rect" id="node10" href="$class_c_script.html#a5d8efd005dde9242d88212c8b7fdb696" title="CScript::IsUnspendable" alt="" coords="913,46,1072,73"/>
+<area shape="rect" id="node13" href="$serialize_8h.html#a48239e478ae730373d1984fe304ca025" title="GetSerializeSize" alt="" coords="933,147,1052,174"/>
+<area shape="rect" id="node14" href="$class_c_script.html#a11e9cac739d4044d83fdd13cdf72ed01" title="CScript::IsWitnessProgram" alt="" coords="903,97,1083,123"/>
+<area shape="rect" id="node17" href="$class_c_fee_rate.html#a81dd5e0549a587d5a0c68096ee1da202" title="CFeeRate::GetFee" alt="" coords="927,198,1058,225"/>
+<area shape="rect" id="node11" href="$classprevector.html#a8430c39b212986d6cd2ba9d6fa939241" title="prevector::size" alt="" coords="1153,21,1260,47"/>
+<area shape="rect" id="node12" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="1150,71,1263,98"/>
+<area shape="rect" id="node15" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="CScript::DecodeOP_N" alt="" coords="1131,122,1283,149"/>
+<area shape="rect" id="node16" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="1155,173,1258,199"/>
+</map>

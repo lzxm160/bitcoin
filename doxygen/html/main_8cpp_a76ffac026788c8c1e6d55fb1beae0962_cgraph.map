@@ -1,0 +1,9 @@
+<map id="UpdateCoins" name="UpdateCoins">
+<area shape="rect" id="node2" href="$class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51" title="CTransaction::IsCoinBase" alt="" coords="167,5,339,32"/>
+<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#ab67c0d489873ed735c4fc52aa66f0830" title="CCoinsViewCache::ModifyCoins" alt="" coords="149,56,357,83"/>
+<area shape="rect" id="node5" href="$class_c_coins.html#a0acc5f3849c1c41386d9450a3ee3a3c8" title="mark a vout spent " alt="" coords="199,107,308,133"/>
+<area shape="rect" id="node7" href="$class_c_coins_view_cache.html#ad4cf95211016c5a3ceab986547ca48c1" title="CCoinsViewCache::ModifyNew\lCoins" alt="" coords="153,158,353,199"/>
+<area shape="rect" id="node8" href="$class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990" title="CTransaction::GetHash" alt="" coords="175,224,332,251"/>
+<area shape="rect" id="node4" href="$class_c_coins_view.html#aaf5668eb2f9033583d7072dc2a3f96ef" title="Retrieve the CCoins (unspent transaction outputs) for a given txid. " alt="" coords="405,56,560,83"/>
+<area shape="rect" id="node6" href="$class_c_coins.html#a7cfa2efc07f4d35785c9c75caa8bddcb" title="remove spent outputs at the end of vout " alt="" coords="423,107,542,133"/>
+</map>

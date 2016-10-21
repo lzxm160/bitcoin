@@ -1,0 +1,6 @@
+<map id="test_ecdsa_recovery_edge_cases" name="test_ecdsa_recovery_edge_cases">
+<area shape="rect" id="node2" href="$secp256k1__recovery_8h.html#a6699b45dc75be70f028ac7d8ffaba46e" title="secp256k1_ecdsa_recoverable\l_signature_parse_compact" alt="" coords="195,5,393,47"/>
+<area shape="rect" id="node3" href="$secp256k1__recovery_8h.html#a7e156c6f4be24b07f4a563210dcb1a2e" title="secp256k1_ecdsa_recover" alt="" coords="207,71,381,98"/>
+<area shape="rect" id="node4" href="$secp256k1_8h.html#a57d390dd5baa54855b0cb20628034b90" title="secp256k1_ecdsa_signature\l_parse_der" alt="" coords="201,123,387,164"/>
+<area shape="rect" id="node5" href="$secp256k1_8h.html#a41065390f9039c4140ec04999724987d" title="secp256k1_ecdsa_verify" alt="" coords="213,189,375,215"/>
+</map>

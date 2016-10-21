@@ -1,0 +1,9 @@
+<map id="SendCoinsEntry::SendCoinsEntry" name="SendCoinsEntry::SendCoinsEntry">
+<area shape="rect" id="node2" href="$class_platform_style.html#a4987d44b752a26f0ad3a654822d7dc5e" title="PlatformStyle::SingleColorIcon" alt="" coords="240,5,439,32"/>
+<area shape="rect" id="node4" href="$class_platform_style.html#a5fb02349284d8a71f5f2fde5fefef0ad" title="PlatformStyle::getUseExtra\lSpacing" alt="" coords="249,57,429,98"/>
+<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="243,173,435,200"/>
+<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="497,123,651,149"/>
+<area shape="rect" id="node3" href="$class_platform_style.html#a1c21234aff601548130e5b52c0fcfc47" title="PlatformStyle::SingleColor" alt="" coords="487,5,661,32"/>
+<area shape="rect" id="node7" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="541,173,607,200"/>
+<area shape="rect" id="node8" href="$class_q_validated_line_edit.html#af365be1760e17fd1ea6b430fa6005bd2" title="QValidatedLineEdit\l::setCheckValidator" alt="" coords="506,225,642,266"/>
+</map>

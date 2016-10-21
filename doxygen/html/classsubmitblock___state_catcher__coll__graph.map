@@ -1,0 +1,6 @@
+<map id="submitblock_StateCatcher" name="submitblock_StateCatcher">
+<area shape="rect" id="node2" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="5,81,143,108"/>
+<area shape="rect" id="node3" href="$classuint256.html" title="uint256" alt="" coords="167,81,231,108"/>
+<area shape="rect" id="node4" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="136,5,263,32"/>
+<area shape="rect" id="node5" href="$class_c_validation_state.html" title="CValidationState" alt="" coords="256,81,375,108"/>
+</map>

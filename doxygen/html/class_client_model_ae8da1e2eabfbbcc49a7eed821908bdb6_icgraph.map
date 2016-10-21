@@ -1,0 +1,8 @@
+<map id="ClientModel::getOptionsModel" name="ClientModel::getOptionsModel">
+<area shape="rect" id="node2" href="$class_bitcoin_g_u_i.html#a99d71e1f8478ab937ce2522c8d3815e3" title="BitcoinGUI::setClientModel" alt="" coords="249,45,428,71"/>
+<area shape="rect" id="node6" href="$class_bitcoin_g_u_i.html#a11e94d1243e51b6398e7ca4079f7c46a" title="BitcoinGUI::changeEvent" alt="" coords="255,95,422,122"/>
+<area shape="rect" id="node7" href="$class_bitcoin_g_u_i.html#ac46f8826c13b6340f5568d3f31fc3dfa" title="BitcoinGUI::closeEvent" alt="" coords="261,146,416,173"/>
+<area shape="rect" id="node3" href="$class_bitcoin_application.html#a37c560d4c04d14a6da151b82caf8888f" title="Request core shutdown. " alt="" coords="476,5,607,47"/>
+<area shape="rect" id="node5" href="$class_bitcoin_application.html#aceb08b4063e4fb264cf11cf7f9edd969" title="BitcoinApplication\l::initializeResult" alt="" coords="478,71,605,112"/>
+<area shape="rect" id="node4" href="$bitcoin_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="655,13,705,39"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="blockheaderToJSON" name="blockheaderToJSON">
+<area shape="rect" id="node2" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="231,5,377,32"/>
+<area shape="rect" id="node3" href="$class_c_block_index.html#ab843ef9b8b0a0193ec3a5c24738e484f" title="CBlockIndex::GetBlockHash" alt="" coords="211,56,397,83"/>
+<area shape="rect" id="node4" href="$classbase__blob.html#a9541747b1f91f9469ac0aff90665bd32" title="base_blob::GetHex" alt="" coords="489,183,622,209"/>
+<area shape="rect" id="node5" href="$class_c_chain.html#a1ab1fe2932227af222699c64847e838b" title="CChain::Contains" alt="" coords="494,335,617,361"/>
+<area shape="rect" id="node6" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="249,208,359,235"/>
+<area shape="rect" id="node7" href="$class_c_block_index.html#abffb24cc73329a3dce024403ba770b4a" title="CBlockIndex::GetMedianTimePast" alt="" coords="193,107,415,133"/>
+<area shape="rect" id="node9" href="$blockchain_8cpp.html#a65a78b16d228932a6142656509a8bce4" title="GetDifficulty" alt="" coords="258,411,350,437"/>
+<area shape="rect" id="node11" href="$classbase__uint.html#ac9929c28600796a9acf75881bb750576" title="base_uint::GetHex" alt="" coords="239,259,369,285"/>
+<area shape="rect" id="node14" href="$class_c_chain.html#acd3c27582e3d60b93363fda5d9f3775a" title="CChain::Next" alt="" coords="255,309,353,336"/>
+<area shape="rect" id="node8" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="463,107,648,133"/>
+<area shape="rect" id="node10" href="$class_c_chain.html#a7482d06d8e8143f46326cf9c12c06daf" title="CChain::Tip" alt="" coords="511,411,600,437"/>
+<area shape="rect" id="node12" href="$arith__uint256_8cpp.html#af4848fa3f8b64d222b5d8a370bc72458" title="ArithToUint256" alt="" coords="502,259,609,285"/>
+<area shape="rect" id="node13" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="696,259,816,285"/>
+</map>

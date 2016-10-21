@@ -1,0 +1,37 @@
+<map id="E:/renesola/work/bitcoin/src/miner.cpp" name="E:/renesola/work/bitcoin/src/miner.cpp">
+<area shape="rect" id="node2" href="$miner_8h.html" title="miner.h" alt="" coords="482,95,547,121"/>
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1285,483,1440,509"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="1141,557,1217,584"/>
+<area shape="rect" id="node16" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="595,169,693,196"/>
+<area shape="rect" id="node18" href="$coins_8h.html" title="coins.h" alt="" coords="923,251,987,278"/>
+<area shape="rect" id="node24" href="$hash_8h.html" title="hash.h" alt="" coords="347,483,408,509"/>
+<area shape="rect" id="node29" href="$chain_8h.html" title="chain.h" alt="" coords="2284,333,2348,360"/>
+<area shape="rect" id="node31" href="$pow_8h.html" title="pow.h" alt="" coords="2523,408,2579,435"/>
+<area shape="rect" id="node34" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="2080,333,2187,360"/>
+<area shape="rect" id="node37" href="$consensus_8h.html" title="consensus/consensus.h" alt="" coords="3200,483,3363,509"/>
+<area shape="rect" id="node38" href="$merkle_8h.html" title="consensus/merkle.h" alt="" coords="1676,333,1815,360"/>
+<area shape="rect" id="node39" href="$validation_8h.html" title="consensus/validation.h" alt="" coords="2827,169,2981,196"/>
+<area shape="rect" id="node40" href="$main_8h.html" title="main.h" alt="" coords="1981,169,2043,196"/>
+<area shape="rect" id="node41" href="$net_8h.html" title="net.h" alt="" coords="521,408,572,435"/>
+<area shape="rect" id="node42" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="2313,251,2447,278"/>
+<area shape="rect" id="node43" href="$policy_8h.html" title="policy/policy.h" alt="" coords="3057,408,3162,435"/>
+<area shape="rect" id="node44" href="$standard_8h.html" title="script/standard.h" alt="" coords="3006,483,3125,509"/>
+<area shape="rect" id="node45" href="$timedata_8h.html" title="timedata.h" alt="" coords="1540,632,1623,659"/>
+<area shape="rect" id="node46" href="$util_8h.html" title="util.h" alt="" coords="2793,557,2844,584"/>
+<area shape="rect" id="node47" href="$utilmoneystr_8h.html" title="utilmoneystr.h" alt="" coords="2725,483,2829,509"/>
+<area shape="rect" id="node3" href="$primitives_2block_8h.html" title="primitives/block.h" alt="" coords="1573,408,1696,435"/>
+<area shape="rect" id="node9" href="$stdint_8h.html" title="stdint.h" alt="" coords="1445,781,1510,808"/>
+<area shape="rect" id="node6" href="$serialize_8h.html" title="serialize.h" alt="" coords="1221,632,1302,659"/>
+<area shape="rect" id="node15" href="$uint256_8h.html" title="uint256.h" alt="" coords="1543,557,1617,584"/>
+<area shape="rect" id="node13" href="$prevector_8h.html" title="prevector.h" alt="" coords="568,707,653,733"/>
+<area shape="rect" id="node19" href="$compressor_8h.html" title="compressor.h" alt="" coords="1195,408,1296,435"/>
+<area shape="rect" id="node20" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="1119,333,1249,360"/>
+<area shape="rect" id="node21" href="$memusage_8h.html" title="memusage.h" alt="" coords="819,408,917,435"/>
+<area shape="rect" id="node25" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="360,707,493,733"/>
+<area shape="rect" id="node26" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="144,707,259,733"/>
+<area shape="rect" id="node30" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="2217,632,2324,659"/>
+<area shape="rect" id="node33" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2103,632,2193,659"/>
+<area shape="rect" id="node32" href="$params_8h.html" title="consensus/params.h" alt="" coords="2406,483,2549,509"/>
+<area shape="rect" id="node35" href="$chainparamsbase_8h.html" title="chainparamsbase.h" alt="" coords="2501,632,2635,659"/>
+<area shape="rect" id="node36" href="$protocol_8h.html" title="protocol.h" alt="" coords="1667,483,1746,509"/>
+</map>

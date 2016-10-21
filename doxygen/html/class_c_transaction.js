@@ -1,0 +1,25 @@
+var class_c_transaction =
+[
+    [ "CTransaction", "class_c_transaction.html#a41717180530fca69eb0163c1024ae286", null ],
+    [ "CTransaction", "class_c_transaction.html#a6607e95af3e2851ee3b7fe335a05eb4c", null ],
+    [ "CalculateModifiedSize", "class_c_transaction.html#a98fc4a8cb45c07c8db7f92278e0a0a13", null ],
+    [ "ComputePriority", "class_c_transaction.html#ad2452fe2ae424f43e5fd767c28517b3b", null ],
+    [ "GetHash", "class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990", null ],
+    [ "GetTotalSize", "class_c_transaction.html#ae36c0c94b2273e5cd6afb1c3ad6ee8f5", null ],
+    [ "GetValueOut", "class_c_transaction.html#aef472df5cb11c53281d975ee9e7cf133", null ],
+    [ "GetWitnessHash", "class_c_transaction.html#a5bb87a50a88deefb232151f36daea2b5", null ],
+    [ "IsCoinBase", "class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51", null ],
+    [ "IsNull", "class_c_transaction.html#af2f0fe5a8853ea2928f77b97581031a6", null ],
+    [ "operator=", "class_c_transaction.html#a93a05df7088ebef96adb2ea0442380e8", null ],
+    [ "SerializationOp", "class_c_transaction.html#aa79659fab1e973a058494393209b0a59", null ],
+    [ "ToString", "class_c_transaction.html#ae5fde44ffb46045dd48bd9cfff9492b6", null ],
+    [ "UpdateHash", "class_c_transaction.html#af57dc6caa30929cf86638395f0f29fa1", null ],
+    [ "operator!=", "class_c_transaction.html#ab7c00027d7a2622792736f6a3a579d5d", null ],
+    [ "operator==", "class_c_transaction.html#a1afe3b8f0f0daca6f653756ee44c9e44", null ],
+    [ "ADD_SERIALIZE_METHODS", "class_c_transaction.html#a329b40b323445b322ab460c966669944", null ],
+    [ "nLockTime", "class_c_transaction.html#a54d5948c11f499b28276eab6bbfdf0c5", null ],
+    [ "nVersion", "class_c_transaction.html#abda727662de83b84dc2ef56d30690cb1", null ],
+    [ "vin", "class_c_transaction.html#ad64447ea044ec850313696fc99412d95", null ],
+    [ "vout", "class_c_transaction.html#a708645274ddfd83829315ffe5c7c5c3e", null ],
+    [ "wit", "class_c_transaction.html#af3ee52b69bdfa187d6b2385346319c08", null ]
+];

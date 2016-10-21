@@ -1,0 +1,7 @@
+<map id="leveldb::log::LogTest::Write" name="leveldb::log::LogTest::Write">
+<area shape="rect" id="node2" href="$classleveldb_1_1log_1_1_writer.html#acb4abda5a5348ac1771657ff01bf2fad" title="leveldb::log::Writer\l::AddRecord" alt="" coords="193,78,323,119"/>
+<area shape="rect" id="node3" href="$classleveldb_1_1_slice.html#aa64861043d9deee6889461bf0593cf73" title="leveldb::Slice::data" alt="" coords="375,5,505,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_slice.html#a947d3173f04f8a30553e89046daf91d5" title="leveldb::Slice::size" alt="" coords="375,56,505,83"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_writable_file.html#a53b41841d9577d28f65d4d90e1660de8" title="leveldb::WritableFile\l::Append" alt="" coords="371,107,509,149"/>
+<area shape="rect" id="node6" href="$classleveldb_1_1_status.html#ab31e89a858c766716e3dc952be857c65" title="leveldb::Status::ok" alt="" coords="375,173,505,200"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$random_8cpp.html#af3aedae75efabb170337a497457f7ecf" title="GetRandHash" alt="" coords="254,5,357,32"/>
+<area shape="rect" id="node4" href="$class_c_coins.html#af28a2e44f0b41c3a4a6366607b4b8f81" title="CCoins::IsPruned" alt="" coords="244,56,367,83"/>
+<area shape="rect" id="node6" href="$class_c_coins.html#a4d4197688436b752234bea95f0230b82" title="CCoins::Clear" alt="" coords="254,107,357,133"/>
+<area shape="rect" id="node3" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="415,5,521,32"/>
+<area shape="rect" id="node5" href="$class_c_tx_out.html#aeaa6b16e0c4caee54196cf8eb0f127f3" title="CTxOut::IsNull" alt="" coords="415,56,521,83"/>
+<area shape="rect" id="node7" href="$class_c_coins.html#a9581324a74e9500b3d2cad472c0a830f" title="CCoins::swap" alt="" coords="417,107,519,133"/>
+</map>

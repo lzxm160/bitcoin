@@ -1,0 +1,5 @@
+<map id="WalletModel::validateAddress" name="WalletModel::validateAddress">
+<area shape="rect" id="node2" href="$class_address_table_model.html#aa72edd2a093a6e9318639d69d3a23488" title="AddressTableModel::\laddRow" alt="" coords="281,5,425,47"/>
+<area shape="rect" id="node3" href="$class_send_coins_entry.html#ab77df95fe77e9a001190cd4dabe0dfec" title="SendCoinsEntry::validate" alt="" coords="269,71,436,98"/>
+<area shape="rect" id="node4" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="247,122,459,149"/>
+</map>

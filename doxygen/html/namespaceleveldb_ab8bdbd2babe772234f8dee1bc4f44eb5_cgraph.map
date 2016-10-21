@@ -1,0 +1,5 @@
+<map id="leveldb::NewMergingIterator" name="leveldb::NewMergingIterator">
+<area shape="rect" id="node2" href="$namespaceleveldb.html#a3293c30e4a309a7293598b1db0f3e687" title="leveldb::NewEmptyIterator" alt="" coords="233,5,405,32"/>
+<area shape="rect" id="node3" href="$classleveldb_1_1_status.html#a8e3720d233281c874a53c17e081f51b3" title="leveldb::Status::OK" alt="" coords="453,5,588,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_status.html#a941ec793179e81df3032a612cfe5039f" title="leveldb::Status::Status" alt="" coords="636,5,789,32"/>
+</map>

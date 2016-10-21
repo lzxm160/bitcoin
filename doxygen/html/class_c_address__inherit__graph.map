@@ -1,0 +1,5 @@
+<map id="CAddress" name="CAddress">
+<area shape="rect" id="node4" href="$class_c_addr_info.html" title="CAddrInfo" alt="" coords="5,229,84,256"/>
+<area shape="rect" id="node2" href="$class_c_service.html" title="CService" alt="" coords="8,80,81,107"/>
+<area shape="rect" id="node3" href="$class_c_net_addr.html" title="CNetAddr" alt="" coords="5,5,84,32"/>
+</map>

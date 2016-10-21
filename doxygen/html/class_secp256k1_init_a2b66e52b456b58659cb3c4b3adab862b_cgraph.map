@@ -1,0 +1,12 @@
+<map id="Secp256k1Init::Secp256k1Init" name="Secp256k1Init::Secp256k1Init">
+<area shape="rect" id="node2" href="$key_8cpp.html#ae4d2893f2f5af1cca247516578171860" title="ECC_Start" alt="" coords="248,107,332,133"/>
+<area shape="rect" id="node3" href="$secp256k1_8h.html#a769d478f352afbb55200e33970533a3c" title="secp256k1_context_create" alt="" coords="392,5,571,32"/>
+<area shape="rect" id="node4" href="$pagelocker_8h.html#ab73cc3988a03bed966c0c2bb191a8d2a" title="LockObject" alt="" coords="437,56,525,83"/>
+<area shape="rect" id="node7" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="428,107,535,133"/>
+<area shape="rect" id="node8" href="$secp256k1_8h.html#a1b81d70feb6ed24dc902cbbd5ba569e7" title="secp256k1_context_randomize" alt="" coords="380,157,583,184"/>
+<area shape="rect" id="node9" href="$pagelocker_8h.html#a49577b8da0ecffd2fbc222896283004c" title="UnlockObject" alt="" coords="431,208,531,235"/>
+<area shape="rect" id="node5" href="$class_locked_page_manager.html#ac9b1d42d240dba4714a35fff970b6dde" title="LockedPageManager::\lInstance" alt="" coords="642,121,794,162"/>
+<area shape="rect" id="node6" href="$class_locked_page_manager_base.html#ae24ac08899505b892d451404133fa494" title="LockedPageManagerBase\l::LockRange" alt="" coords="631,49,805,90"/>
+<area shape="rect" id="node10" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="657,200,779,227"/>
+<area shape="rect" id="node11" href="$class_locked_page_manager_base.html#a34bcf7b9120295ed178fe9545ed229af" title="LockedPageManagerBase\l::UnlockRange" alt="" coords="631,251,805,293"/>
+</map>

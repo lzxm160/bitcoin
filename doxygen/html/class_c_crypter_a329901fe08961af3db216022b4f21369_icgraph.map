@@ -1,0 +1,12 @@
+<map id="CCrypter::Encrypt" name="CCrypter::Encrypt">
+<area shape="rect" id="node2" href="$class_test_crypter.html#afea5fb6e96495ddd00a23bd4b1aabfa0" title="TestCrypter::TestEncrypt\lSingle" alt="" coords="210,9,377,50"/>
+<area shape="rect" id="node5" href="$group__map_wallet.html#ga4abcec3066e7c462f4564c159fc15031" title="CWallet::ChangeWalletPassphrase" alt="" coords="180,85,407,112"/>
+<area shape="rect" id="node9" href="$group__map_wallet.html#gab34fe5bf771619dcbe22a65f013e5469" title="CWallet::EncryptWallet" alt="" coords="214,157,373,184"/>
+<area shape="rect" id="node3" href="$class_test_crypter.html#a1eac08cc6fc5902ffa83f2f1d2f72c9d" title="TestCrypter::TestEncrypt" alt="" coords="479,5,646,32"/>
+<area shape="rect" id="node4" href="$wallet_2test_2crypto__tests_8cpp.html#adf8fd6ed811b11c551c20f678e7f0c9b" title="BOOST_AUTO_TEST_CASE" alt="" coords="719,5,909,32"/>
+<area shape="rect" id="node6" href="$class_wallet_model.html#a67ebff3f267b5c9973c0465184c085a4" title="WalletModel::changePassphrase" alt="" coords="456,56,669,83"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a63c3c88d86ea99e2c171b68a874fe8fe" title="walletpassphrasechange" alt="" coords="481,107,645,133"/>
+<area shape="rect" id="node7" href="$class_ask_passphrase_dialog.html#ac2f176af3693b73870d26ef0bfc6cbb9" title="AskPassphraseDialog\l::accept" alt="" coords="739,103,889,145"/>
+<area shape="rect" id="node10" href="$class_wallet_model.html#a444340830badcd48e3a4dd6b03d9c4d7" title="WalletModel::setWalletEncrypted" alt="" coords="455,157,671,184"/>
+<area shape="rect" id="node11" href="$rpcwallet_8cpp.html#a080b6ac524f3796a7653dee70513227a" title="encryptwallet" alt="" coords="513,208,612,235"/>
+</map>

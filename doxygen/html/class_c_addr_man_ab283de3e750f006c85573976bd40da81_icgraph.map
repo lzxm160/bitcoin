@@ -1,0 +1,12 @@
+<map id="CAddrMan::ClearNew" name="CAddrMan::ClearNew">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="200,60,351,87"/>
+<area shape="rect" id="node7" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="215,123,336,149"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="399,35,528,61"/>
+<area shape="rect" id="node4" href="$class_c_addr_man.html#a993e80e74701d7bc6bb49880c387b847" title="Mark an entry as accessible. " alt="" coords="617,31,739,57"/>
+<area shape="rect" id="node5" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="828,5,1031,32"/>
+<area shape="rect" id="node6" href="$addrman__tests_8cpp.html#a68763c565f212d2fecd6c99f11b4d2d9" title="BOOST_AUTO_TEST_CASE" alt="" coords="834,56,1025,83"/>
+<area shape="rect" id="node8" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="406,129,521,156"/>
+<area shape="rect" id="node9" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="583,81,773,108"/>
+<area shape="rect" id="node10" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="576,132,780,159"/>
+<area shape="rect" id="node11" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="583,183,773,209"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="GetTxnOutputType" name="GetTxnOutputType">
+<area shape="rect" id="node2" href="$core__write_8cpp.html#a4a51bf7268adbdcd58e7af445ea4db61" title="ScriptPubKeyToUniv" alt="" coords="189,19,329,45"/>
+<area shape="rect" id="node4" href="$rawtransaction_8cpp.html#a6e621b4ad486c6d716873ee3f16919ad" title="ScriptPubKeyToJSON" alt="" coords="184,95,335,121"/>
+<area shape="rect" id="node3" href="$core__write_8cpp.html#aeb901ca565e3df0e3bc0c9863ad8f53a" title="TxToUniv" alt="" coords="393,5,468,32"/>
+<area shape="rect" id="node5" href="$blockchain_8cpp.html#a5d2241797e79623e7a558ab617415652" title="gettxout" alt="" coords="396,56,465,83"/>
+<area shape="rect" id="node6" href="$rawtransaction_8cpp.html#a719639f5d779706aae5c283784b3fd66" title="TxToJSON" alt="" coords="389,107,473,133"/>
+<area shape="rect" id="node11" href="$rawtransaction_8cpp.html#ae1b1b5063ba94024c0af38e72de0d726" title="decodescript" alt="" coords="383,157,479,184"/>
+<area shape="rect" id="node7" href="$blockchain_8cpp.html#a6b596f07acd85fe676c798170fd8ddbe" title="blockToJSON" alt="" coords="550,56,651,83"/>
+<area shape="rect" id="node9" href="$rawtransaction_8cpp.html#aab9a57fd8f857122f587feee00a7757c" title="getrawtransaction" alt="" coords="539,107,663,133"/>
+<area shape="rect" id="node10" href="$rawtransaction_8cpp.html#abd3d6aa800b863a2e503ef322d680d9b" title="decoderawtransaction" alt="" coords="527,157,675,184"/>
+<area shape="rect" id="node8" href="$blockchain_8cpp.html#afdd7f5b03a6ab23f3627721b074ef606" title="getblock" alt="" coords="723,56,793,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CWallet::EraseDestData" name="CWallet::EraseDestData">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a88d44bc0994c1701386f63b1f266637f" title="WalletModel::saveReceive\lRequest" alt="" coords="217,39,391,80"/>
+<area shape="rect" id="node3" href="$class_recent_requests_table_model.html#a63504be44ff9d33d5c508f6303622e5a" title="RecentRequestsTableModel\l::removeRows" alt="" coords="439,5,623,47"/>
+<area shape="rect" id="node4" href="$class_recent_requests_table_model.html#ae9866ffd5aed0f041437996410928edd" title="RecentRequestsTableModel\l::addNewRequest" alt="" coords="439,71,623,112"/>
+<area shape="rect" id="node5" href="$class_recent_requests_table_model.html#ab3ef691b8c34e6d6e5ae0bdf7953a360" title="RecentRequestsTableModel\l::RecentRequestsTableModel" alt="" coords="671,37,863,79"/>
+<area shape="rect" id="node6" href="$class_recent_requests_table_model.html#aad0b9435284ed1f4b67852b34d7694a9" title="RecentRequestsTableModel\l::addNewRequest" alt="" coords="675,103,859,144"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RecipientCatcher" name="RecipientCatcher">
+<area shape="rect" id="node3" href="$class_send_coins_recipient.html" title="SendCoinsRecipient" alt="" coords="101,95,239,121"/>
+<area shape="rect" id="node4" href="$class_payment_request_plus.html" title="PaymentRequestPlus" alt="" coords="96,5,244,32"/>
+</map>

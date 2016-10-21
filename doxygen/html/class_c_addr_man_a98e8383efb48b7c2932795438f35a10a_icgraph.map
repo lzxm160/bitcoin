@@ -1,0 +1,6 @@
+<map id="CAddrMan::MakeTried" name="CAddrMan::MakeTried">
+<area shape="rect" id="node2" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="204,31,333,57"/>
+<area shape="rect" id="node3" href="$class_c_addr_man.html#a993e80e74701d7bc6bb49880c387b847" title="Mark an entry as accessible. " alt="" coords="381,31,504,57"/>
+<area shape="rect" id="node4" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="552,5,755,32"/>
+<area shape="rect" id="node5" href="$addrman__tests_8cpp.html#a68763c565f212d2fecd6c99f11b4d2d9" title="BOOST_AUTO_TEST_CASE" alt="" coords="558,56,749,83"/>
+</map>

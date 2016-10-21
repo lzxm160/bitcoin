@@ -1,0 +1,5 @@
+<map id="GetSpendHeight" name="GetSpendHeight">
+<area shape="rect" id="node2" href="$class_c_coins_view_cache.html#aabcd1da9f28445e09c9af5f68ce7f100" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="171,23,356,65"/>
+<area shape="rect" id="node3" href="$classbase__blob.html#aff2f3d1d623d91b6895a6a153434770e" title="base_blob::IsNull" alt="" coords="434,5,555,32"/>
+<area shape="rect" id="node4" href="$class_c_coins_view.html#a556cf7661ff49df1ada5cd0ad552f8db" title="Retrieve the block hash whose state this CCoinsView currently represents. " alt="" coords="404,56,585,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CWalletDB::ReadAccount" name="CWalletDB::ReadAccount">
+<area shape="rect" id="node2" href="$group__map_wallet.html#ga5f7245634960710d25795021dee8109d" title="CWallet::GetAccountPubkey" alt="" coords="225,31,415,57"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#aa3d9baf7a6fc6c9f0a08ec861ca52f59" title="GetAccountAddress" alt="" coords="463,31,601,57"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#ac99e9d92aca9d4b8e87ffac94120d957" title="getaccountaddress" alt="" coords="649,5,781,32"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a98d0e31e436c642d77ded283a8e3810a" title="setaccount" alt="" coords="672,56,759,83"/>
+</map>

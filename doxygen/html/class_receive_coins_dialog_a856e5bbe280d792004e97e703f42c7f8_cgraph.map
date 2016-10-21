@@ -1,0 +1,6 @@
+<map id="ReceiveCoinsDialog::setModel" name="ReceiveCoinsDialog::setModel">
+<area shape="rect" id="node2" href="$class_wallet_model.html#a96d53e56b3f8f07537ea2523f7a7d300" title="WalletModel::getOptionsModel" alt="" coords="197,5,397,32"/>
+<area shape="rect" id="node3" href="$class_wallet_model.html#ab13ca64220a1652d63e1e042d3be578f" title="WalletModel::getRecentRequests\lTableModel" alt="" coords="189,57,405,98"/>
+<area shape="rect" id="node4" href="$class_recent_requests_table_model.html#a63ba78741b7115af25908f88d138c201" title="RecentRequestsTableModel\l::sort" alt="" coords="205,122,389,163"/>
+<area shape="rect" id="node5" href="$class_recent_requests_table_model.html#a24e3351b43bdf7213a95f906a4c3387a" title="RecentRequestsTableModel\l::index" alt="" coords="453,122,637,163"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CWallet::GetKeyPoolSize" name="CWallet::GetKeyPoolSize">
+<area shape="rect" id="node2" href="$misc_8cpp.html#ade6e4d8f2279de00350dea14e978235e" title="getinfo" alt="" coords="275,5,335,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a9a9995b663381ea6801adba2fac555b3" title="keypoolrefill" alt="" coords="259,56,350,83"/>
+<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a28a02b96aa185b33ba6cfbd96b99cebc" title="getwalletinfo" alt="" coords="258,107,351,133"/>
+<area shape="rect" id="node5" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="225,157,384,184"/>
+<area shape="rect" id="node6" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="432,157,501,184"/>
+<area shape="rect" id="node7" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="590,132,653,159"/>
+<area shape="rect" id="node9" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="549,183,693,209"/>
+<area shape="rect" id="node8" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="741,132,792,159"/>
+</map>

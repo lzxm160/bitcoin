@@ -1,0 +1,18 @@
+<map id="sign_multisig" name="sign_multisig">
+<area shape="rect" id="node2" href="$interpreter_8cpp.html#a688f131af92b4930326fe1fe63fbb44a" title="SignatureHash" alt="" coords="152,120,259,147"/>
+<area shape="rect" id="node13" href="$class_c_key.html#a3b161899b4fa79f5a7036d2ccf12ce3a" title="CKey::Sign" alt="" coords="161,221,249,248"/>
+<area shape="rect" id="node3" href="$class_c_hash_writer.html#ae94a937211502eabf19477630090093a" title="CHashWriter::GetHash" alt="" coords="323,69,477,96"/>
+<area shape="rect" id="node10" href="$uint256_8h.html#a52e679560cc1ebf68f878ed69e38f259" title="uint256S" alt="" coords="363,120,437,147"/>
+<area shape="rect" id="node4" href="$class_c_hash256.html#aa8a70c1b7cf24ce7d00240a1131cf4e7" title="CHash256::Finalize" alt="" coords="541,69,676,96"/>
+<area shape="rect" id="node5" href="$class_c_s_h_a256.html#a4259230be0caefa590bc324fc12b9b90" title="CSHA256::Finalize" alt="" coords="724,5,856,32"/>
+<area shape="rect" id="node6" href="$class_c_s_h_a256.html#a9d7de520a562655da85349372820c883" title="CSHA256::Write" alt="" coords="904,31,1023,57"/>
+<area shape="rect" id="node9" href="$class_c_s_h_a256.html#a2122395dd5604990eaa0077b43a0e8d4" title="CSHA256::Reset" alt="" coords="729,107,851,133"/>
+<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="1071,31,1143,57"/>
+<area shape="rect" id="node8" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="1191,31,1272,57"/>
+<area shape="rect" id="node11" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="543,145,675,172"/>
+<area shape="rect" id="node12" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="755,157,825,184"/>
+<area shape="rect" id="node14" href="$secp256k1_8h.html#a691c048f3a3b4e7f51417c57ec058be7" title="secp256k1_ecdsa_sign" alt="" coords="321,171,479,197"/>
+<area shape="rect" id="node15" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="340,221,460,248"/>
+<area shape="rect" id="node16" href="$class_c_key.html#aabd29e0d5faf30032cc8519a1ce62a5a" title="CKey::begin" alt="" coords="353,272,447,299"/>
+<area shape="rect" id="node17" href="$secp256k1_8h.html#ac07809ca872ec967ab4d3b1a95eafe0b" title="secp256k1_ecdsa_signature\l_serialize_der" alt="" coords="307,323,493,365"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="leveldb::log::LogTest::CheckOffsetPastEndReturnsNoRecords" name="leveldb::log::LogTest::CheckOffsetPastEndReturnsNoRecords">
+<area shape="rect" id="node2" href="$classleveldb_1_1log_1_1_log_test.html#af0053e30c5ccaa5e2e10d595a4f48565" title="leveldb::log::LogTest\l::WriteInitialOffsetLog" alt="" coords="249,103,396,145"/>
+<area shape="rect" id="node9" href="$classleveldb_1_1log_1_1_log_test.html#ad14bacbd6c103ac692bbb019ce9071a3" title="leveldb::log::LogTest\l::WrittenBytes" alt="" coords="253,223,393,265"/>
+<area shape="rect" id="node10" href="$classleveldb_1_1log_1_1_reader.html#a84059598c9367cb677a9d70d77993282" title="leveldb::log::Reader\l::ReadRecord" alt="" coords="632,166,767,207"/>
+<area shape="rect" id="node3" href="$classleveldb_1_1log_1_1_log_test.html#ab8af1c9335e7fbb42e06a6c01de2d0fc" title="leveldb::log::LogTest\l::Write" alt="" coords="444,102,584,143"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1log_1_1_writer.html#acb4abda5a5348ac1771657ff01bf2fad" title="leveldb::log::Writer\l::AddRecord" alt="" coords="635,101,764,142"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_slice.html#aa64861043d9deee6889461bf0593cf73" title="leveldb::Slice::data" alt="" coords="819,173,949,200"/>
+<area shape="rect" id="node6" href="$classleveldb_1_1_slice.html#a947d3173f04f8a30553e89046daf91d5" title="leveldb::Slice::size" alt="" coords="819,123,949,149"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_writable_file.html#a53b41841d9577d28f65d4d90e1660de8" title="leveldb::WritableFile\l::Append" alt="" coords="815,57,953,98"/>
+<area shape="rect" id="node8" href="$classleveldb_1_1_status.html#ab31e89a858c766716e3dc952be857c65" title="leveldb::Status::ok" alt="" coords="819,5,949,32"/>
+<area shape="rect" id="node11" href="$classleveldb_1_1_slice.html#ab9b6e340e8a483a5cf713f6be17709e3" title="leveldb::Slice::clear" alt="" coords="817,224,951,251"/>
+</map>

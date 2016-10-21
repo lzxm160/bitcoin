@@ -1,0 +1,7 @@
+<map id="CheckDiskSpace" name="CheckDiskSpace">
+<area shape="rect" id="node2" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="176,56,263,83"/>
+<area shape="rect" id="node6" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="_" alt="" coords="200,107,239,133"/>
+<area shape="rect" id="node3" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="343,5,469,32"/>
+<area shape="rect" id="node4" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="357,56,455,83"/>
+<area shape="rect" id="node5" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="311,107,501,133"/>
+</map>

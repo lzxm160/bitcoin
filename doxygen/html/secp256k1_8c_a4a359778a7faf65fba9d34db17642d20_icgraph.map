@@ -1,0 +1,51 @@
+<map id="secp256k1_ec_pubkey_parse" name="secp256k1_ec_pubkey_parse">
+<area shape="rect" id="node2" href="$class_c_pub_key.html#ab4047c7ce31b72591d8108a2563cd21b" title="CPubKey::Verify" alt="" coords="264,431,383,457"/>
+<area shape="rect" id="node27" href="$class_c_pub_key.html#a2533ec5fc9a1c3d2ef39d0faa3ad6cdd" title="fully validate whether this is a valid public key (more expensive than IsValid()) ..." alt="" coords="247,569,399,596"/>
+<area shape="rect" id="node35" href="$class_c_pub_key.html#a572689418fecf47b300a11519bc3da36" title="Turn this public key into an uncompressed public key. " alt="" coords="244,627,403,653"/>
+<area shape="rect" id="node38" href="$class_c_pub_key.html#add183528b09791bdd0f982e63308d263" title="Derive BIP32 child pubkey. " alt="" coords="263,677,383,704"/>
+<area shape="rect" id="node42" href="$org__bitcoin___native_secp256k1_8h.html#a0910303b495ea32d6ff021d106401a3f" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1ecdsa_1verify" alt="" coords="211,729,435,770"/>
+<area shape="rect" id="node43" href="$org__bitcoin___native_secp256k1_8h.html#a0c747bbb40251a6555c91676c575f129" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1pubkey_1tweak_1add" alt="" coords="208,794,439,835"/>
+<area shape="rect" id="node44" href="$org__bitcoin___native_secp256k1_8h.html#afaedb25dd95647f3ce376a99f84489c0" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1pubkey_1tweak_1mul" alt="" coords="208,859,439,901"/>
+<area shape="rect" id="node45" href="$org__bitcoin___native_secp256k1_8h.html#a78cebcc597836aca0eb1af57a6490009" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1ecdh" alt="" coords="211,925,435,966"/>
+<area shape="rect" id="node46" href="$tests_8c.html#ab33610b81949f135f12a8f2aab3dc192" title="ec_pubkey_parse_pointtest" alt="" coords="233,1041,414,1068"/>
+<area shape="rect" id="node47" href="$tests_8c.html#a24bd2af11fcef9c3f2abb62862d6fe97" title="run_ec_pubkey_parse_test" alt="" coords="495,1041,673,1068"/>
+<area shape="rect" id="node49" href="$tests_8c.html#a3fc9dc1908215215a68690ea1bfa8bcd" title="test_ecdsa_end_to_end" alt="" coords="243,991,403,1017"/>
+<area shape="rect" id="node3" href="$class_c_key.html#a3890764f7a2e5d9cdeffb3e102e4545d" title="CKey::VerifyPubKey" alt="" coords="513,241,655,268"/>
+<area shape="rect" id="node24" href="$class_transaction_signature_checker.html#a59179724477a42488a70a2828f51093d" title="TransactionSignatureChecker\l::VerifySignature" alt="" coords="488,394,680,435"/>
+<area shape="rect" id="node26" href="$key__tests_8cpp.html#add8f8fb6aeee707149cdf29db2eca2b2" title="BOOST_AUTO_TEST_CASE" alt="" coords="489,460,679,487"/>
+<area shape="rect" id="node4" href="$class_c_key.html#a141751588f8bfe5f1b6fc27f4e64b63f" title="Load private key and check that public key matches. " alt="" coords="779,89,870,116"/>
+<area shape="rect" id="node17" href="$key_8h.html#a55cc40f04bf887c1000667caccb0684a" title="ECC_InitSanityCheck" alt="" coords="751,191,898,217"/>
+<area shape="rect" id="node20" href="$rpcwallet_8cpp.html#ace3f8652191a347b888627b8e0a1d17c" title="importprivkey" alt="" coords="775,241,874,268"/>
+<area shape="rect" id="node21" href="$rpcwallet_8cpp.html#a71dce63ec2a80b836bab5f31fef8da46" title="importwallet" alt="" coords="779,292,870,319"/>
+<area shape="rect" id="node22" href="$group__map_wallet.html#ga061fe7f54f80ec40f856b3e6365c2f4a" title="CWallet::GenerateNewKey" alt="" coords="736,343,913,369"/>
+<area shape="rect" id="node23" href="$group__map_wallet.html#ga3b89a2ec734e938af4b1e8968562ce23" title="CWallet::GenerateNewHDMasterKey" alt="" coords="1413,140,1648,167"/>
+<area shape="rect" id="node5" href="$walletdb_8cpp.html#ad1f171cf096f5479805a06fc20480343" title="ReadKeyValue" alt="" coords="1009,89,1117,116"/>
+<area shape="rect" id="node6" href="$class_c_wallet_d_b.html#a14f26e53502d1a60dd2b034f830acf03" title="CWalletDB::LoadWallet" alt="" coords="1207,89,1365,116"/>
+<area shape="rect" id="node14" href="$class_c_wallet_d_b.html#af9fa539659473e1484dc280ec01c0b70" title="CWalletDB::Recover" alt="" coords="1216,39,1356,65"/>
+<area shape="rect" id="node7" href="$group___actions.html#ga5d7b244b8ed0cbe24233ee0b6ca3cae0" title="CWallet::LoadWallet" alt="" coords="1460,89,1601,116"/>
+<area shape="rect" id="node8" href="$struct_wallet_testing_setup.html#a0125ada997b4b16803624bfd537d8902" title="WalletTestingSetup\l::WalletTestingSetup" alt="" coords="1704,74,1847,115"/>
+<area shape="rect" id="node9" href="$class_c_wallet.html#a90989ef433844c79656f513fa44d7546" title="CWallet::InitLoadWallet" alt="" coords="1696,140,1855,167"/>
+<area shape="rect" id="node10" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="1903,140,1972,167"/>
+<area shape="rect" id="node11" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="2061,115,2123,141"/>
+<area shape="rect" id="node13" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="2020,165,2164,192"/>
+<area shape="rect" id="node12" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2212,115,2263,141"/>
+<area shape="rect" id="node15" href="$group__map_wallet.html#ga40cd608c974a83e58af882d4421b2fbc" title="Verify the wallet database and perform salvage if required. " alt="" coords="1721,5,1830,32"/>
+<area shape="rect" id="node16" href="$class_c_wallet_d_b.html#ad6efdef4b446547fe9ea745c98609695" title="CWalletDB::Recover" alt="" coords="1461,39,1601,65"/>
+<area shape="rect" id="node18" href="$init_8cpp.html#a878797b40fb8eb0d7f330a41d7742d11" title="InitSanityCheck" alt="" coords="1229,229,1343,256"/>
+<area shape="rect" id="node19" href="$sanity__tests_8cpp.html#a64393db199b90df61f95069c15f67396" title="BOOST_AUTO_TEST_CASE" alt="" coords="968,191,1159,217"/>
+<area shape="rect" id="node25" href="$class_caching_transaction_signature_checker.html#aa01196795199b20b5a486a0bb52438d9" title="CachingTransactionSignature\lChecker::VerifySignature" alt="" coords="729,394,920,435"/>
+<area shape="rect" id="node28" href="$class_c_script_compressor.html#a4cec58b09c4ab7873b5884ed690ed0f9" title="CScriptCompressor::\lIsToPubKey" alt="" coords="513,562,655,603"/>
+<area shape="rect" id="node32" href="$rpcwallet_8cpp.html#aaaa83aae4b9dc51b4ac76d4be0dd237d" title="_createmultisig_redeemScript" alt="" coords="487,511,681,537"/>
+<area shape="rect" id="node29" href="$class_c_script_compressor.html#a98cb19f185efc85a395a5332574ef56b" title="CScriptCompressor::\lCompress" alt="" coords="753,562,896,603"/>
+<area shape="rect" id="node30" href="$class_c_script_compressor.html#a3b3dd61547c3dc2f7ba9325f74b9ec5f" title="CScriptCompressor::\lGetSerializeSize" alt="" coords="992,595,1135,637"/>
+<area shape="rect" id="node31" href="$class_c_script_compressor.html#a9d8168293e0a6d0fd8c4aeb63a346525" title="CScriptCompressor::\lSerialize" alt="" coords="992,530,1135,571"/>
+<area shape="rect" id="node33" href="$misc_8cpp.html#a2dcabb86c419e41b27a03228566ce2c9" title="createmultisig" alt="" coords="773,511,876,537"/>
+<area shape="rect" id="node34" href="$rpcwallet_8cpp.html#a82120a4244c802d5bb54865d5ff40eac" title="addmultisigaddress" alt="" coords="757,460,892,487"/>
+<area shape="rect" id="node36" href="$class_c_script_compressor.html#a1feb663ddab3a45218c7cb02f2a25717" title="CScriptCompressor::\lDecompress" alt="" coords="513,627,655,669"/>
+<area shape="rect" id="node37" href="$class_c_script_compressor.html#a016fa6e3d2735d95fcf773271da073d5" title="CScriptCompressor::\lUnserialize" alt="" coords="753,627,896,669"/>
+<area shape="rect" id="node39" href="$struct_c_ext_pub_key.html#a404798f7d800ffb539cf97431025597f" title="CExtPubKey::Derive" alt="" coords="514,693,654,720"/>
+<area shape="rect" id="node40" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="789,693,860,720"/>
+<area shape="rect" id="node41" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="968,693,1159,720"/>
+<area shape="rect" id="node48" href="$tests_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="799,1016,850,1043"/>
+<area shape="rect" id="node50" href="$tests_8c.html#ab05096657be701bf9ca8616475bb9491" title="run_ecdsa_end_to_end" alt="" coords="506,991,662,1017"/>
+</map>

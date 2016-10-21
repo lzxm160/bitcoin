@@ -1,0 +1,12 @@
+<map id="secp256k1_ec_privkey_tweak_add" name="secp256k1_ec_privkey_tweak_add">
+<area shape="rect" id="node2" href="$class_c_key.html#a1bae09b7447a951d8fc3328b7dcc3a3f" title="Derive BIP32 child key. " alt="" coords="273,31,370,57"/>
+<area shape="rect" id="node7" href="$org__bitcoin___native_secp256k1_8h.html#a9a16ff1fcbeca9780d086aaff020c9e8" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1privkey_1tweak_1add" alt="" coords="207,82,436,123"/>
+<area shape="rect" id="node8" href="$tests_8c.html#a32498e86a99a258f68cd4b1176f47966" title="run_eckey_edge_case_test" alt="" coords="484,148,665,175"/>
+<area shape="rect" id="node10" href="$tests_8c.html#a3fc9dc1908215215a68690ea1bfa8bcd" title="test_ecdsa_end_to_end" alt="" coords="241,199,401,225"/>
+<area shape="rect" id="node3" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="516,31,633,57"/>
+<area shape="rect" id="node4" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="772,5,843,32"/>
+<area shape="rect" id="node6" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="713,56,901,83"/>
+<area shape="rect" id="node5" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="949,5,1140,32"/>
+<area shape="rect" id="node9" href="$tests_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="782,173,833,200"/>
+<area shape="rect" id="node11" href="$tests_8c.html#ab05096657be701bf9ca8616475bb9491" title="run_ecdsa_end_to_end" alt="" coords="497,199,653,225"/>
+</map>

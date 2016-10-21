@@ -1,0 +1,5 @@
+<map id="leveldb::Footer::set_index_handle" name="leveldb::Footer::set_index_handle">
+<area shape="rect" id="node2" href="$classleveldb_1_1_table_builder.html#a88f4bae006782e24462362d489dd3f35" title="leveldb::TableBuilder\l::Finish" alt="" coords="185,27,325,69"/>
+<area shape="rect" id="node3" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="392,5,521,32"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_table_constructor.html#aa8ce3799a55859c2dee50d3e08f56ef2" title="leveldb::TableConstructor\l::FinishImpl" alt="" coords="373,57,540,98"/>
+</map>

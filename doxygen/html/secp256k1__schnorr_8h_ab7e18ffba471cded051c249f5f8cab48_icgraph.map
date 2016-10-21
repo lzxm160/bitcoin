@@ -1,0 +1,6 @@
+<map id="secp256k1_schnorr_sign" name="secp256k1_schnorr_sign">
+<area shape="rect" id="node2" href="$org__bitcoin___native_secp256k1_8h.html#a835809a12b8e4d6d8796ecf0b166c168" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1schnorr_1sign" alt="" coords="220,5,444,47"/>
+<area shape="rect" id="node3" href="$schnorr_2tests__impl_8h.html#a0fadfae101d2df588a044f55eafcc0e6" title="test_schnorr_end_to_end" alt="" coords="248,71,416,98"/>
+<area shape="rect" id="node4" href="$schnorr_2tests__impl_8h.html#a6b31cc8facecda629cf588196a4c936b" title="run_schnorr_tests" alt="" coords="492,71,619,98"/>
+<area shape="rect" id="node5" href="$tests_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="667,71,717,98"/>
+</map>

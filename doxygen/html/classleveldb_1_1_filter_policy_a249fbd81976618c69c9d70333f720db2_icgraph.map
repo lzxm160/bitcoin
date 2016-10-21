@@ -1,0 +1,8 @@
+<map id="leveldb::FilterPolicy::CreateFilter" name="leveldb::FilterPolicy::CreateFilter">
+<area shape="rect" id="node2" href="$c_8h.html#a1adc82e212c58033ec9b8cd05577525c" title="leveldb_filterpolicy\l_create_bloom" alt="" coords="213,5,339,47"/>
+<area shape="rect" id="node4" href="$classleveldb_1_1_internal_filter_policy.html#a1c7c7b7eecdfb872e35708793d82ab40" title="leveldb::InternalFilterPolicy\l::CreateFilter" alt="" coords="188,71,364,112"/>
+<area shape="rect" id="node5" href="$classleveldb_1_1_bloom_test.html#ad4fc802152c68599c919d33917523d31" title="leveldb::BloomTest\l::Build" alt="" coords="211,136,341,177"/>
+<area shape="rect" id="node3" href="$c__test_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="452,13,503,39"/>
+<area shape="rect" id="node6" href="$classleveldb_1_1_bloom_test.html#a1d2a9794bd26ac0124a18511689ef211" title="leveldb::BloomTest\l::Matches" alt="" coords="412,136,543,177"/>
+<area shape="rect" id="node7" href="$classleveldb_1_1_bloom_test.html#abf887498db753825b308933df22c0bbb" title="leveldb::BloomTest\l::FalsePositiveRate" alt="" coords="591,136,725,177"/>
+</map>

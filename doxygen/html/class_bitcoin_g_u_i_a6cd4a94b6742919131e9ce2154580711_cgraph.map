@@ -1,0 +1,14 @@
+<map id="BitcoinGUI::setNumBlocks" name="BitcoinGUI::setNumBlocks">
+<area shape="rect" id="node2" href="$class_modal_overlay.html#a21b223aa0e1bb5a161b39b165ee213dd" title="ModalOverlay::setKnownBest\lHeight" alt="" coords="236,5,428,47"/>
+<area shape="rect" id="node3" href="$class_client_model.html#a0e80b228c4b2b48f2e18898ee5b874ca" title="ClientModel::getHeaderTip\lHeight" alt="" coords="245,71,419,112"/>
+<area shape="rect" id="node4" href="$class_client_model.html#aa125307506dab8fa7eed17fd74af2c81" title="ClientModel::getHeaderTipTime" alt="" coords="231,137,433,163"/>
+<area shape="rect" id="node6" href="$class_modal_overlay.html#a38186ebf7dbb5eba5dda872b3313d4fb" title="ModalOverlay::tipUpdate" alt="" coords="251,187,413,214"/>
+<area shape="rect" id="node7" href="$namespace_g_u_i_util.html#a903224d4167f10d15bcb80ec3a0f68d2" title="GUIUtil::formateNiceTime\lOffset" alt="" coords="505,205,673,247"/>
+<area shape="rect" id="node8" href="$class_client_model.html#acd447f61bfd57267a31a0aa88c176ee6" title="Return true if core is importing blocks. " alt="" coords="237,289,427,315"/>
+<area shape="rect" id="node10" href="$class_platform_style.html#a4987d44b752a26f0ad3a654822d7dc5e" title="PlatformStyle::SingleColorIcon" alt="" coords="233,339,431,366"/>
+<area shape="rect" id="node12" href="$class_wallet_frame.html#aeda920e4141c99d457814f20fa89dde6" title="WalletFrame::showOutOfSync\lWarning" alt="" coords="233,391,431,432"/>
+<area shape="rect" id="node13" href="$class_modal_overlay.html#a0144e7dbb1a7701743d7b3393e52f12c" title="ModalOverlay::showHide" alt="" coords="250,457,414,483"/>
+<area shape="rect" id="node5" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="496,137,681,163"/>
+<area shape="rect" id="node9" href="$class_client_model.html#ab893445b458943e3112770b026195067" title="Return number of connections, default is in&#45; and outbound (total) " alt="" coords="481,289,696,315"/>
+<area shape="rect" id="node11" href="$class_platform_style.html#a1c21234aff601548130e5b52c0fcfc47" title="PlatformStyle::SingleColor" alt="" coords="501,339,676,366"/>
+</map>

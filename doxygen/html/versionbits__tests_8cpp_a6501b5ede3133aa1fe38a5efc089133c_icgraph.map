@@ -1,0 +1,5 @@
+<map id="TestTime" name="TestTime">
+<area shape="rect" id="node2" href="$class_test_condition_checker.html#a3b4c66c22017a7ee9d9bb6c204a28905" title="TestConditionChecker\l::BeginTime" alt="" coords="149,5,298,47"/>
+<area shape="rect" id="node3" href="$class_test_condition_checker.html#a3a81dc0ea940edd43ba1cc58d42bde1d" title="TestConditionChecker\l::EndTime" alt="" coords="149,71,298,112"/>
+<area shape="rect" id="node4" href="$versionbits__tests_8cpp.html#aeb7e3ff7869c8db5004ac88d1700cc36" title="BOOST_AUTO_TEST_CASE" alt="" coords="128,137,319,163"/>
+</map>

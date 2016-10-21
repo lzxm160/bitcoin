@@ -1,0 +1,5 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="node2" href="$class_locked_page_manager_base.html#ae24ac08899505b892d451404133fa494" title="LockedPageManagerBase\l::LockRange" alt="" coords="244,5,419,47"/>
+<area shape="rect" id="node3" href="$class_locked_page_manager_base.html#a8074f7d1b43cc8dd34b3ba9cdb2eca50" title="LockedPageManagerBase\l::GetLockedPageCount" alt="" coords="244,71,419,112"/>
+<area shape="rect" id="node4" href="$class_locked_page_manager_base.html#a34bcf7b9120295ed178fe9545ed229af" title="LockedPageManagerBase\l::UnlockRange" alt="" coords="244,136,419,177"/>
+</map>

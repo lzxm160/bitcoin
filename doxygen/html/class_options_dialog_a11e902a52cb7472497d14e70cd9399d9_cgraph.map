@@ -1,0 +1,5 @@
+<map id="OptionsDialog::setModel" name="OptionsDialog::setModel">
+<area shape="rect" id="node2" href="$class_options_model.html#a75c15f2cb96ee8efe7b9e756e5c8e69c" title="OptionsModel::isRestartRequired" alt="" coords="217,5,431,32"/>
+<area shape="rect" id="node3" href="$class_options_model.html#ac5d555492fa4d6bba68d00e798efca50" title="OptionsModel::getOverridden\lByCommandLine" alt="" coords="229,57,419,98"/>
+<area shape="rect" id="node4" href="$class_options_dialog.html#a2088ec5bbb90ec27675f441e750e55b8" title="OptionsDialog::setMapper" alt="" coords="238,123,410,149"/>
+</map>

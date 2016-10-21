@@ -1,0 +1,9 @@
+<map id="CBitcoinAddress::GetKeyID" name="CBitcoinAddress::GetKeyID">
+<area shape="rect" id="node2" href="$misc_8cpp.html#a1bfb89f6ba5c04647f5f9494b42517d6" title="validateaddress" alt="" coords="278,5,389,32"/>
+<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#aaaa83aae4b9dc51b4ac76d4be0dd237d" title="_createmultisig_redeemScript" alt="" coords="236,56,431,83"/>
+<area shape="rect" id="node6" href="$misc_8cpp.html#a395e3289609c817a2605bd14d45ae641" title="verifymessage" alt="" coords="281,107,385,133"/>
+<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#adab6603310ec229d92dd1e85c861c6a8" title="dumpprivkey" alt="" coords="286,157,381,184"/>
+<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a95d30866deb9a289859518f21b6ec721" title="signmessage" alt="" coords="284,208,383,235"/>
+<area shape="rect" id="node4" href="$misc_8cpp.html#a2dcabb86c419e41b27a03228566ce2c9" title="createmultisig" alt="" coords="495,31,597,57"/>
+<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a82120a4244c802d5bb54865d5ff40eac" title="addmultisigaddress" alt="" coords="479,81,613,108"/>
+</map>

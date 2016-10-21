@@ -1,0 +1,15 @@
+<map id="Consensus::Params::DifficultyAdjustmentInterval" name="Consensus::Params::DifficultyAdjustmentInterval">
+<area shape="rect" id="node2" href="$pow_8h.html#a4f7bb22f6a188117b401966decb048b5" title="GetNextWorkRequired" alt="" coords="231,128,383,155"/>
+<area shape="rect" id="node12" href="$mining_8cpp.html#a5f6e044d7c2d84b3beb3a356b02e025b" title="GetNetworkHashPS" alt="" coords="237,204,376,231"/>
+<area shape="rect" id="node3" href="$main_8h.html#ab32629f48779a272349654a1d98214d3" title="ContextualCheckBlockHeader" alt="" coords="431,115,625,141"/>
+<area shape="rect" id="node5" href="$class_block_assembler.html#acd45f01ed2556e805c82907def19efcb" title="BlockAssembler::CreateNew\lBlock" alt="" coords="844,57,1032,98"/>
+<area shape="rect" id="node11" href="$miner_8h.html#a9c09903c7d6401b5405db02af064179c" title="UpdateTime" alt="" coords="689,165,780,192"/>
+<area shape="rect" id="node4" href="$main_8h.html#a12c39e969c9077605ae8a91730fb78d3" title="TestBlockValidity" alt="" coords="673,115,796,141"/>
+<area shape="rect" id="node6" href="$mining_8cpp.html#a054ca23f5d86a8ca30138464ba10008c" title="getblocktemplate" alt="" coords="1101,123,1223,149"/>
+<area shape="rect" id="node7" href="$miner__tests_8cpp.html#aeed1f0d9588f9aecb80a2f7b82d0941e" title="TestPackageSelection" alt="" coords="1086,5,1238,32"/>
+<area shape="rect" id="node9" href="$struct_test_chain100_setup.html#a5602b576453958c0e53b293e9ed7db46" title="TestChain100Setup::\lCreateAndProcessBlock" alt="" coords="1080,57,1244,98"/>
+<area shape="rect" id="node8" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="1292,5,1483,32"/>
+<area shape="rect" id="node10" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="1316,57,1459,98"/>
+<area shape="rect" id="node13" href="$mining_8cpp.html#a5691372c7149be5201e6431944bfaef6" title="getnetworkhashps" alt="" coords="465,216,591,243"/>
+<area shape="rect" id="node14" href="$mining_8cpp.html#aba4da35dbb16fb030a199be1491d775e" title="getmininginfo" alt="" coords="685,216,784,243"/>
+</map>
