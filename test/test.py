@@ -25,11 +25,11 @@ details.payment_url = "https://example.com/pay.py"
 request.payment_details_version = 1  ## Default: 1
 
 ## Certificate chain
-x509.certificate.append(file("/etc/apache2/example.com-cert.der", "r").read())
+x509.certificate.append(file("./cert/server_public.der", "r").read())
 #x509.certificate.append(file("/some/intermediate/cert.der", "r").read())
 
 ## Load private SSL key into memory for signing later
-priv_key = "/root/cert/crm-test_renesola_com.pem"
+priv_key = "./cert/server.crt"
 pw = "test"  ## Key password
 private_key = load_privatekey(FILETYPE_PEM, file(priv_key, "r").read(), pw)
 
