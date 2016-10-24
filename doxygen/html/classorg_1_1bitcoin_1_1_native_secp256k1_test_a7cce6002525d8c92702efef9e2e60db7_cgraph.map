@@ -1,4 +1,0 @@
-<map id="org.bitcoin.NativeSecp256k1Test.testCreateECDHSecret" name="org.bitcoin.NativeSecp256k1Test.testCreateECDHSecret">
-<area shape="rect" id="node2" href="$classorg_1_1bitcoin_1_1_native_secp256k1.html#a9d8987b48eeafb460b02606aab2314dc" title="org.bitcoin.NativeSecp256k1.create\lECDHSecret" alt="" coords="240,5,467,47"/>
-<area shape="rect" id="node3" href="$classorg_1_1bitcoin_1_1_secp256k1_context.html#a46e8cc0f7925f60a29c11c2f4f407de9" title="org.bitcoin.Secp256k1Context.get\lContext" alt="" coords="515,5,733,47"/>
-</map>

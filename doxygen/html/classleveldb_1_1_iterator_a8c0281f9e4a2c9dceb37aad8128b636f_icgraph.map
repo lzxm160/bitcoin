@@ -1,8 +1,0 @@
-<map id="leveldb::Iterator::RegisterCleanup" name="leveldb::Iterator::RegisterCleanup">
-<area shape="rect" id="node2" href="$classleveldb_1_1_table_cache.html#afe8c83b1cbbf3bfc06c66a69611aa250" title="leveldb::TableCache\l::NewIterator" alt="" coords="171,78,308,119"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="387,5,516,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_version.html#a035a0fa5bfe7ab84a711b1138b0b9a3d" title="leveldb::Version::AddIterators" alt="" coords="356,56,547,83"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_version_set.html#ada7f3ed63b1c48adb6e5b38348b300e1" title="leveldb::VersionSet\l::ApproximateOffsetOf" alt="" coords="376,107,527,149"/>
-<area shape="rect" id="node7" href="$classleveldb_1_1_version_set.html#a181194e96a88e69a60c1fda9cf3c4651" title="leveldb::VersionSet\l::MakeInputIterator" alt="" coords="385,173,518,214"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_d_b_impl.html#af08e218d92064699942c195ce0f06010" title="leveldb::DBImpl::GetApproximate\lSizes" alt="" coords="595,107,808,149"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="leveldb::BlockBuilder::empty" name="leveldb::BlockBuilder::empty">
-<area shape="rect" id="node2" href="$classleveldb_1_1_table_builder.html#a37bd347cb6340215475ac9b42dc19d10" title="leveldb::TableBuilder::Add" alt="" coords="384,5,555,32"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_table_builder.html#a544560b4c97cd382ba9b8e0ef69dacfa" title="leveldb::TableBuilder\l::Flush" alt="" coords="196,57,336,98"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="621,5,751,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_table_constructor.html#aa8ce3799a55859c2dee50d3e08f56ef2" title="leveldb::TableConstructor\l::FinishImpl" alt="" coords="603,57,769,98"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_table_builder.html#a88f4bae006782e24462362d489dd3f35" title="leveldb::TableBuilder\l::Finish" alt="" coords="399,57,539,98"/>
-</map>

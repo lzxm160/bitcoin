@@ -1,8 +1,0 @@
-<map id="CConnman::IsBanned" name="CConnman::IsBanned">
-<area shape="rect" id="node2" href="$class_c_sub_net.html#a19156e7aad9c3af4e9728b232eeb3993" title="CSubNet::Match" alt="" coords="201,31,320,57"/>
-<area shape="rect" id="node7" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="225,81,296,108"/>
-<area shape="rect" id="node3" href="$class_c_net_addr.html#a52a1b506f07e5450057e12a8b5a7fbcd" title="CNetAddr::IsValid" alt="" coords="368,31,493,57"/>
-<area shape="rect" id="node4" href="$class_c_net_addr.html#a639dff0ffea6ad930353784686def39b" title="CNetAddr::IsRFC3849" alt="" coords="541,5,692,32"/>
-<area shape="rect" id="node6" href="$class_c_net_addr.html#a16ff4478f02f06f5a9a038a24d5da2f9" title="CNetAddr::IsIPv4" alt="" coords="557,56,677,83"/>
-<area shape="rect" id="node5" href="$class_c_net_addr.html#a0793d30a6baae6e3d4e06084ec33eddd" title="CNetAddr::GetByte" alt="" coords="740,5,875,32"/>
-</map>

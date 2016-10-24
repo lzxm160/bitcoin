@@ -1,9 +1,0 @@
-<map id="leveldb::FilterBlockBuilder::StartBlock" name="leveldb::FilterBlockBuilder::StartBlock">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#a9eb56f9aedd874d7e877b5b0e3737854" title="leveldb::TEST" alt="" coords="243,5,345,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_table_builder.html#a7f5d99e06039848d9b342a4871b31cc6" title="leveldb::TableBuilder\l::TableBuilder" alt="" coords="224,57,364,98"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_table_builder.html#a544560b4c97cd382ba9b8e0ef69dacfa" title="leveldb::TableBuilder\l::Flush" alt="" coords="224,122,364,163"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_table_builder.html#a37bd347cb6340215475ac9b42dc19d10" title="leveldb::TableBuilder::Add" alt="" coords="412,100,583,127"/>
-<area shape="rect" id="node8" href="$classleveldb_1_1_table_builder.html#a88f4bae006782e24462362d489dd3f35" title="leveldb::TableBuilder\l::Finish" alt="" coords="427,151,567,193"/>
-<area shape="rect" id="node6" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="649,100,779,127"/>
-<area shape="rect" id="node7" href="$classleveldb_1_1_table_constructor.html#aa8ce3799a55859c2dee50d3e08f56ef2" title="leveldb::TableConstructor\l::FinishImpl" alt="" coords="631,151,797,193"/>
-</map>

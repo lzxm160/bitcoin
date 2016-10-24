@@ -1,7 +1,0 @@
-<map id="CCoinsView" name="CCoinsView">
-<area shape="rect" id="node2" href="$class_c_coins_view_backed.html" title="CCoinsViewBacked" alt="" coords="174,80,310,107"/>
-<area shape="rect" id="node6" href="$class_c_coins_view_d_b.html" title="CCoinsViewDB" alt="" coords="335,80,445,107"/>
-<area shape="rect" id="node3" href="$class_c_coins_view_cache.html" title="CCoinsViewCache" alt="" coords="5,155,135,181"/>
-<area shape="rect" id="node4" href="$class_c_coins_view_error_catcher.html" title="CCoinsViewErrorCatcher" alt="" coords="159,155,325,181"/>
-<area shape="rect" id="node5" href="$class_c_coins_view_mem_pool.html" title="CCoinsViewMemPool" alt="" coords="349,155,495,181"/>
-</map>

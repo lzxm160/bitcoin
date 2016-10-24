@@ -1,4 +1,0 @@
-<map id="leveldb::TEST" name="leveldb::TEST">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#a231e1b41322a8b342c91a15a78e425d4" title="leveldb::NewLRUCache" alt="" coords="175,5,331,32"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#ae6b34bf2331983721554f284b1eaa1a1" title="leveldb::NewBloomFilterPolicy" alt="" coords="155,56,351,83"/>
-</map>

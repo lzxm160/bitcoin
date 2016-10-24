@@ -1,5 +1,0 @@
-<map id="leveldb::DBImpl::TEST_CompactRange" name="leveldb::DBImpl::TEST_CompactRange">
-<area shape="rect" id="node2" href="$classleveldb_1_1port_1_1_atomic_pointer.html#a92aa118983e28711a150b3907af59a54" title="leveldb::port::AtomicPointer\l::Acquire_Load" alt="" coords="204,5,385,47"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_status.html#ab31e89a858c766716e3dc952be857c65" title="leveldb::Status::ok" alt="" coords="230,71,359,98"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1port_1_1_cond_var.html#a9e9855595a3f3a3ccf47949696065597" title="leveldb::port::CondVar\l::Wait" alt="" coords="220,123,369,164"/>
-</map>

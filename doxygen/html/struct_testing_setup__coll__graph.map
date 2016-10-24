@@ -1,8 +1,0 @@
-<map id="TestingSetup" name="TestingSetup">
-<area shape="rect" id="node2" href="$struct_basic_testing_setup.html" title="BasicTestingSetup" alt="" coords="5,95,136,121"/>
-<area shape="rect" id="node3" href="$class_e_c_c_verify_handle.html" title="ECCVerifyHandle" alt="" coords="9,5,132,32"/>
-<area shape="rect" id="node4" href="$class_c_connman.html" title="CConnman" alt="" coords="161,95,247,121"/>
-<area shape="rect" id="node5" href="$class_c_coins_view_d_b.html" title="CCoinsViewDB" alt="" coords="271,95,382,121"/>
-<area shape="rect" id="node6" href="$class_c_coins_view.html" title="CCoinsView" alt="" coords="221,5,313,32"/>
-<area shape="rect" id="node7" href="$class_c_d_b_wrapper.html" title="CDBWrapper" alt="" coords="337,5,436,32"/>
-</map>

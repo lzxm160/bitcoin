@@ -1,9 +1,0 @@
-<map id="RPCNotifyBlockChange" name="RPCNotifyBlockChange">
-<area shape="rect" id="node2" href="$init_8cpp.html#aaf46bb0b868e28f75fa0299f7386d6a4" title="OnRPCStarted" alt="" coords="215,5,323,32"/>
-<area shape="rect" id="node4" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="528,81,597,108"/>
-<area shape="rect" id="node8" href="$init_8cpp.html#adb67159734f47c352636ca7a9f812125" title="OnRPCStopped" alt="" coords="212,56,327,83"/>
-<area shape="rect" id="node3" href="$init_8cpp.html#a7769d5957df16d51f1164473c8631aa7" title="AppInitServers" alt="" coords="375,56,480,83"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="686,56,749,83"/>
-<area shape="rect" id="node7" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="645,107,789,133"/>
-<area shape="rect" id="node6" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="837,56,888,83"/>
-</map>

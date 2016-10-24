@@ -1,9 +1,0 @@
-<map id="CCoinsViewCache::GetPriority" name="CCoinsViewCache::GetPriority">
-<area shape="rect" id="node2" href="$class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51" title="CTransaction::IsCoinBase" alt="" coords="273,5,445,32"/>
-<area shape="rect" id="node3" href="$class_c_coins_view_cache.html#a2b72aa925d9c1a1bd662f7e2852059d9" title="CCoinsViewCache::AccessCoins" alt="" coords="252,56,467,83"/>
-<area shape="rect" id="node4" href="$class_c_coins.html#a69bdcbac02e1644cb02b2645068777b5" title="check whether a particular output is still available " alt="" coords="293,107,426,133"/>
-<area shape="rect" id="node5" href="$class_c_transaction.html#ad2452fe2ae424f43e5fd767c28517b3b" title="CTransaction::ComputePriority" alt="" coords="260,157,459,184"/>
-<area shape="rect" id="node6" href="$class_c_transaction.html#a98fc4a8cb45c07c8db7f92278e0a0a13" title="CTransaction::CalculateModifiedSize" alt="" coords="515,157,749,184"/>
-<area shape="rect" id="node7" href="$transaction_8cpp.html#adbe124f66287a512034ae1236202b1ee" title="GetTransactionWeight" alt="" coords="797,157,948,184"/>
-<area shape="rect" id="node8" href="$serialize_8h.html#a48239e478ae730373d1984fe304ca025" title="GetSerializeSize" alt="" coords="996,157,1115,184"/>
-</map>

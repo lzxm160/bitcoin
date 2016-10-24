@@ -1,9 +1,0 @@
-<map id="CalculateNextWorkRequired" name="CalculateNextWorkRequired">
-<area shape="rect" id="node2" href="$class_c_block_index.html#ab63b774ae798f5f9e54b400ac8b5ef4b" title="CBlockIndex::GetBlockTime" alt="" coords="239,5,424,32"/>
-<area shape="rect" id="node3" href="$arith__uint256_8cpp.html#a6a6e0e2e41ba7e31c4a741eb2426a516" title="UintToArith256" alt="" coords="278,56,385,83"/>
-<area shape="rect" id="node5" href="$classarith__uint256.html#a458133c9f123519646b07e6143f2164f" title="arith_uint256::SetCompact" alt="" coords="243,107,419,133"/>
-<area shape="rect" id="node6" href="$classarith__uint256.html#a943e22c7910b92d5e48c71f420c4ae30" title="arith_uint256::GetCompact" alt="" coords="243,157,420,184"/>
-<area shape="rect" id="node4" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="507,56,627,83"/>
-<area shape="rect" id="node7" href="$classbase__uint.html#a4867652ab4163a10ac4e3d04f0352423" title="base_uint\&lt; 256 \&gt;::bits" alt="" coords="491,107,643,133"/>
-<area shape="rect" id="node8" href="$classbase__uint.html#abf39b71afc016b333b8996def4c6bc40" title="base_uint\&lt; 256 \&gt;::GetLow64" alt="" coords="472,157,661,184"/>
-</map>

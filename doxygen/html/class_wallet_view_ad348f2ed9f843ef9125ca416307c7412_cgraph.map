@@ -1,5 +1,0 @@
-<map id="WalletView::updateEncryptionStatus" name="WalletView::updateEncryptionStatus">
-<area shape="rect" id="node2" href="$class_wallet_model.html#acfb62be638267bbf1bf498fb6501c31d" title="WalletModel::getEncryption\lStatus" alt="" coords="249,5,432,47"/>
-<area shape="rect" id="node3" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="711,13,897,39"/>
-<area shape="rect" id="node4" href="$class_c_crypto_key_store.html#a1c3ebef555fd13676d67509b95820fcf" title="CCryptoKeyStore::IsLocked" alt="" coords="480,38,663,65"/>
-</map>

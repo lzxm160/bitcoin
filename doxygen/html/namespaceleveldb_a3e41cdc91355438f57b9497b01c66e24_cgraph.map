@@ -1,6 +1,0 @@
-<map id="leveldb::TEST" name="leveldb::TEST">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_impl.html#ae955dc8f2a1c38588723a0882653cb58" title="leveldb::DBImpl::NewIterator" alt="" coords="155,5,339,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_iterator.html#a97a556e97ded60c677fbf4de7321ec44" title="leveldb::Iterator::Seek" alt="" coords="173,56,320,83"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_iterator.html#a28798d802a203788587dc6adc5bc729e" title="leveldb::Iterator::Prev" alt="" coords="175,107,318,133"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#a0d4b256207f27afbf4ad03976fe0fae8" title="leveldb::NewDBIterator" alt="" coords="387,5,539,32"/>
-</map>

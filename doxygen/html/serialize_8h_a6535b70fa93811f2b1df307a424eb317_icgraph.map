@@ -1,9 +1,0 @@
-<map id="Unserialize" name="Unserialize">
-<area shape="rect" id="node2" href="$serialize_8h.html#ade039f229e6ff9d86e9a794bd5c773f4" title="Unserialize_impl" alt="" coords="173,5,290,32"/>
-<area shape="rect" id="node3" href="$serialize_8h.html#af0fc057388ad1dbd793bccf02282ec18" title="Unserialize" alt="" coords="188,56,275,83"/>
-<area shape="rect" id="node4" href="$serialize_8h.html#af40922e06eb02a9f97694b9419cd973e" title="SerReadWrite" alt="" coords="180,107,283,133"/>
-<area shape="rect" id="node5" href="$class_override_stream.html#a6a4b843eee33a00d9ae149e8a924f9b7" title="OverrideStream::operator\&gt;\&gt;" alt="" coords="140,157,323,184"/>
-<area shape="rect" id="node6" href="$class_c_data_stream.html#ac80cfc65569416f8c23e328edb4cadae" title="CDataStream::operator\&gt;\&gt;" alt="" coords="146,208,317,235"/>
-<area shape="rect" id="node7" href="$class_c_auto_file.html#ae6826219322626d2ac8229e022c41dd7" title="CAutoFile::operator\&gt;\&gt;" alt="" coords="156,259,307,285"/>
-<area shape="rect" id="node8" href="$class_c_buffered_file.html#ab570d5f1a173a41100e7b42b4aacbbc5" title="CBufferedFile::operator\&gt;\&gt;" alt="" coords="146,309,317,336"/>
-</map>

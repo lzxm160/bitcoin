@@ -1,5 +1,0 @@
-<map id="BaseSignatureChecker" name="BaseSignatureChecker">
-<area shape="rect" id="node2" href="$class_transaction_signature_checker.html" title="TransactionSignatureChecker" alt="" coords="111,80,303,107"/>
-<area shape="rect" id="node3" href="$class_caching_transaction_signature_checker.html" title="CachingTransactionSignature\lChecker" alt="" coords="5,155,196,196"/>
-<area shape="rect" id="node4" href="$class_mutable_transaction_signature_checker.html" title="MutableTransactionSignature\lChecker" alt="" coords="220,155,411,196"/>
-</map>

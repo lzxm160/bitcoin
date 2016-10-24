@@ -1,4 +1,0 @@
-<map id="org.bitcoin.NativeSecp256k1Test.testSchnorrSign" name="org.bitcoin.NativeSecp256k1Test.testSchnorrSign">
-<area shape="rect" id="node2" href="$classorg_1_1bitcoin_1_1_native_secp256k1.html#a2a4ef65797e83ea2b1a68a0d99687da3" title="org.bitcoin.NativeSecp256k1.schnorrSign" alt="" coords="240,13,499,39"/>
-<area shape="rect" id="node3" href="$classorg_1_1bitcoin_1_1_secp256k1_context.html#a46e8cc0f7925f60a29c11c2f4f407de9" title="org.bitcoin.Secp256k1Context.get\lContext" alt="" coords="547,5,765,47"/>
-</map>

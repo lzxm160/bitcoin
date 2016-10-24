@@ -1,5 +1,0 @@
-<map id="leveldb::TableBuilder::Flush" name="leveldb::TableBuilder::Flush">
-<area shape="rect" id="node2" href="$classleveldb_1_1_block_builder.html#ae8d2223984da12b810124688aa56fdcd" title="leveldb::BlockBuilder\l::empty" alt="" coords="207,5,350,47"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_writable_file.html#ab95759ad32f6a05b0ee4266969fa265e" title="leveldb::WritableFile\l::Flush" alt="" coords="209,71,348,112"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_filter_block_builder.html#a766a753a200f7386196a68897e47c1c3" title="leveldb::FilterBlockBuilder\l::StartBlock" alt="" coords="193,136,364,177"/>
-</map>

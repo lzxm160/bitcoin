@@ -1,4 +1,0 @@
-<map id="CCryptoKeyStore::HaveKey" name="CCryptoKeyStore::HaveKey">
-<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="236,5,423,32"/>
-<area shape="rect" id="node3" href="$class_c_basic_key_store.html#a29a60832d549913b1fa8be77b95205a5" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="241,56,418,83"/>
-</map>

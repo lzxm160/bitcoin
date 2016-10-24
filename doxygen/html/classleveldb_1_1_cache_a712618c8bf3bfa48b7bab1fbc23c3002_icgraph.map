@@ -1,8 +1,0 @@
-<map id="leveldb::Cache::Release" name="leveldb::Cache::Release">
-<area shape="rect" id="node2" href="$classleveldb_1_1_table_cache.html#af43ba38b52742e9f5589321747535444" title="leveldb::TableCache::Get" alt="" coords="215,5,381,32"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_cache_test.html#a90d19cd6098f10f809f0c3b94e8b3fc6" title="leveldb::CacheTest\l::Lookup" alt="" coords="233,57,363,98"/>
-<area shape="rect" id="node7" href="$classleveldb_1_1_cache_test.html#ad7fc76253a92137e62aede17322c7286" title="leveldb::CacheTest\l::Insert" alt="" coords="233,122,363,163"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_version.html#a42c439d4a2a767fe281c7a75d4255038" title="leveldb::Version::Get" alt="" coords="429,5,572,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_d_b_impl.html#a089964ddcd1f5dc85e73499ae57be508" title="leveldb::DBImpl::Get" alt="" coords="620,5,760,32"/>
-<area shape="rect" id="node5" href="$namespaceleveldb.html#acc1b0ed2e8e9e4e6b930a1727d9fe0f8" title="leveldb::TEST" alt="" coords="808,5,909,32"/>
-</map>

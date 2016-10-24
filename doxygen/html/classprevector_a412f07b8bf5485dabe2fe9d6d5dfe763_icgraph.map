@@ -1,8 +1,0 @@
-<map id="prevector::clear" name="prevector::clear">
-<area shape="rect" id="node2" href="$classprevector.html#aecbf4de43de23c1b01a2e39bf974f14e" title="prevector\&lt; N, T \&gt;::\lassign" alt="" coords="174,5,305,47"/>
-<area shape="rect" id="node3" href="$classprevector.html#a507bc6d153e291d93c885162e3a3a8f7" title="prevector\&lt; N, T \&gt;::\l~prevector" alt="" coords="174,71,305,112"/>
-<area shape="rect" id="node4" href="$serialize_8h.html#a4f2ad9aaa1793ca2880eb29110a1be4b" title="Unserialize_impl" alt="" coords="181,137,298,163"/>
-<area shape="rect" id="node6" href="$classprevector__tester.html#a579e65dc017a204ff1da76a251814113" title="prevector_tester::clear" alt="" coords="164,187,315,214"/>
-<area shape="rect" id="node5" href="$serialize_8h.html#a8d18ce7bf2e4c40f627d2a291e8a087b" title="Unserialize" alt="" coords="415,137,501,163"/>
-<area shape="rect" id="node7" href="$prevector__tests_8cpp.html#a3de840ac50b570c8325c8ba81ac169df" title="BOOST_AUTO_TEST_CASE" alt="" coords="363,187,553,214"/>
-</map>

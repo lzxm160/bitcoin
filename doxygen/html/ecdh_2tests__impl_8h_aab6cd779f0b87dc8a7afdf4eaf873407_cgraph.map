@@ -1,8 +1,0 @@
-<map id="run_ecdh_tests" name="run_ecdh_tests">
-<area shape="rect" id="node2" href="$ecdh_2tests__impl_8h.html#ab13157e14f777c18f14fefc834d067c5" title="test_ecdh_generator\l_basepoint" alt="" coords="164,115,304,157"/>
-<area shape="rect" id="node7" href="$ecdh_2tests__impl_8h.html#a505bff7cea922e6d8aa4f7525cfd191a" title="test_bad_scalar" alt="" coords="177,64,291,91"/>
-<area shape="rect" id="node3" href="$tests_8c.html#a01cf4b4fc9b4ab8cb3e04fd3dc2ff57f" title="random_scalar_order" alt="" coords="358,5,501,32"/>
-<area shape="rect" id="node4" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="352,57,507,98"/>
-<area shape="rect" id="node5" href="$secp256k1__ecdh_8h.html#a4b0ce331dd8a723475e934aa6461b75a" title="secp256k1_ecdh" alt="" coords="369,123,489,149"/>
-<area shape="rect" id="node6" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="352,174,507,215"/>
-</map>

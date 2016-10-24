@@ -1,8 +1,0 @@
-<map id="WalletFrame::encryptWallet" name="WalletFrame::encryptWallet">
-<area shape="rect" id="node2" href="$class_wallet_view.html#a164c3de8fc69ef6f39fb7c15e4bda553" title="WalletView::encryptWallet" alt="" coords="237,46,412,73"/>
-<area shape="rect" id="node3" href="$class_ask_passphrase_dialog.html#a35b83e1ef98813b6b88155aab0803ed3" title="AskPassphraseDialog\l::setModel" alt="" coords="483,5,633,47"/>
-<area shape="rect" id="node4" href="$class_wallet_view.html#ad348f2ed9f843ef9125ca416307c7412" title="WalletView::updateEncryption\lStatus" alt="" coords="460,71,656,112"/>
-<area shape="rect" id="node5" href="$class_wallet_model.html#acfb62be638267bbf1bf498fb6501c31d" title="WalletModel::getEncryption\lStatus" alt="" coords="704,71,887,112"/>
-<area shape="rect" id="node6" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="1165,78,1352,105"/>
-<area shape="rect" id="node7" href="$class_c_crypto_key_store.html#a1c3ebef555fd13676d67509b95820fcf" title="CCryptoKeyStore::IsLocked" alt="" coords="935,103,1117,130"/>
-</map>

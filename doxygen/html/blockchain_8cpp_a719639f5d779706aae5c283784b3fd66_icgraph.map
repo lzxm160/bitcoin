@@ -1,6 +1,0 @@
-<map id="TxToJSON" name="TxToJSON">
-<area shape="rect" id="node2" href="$blockchain_8cpp.html#a6b596f07acd85fe676c798170fd8ddbe" title="blockToJSON" alt="" coords="161,5,262,32"/>
-<area shape="rect" id="node4" href="$rawtransaction_8cpp.html#aab9a57fd8f857122f587feee00a7757c" title="getrawtransaction" alt="" coords="149,56,273,83"/>
-<area shape="rect" id="node5" href="$rawtransaction_8cpp.html#abd3d6aa800b863a2e503ef322d680d9b" title="decoderawtransaction" alt="" coords="137,107,285,133"/>
-<area shape="rect" id="node3" href="$blockchain_8cpp.html#afdd7f5b03a6ab23f3627721b074ef606" title="getblock" alt="" coords="333,5,404,32"/>
-</map>

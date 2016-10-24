@@ -1,6 +1,0 @@
-<map id="AddOrphanTx" name="AddOrphanTx">
-<area shape="rect" id="node2" href="$transaction_8cpp.html#adbe124f66287a512034ae1236202b1ee" title="GetTransactionWeight" alt="" coords="155,5,305,32"/>
-<area shape="rect" id="node4" href="$classbase__blob.html#a1a26b5da921f48b09b228d1bfda05088" title="base_blob::ToString" alt="" coords="161,56,299,83"/>
-<area shape="rect" id="node5" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="195,107,265,133"/>
-<area shape="rect" id="node3" href="$serialize_8h.html#a48239e478ae730373d1984fe304ca025" title="GetSerializeSize" alt="" coords="353,5,472,32"/>
-</map>

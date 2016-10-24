@@ -1,5 +1,0 @@
-<map id="CTxMemPool::estimatePriority" name="CTxMemPool::estimatePriority">
-<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#adcaa52e6fdabbf8b0907bb5521aaa4f9" title="CBlockPolicyEstimator\l::estimatePriority" alt="" coords="252,5,408,47"/>
-<area shape="rect" id="node3" href="$class_tx_confirm_stats.html#ab2b42aa0beab3ed825ccc8486dfc0a84" title="TxConfirmStats::GetMaxConfirms" alt="" coords="675,13,891,39"/>
-<area shape="rect" id="node4" href="$class_tx_confirm_stats.html#a7ac4f70e6029ecf06e8d1528ab9c33f1" title="TxConfirmStats::Estimate\lMedianVal" alt="" coords="456,35,627,76"/>
-</map>

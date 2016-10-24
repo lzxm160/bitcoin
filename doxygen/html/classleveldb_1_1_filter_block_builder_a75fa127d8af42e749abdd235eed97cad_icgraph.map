@@ -1,6 +1,0 @@
-<map id="leveldb::FilterBlockBuilder::Finish" name="leveldb::FilterBlockBuilder::Finish">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#a8360ab2a7a18ca54cbb3e99d80440248" title="leveldb::TEST" alt="" coords="243,5,345,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_table_builder.html#a88f4bae006782e24462362d489dd3f35" title="leveldb::TableBuilder\l::Finish" alt="" coords="224,57,364,98"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="431,35,560,61"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_table_constructor.html#aa8ce3799a55859c2dee50d3e08f56ef2" title="leveldb::TableConstructor\l::FinishImpl" alt="" coords="412,86,579,127"/>
-</map>

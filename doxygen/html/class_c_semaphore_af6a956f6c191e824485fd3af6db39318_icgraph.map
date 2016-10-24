@@ -1,8 +1,0 @@
-<map id="CSemaphore::post" name="CSemaphore::post">
-<area shape="rect" id="node2" href="$class_c_connman.html#a289dca0ee65310fcfc5b552249fc0401" title="CConnman::Stop" alt="" coords="215,5,337,32"/>
-<area shape="rect" id="node4" href="$class_c_semaphore_grant.html#a8d985eeace74e037baeb39bd2d586576" title="CSemaphoreGrant::Release" alt="" coords="184,56,368,83"/>
-<area shape="rect" id="node3" href="$class_c_connman.html#ab4bc83003310d960423d963148d5c9ec" title="CConnman::~CConnman" alt="" coords="443,5,609,32"/>
-<area shape="rect" id="node5" href="$class_c_semaphore_grant.html#ab3e6f84f304703abc52517b0c8de26cf" title="CSemaphoreGrant::MoveTo" alt="" coords="435,56,617,83"/>
-<area shape="rect" id="node7" href="$class_c_semaphore_grant.html#aaba5579eb3ad3647d79e71c9970dcb54" title="CSemaphoreGrant::~CSemaphore\lGrant" alt="" coords="416,107,636,149"/>
-<area shape="rect" id="node6" href="$class_c_connman.html#a67fbd95cf5bbd67f21ad2d6391af3c0e" title="CConnman::OpenNetworkConnection" alt="" coords="684,56,921,83"/>
-</map>

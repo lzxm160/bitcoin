@@ -1,9 +1,0 @@
-<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
-<area shape="rect" id="node2" href="$group___actions.html#gaa1496670ce239e2725a65eed85e9d10c" title="CWallet::SelectCoinsMinConf" alt="" coords="244,56,437,83"/>
-<area shape="rect" id="node3" href="$random_8cpp.html#a0e44e088732172da6662db2d5e37d4b2" title="GetRandInt" alt="" coords="516,5,603,32"/>
-<area shape="rect" id="node6" href="$class_c_wallet_tx.html#a5eab277896d1b553676316b862e2014b" title="CWalletTx::IsFromMe" alt="" coords="485,56,633,83"/>
-<area shape="rect" id="node8" href="$utilmoneystr_8cpp.html#a0043c9abedcbce2d7d1d2cacaf595c9e" title="FormatMoney" alt="" coords="508,107,611,133"/>
-<area shape="rect" id="node4" href="$random_8cpp.html#a27d9149d522b1fa87d84e5e9ca902aef" title="GetRand" alt="" coords="715,5,789,32"/>
-<area shape="rect" id="node5" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="871,5,977,32"/>
-<area shape="rect" id="node7" href="$group__map_wallet.html#ga49633327f5b57c3f253c45b5458501d1" title="filter decides which addresses will count towards the debit " alt="" coords="681,56,823,83"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="secp256k1_ecdh" name="secp256k1_ecdh">
-<area shape="rect" id="node2" href="$org__bitcoin___native_secp256k1_8h.html#a78cebcc597836aca0eb1af57a6490009" title="Java_org_bitcoin_NativeSecp256k1\l_secp256k1_1ecdh" alt="" coords="173,5,397,47"/>
-<area shape="rect" id="node3" href="$ecdh_2tests__impl_8h.html#ab13157e14f777c18f14fefc834d067c5" title="test_ecdh_generator\l_basepoint" alt="" coords="215,71,355,112"/>
-<area shape="rect" id="node6" href="$ecdh_2tests__impl_8h.html#a505bff7cea922e6d8aa4f7525cfd191a" title="test_bad_scalar" alt="" coords="228,137,343,163"/>
-<area shape="rect" id="node4" href="$ecdh_2tests__impl_8h.html#aab6cd779f0b87dc8a7afdf4eaf873407" title="run_ecdh_tests" alt="" coords="445,107,556,134"/>
-<area shape="rect" id="node5" href="$tests_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="604,107,655,134"/>
-</map>

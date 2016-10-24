@@ -1,4 +1,0 @@
-<map id="ClientModel::updateBanlist" name="ClientModel::updateBanlist">
-<area shape="rect" id="node2" href="$class_ban_table_model.html#a15107160d33bbf2635b9460cb07f9661" title="BanTableModel::refresh" alt="" coords="231,5,389,32"/>
-<area shape="rect" id="node3" href="$class_ban_table_priv.html#a36dc74cf3d2a45de4c0e55aa79e64c98" title="BanTablePriv::refreshBanlist" alt="" coords="437,5,621,32"/>
-</map>

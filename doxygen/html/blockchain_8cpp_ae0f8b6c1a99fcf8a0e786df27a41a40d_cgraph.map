@@ -1,6 +1,0 @@
-<map id="getblockcount" name="getblockcount">
-<area shape="rect" id="node2" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="164,5,271,32"/>
-<area shape="rect" id="node3" href="$server_8cpp.html#a26bafe3d526ee8cbc84b3c0b0dc3a43b" title="HelpExampleCli" alt="" coords="160,56,275,83"/>
-<area shape="rect" id="node4" href="$server_8cpp.html#a9ef4f8fb114508ceb861a0e8c3e0d26e" title="HelpExampleRpc" alt="" coords="156,107,279,133"/>
-<area shape="rect" id="node5" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="163,157,272,184"/>
-</map>

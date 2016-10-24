@@ -1,9 +1,0 @@
-<map id="CAddrInfo::GetTriedBucket" name="CAddrInfo::GetTriedBucket">
-<area shape="rect" id="node2" href="$class_c_addr_man.html#a98e8383efb48b7c2932795438f35a10a" title="Move an entry from the &quot;new&quot; table(s) to the &quot;tried&quot; table. " alt="" coords="249,31,400,57"/>
-<area shape="rect" id="node7" href="$class_c_addr_man.html#a68eaf1797ecb8bff380aa7f9fc452e14" title="CAddrMan::Unserialize" alt="" coords="247,81,402,108"/>
-<area shape="rect" id="node8" href="$addrman__tests_8cpp.html#a030c7f7061c7460300e4c19044a608b5" title="BOOST_AUTO_TEST_CASE" alt="" coords="229,132,420,159"/>
-<area shape="rect" id="node3" href="$class_c_addr_man.html#a33ec6a4584cf4b17af821e6e35216459" title="Mark an entry &quot;good&quot;, possibly moving it from &quot;new&quot; to &quot;tried&quot;. " alt="" coords="468,31,597,57"/>
-<area shape="rect" id="node4" href="$class_c_addr_man.html#a993e80e74701d7bc6bb49880c387b847" title="Mark an entry as accessible. " alt="" coords="645,31,768,57"/>
-<area shape="rect" id="node5" href="$class_c_connman.html#a85dedb235a648a1b8370228ba62ebacb" title="CConnman::MarkAddressGood" alt="" coords="816,5,1019,32"/>
-<area shape="rect" id="node6" href="$addrman__tests_8cpp.html#a68763c565f212d2fecd6c99f11b4d2d9" title="BOOST_AUTO_TEST_CASE" alt="" coords="822,56,1013,83"/>
-</map>

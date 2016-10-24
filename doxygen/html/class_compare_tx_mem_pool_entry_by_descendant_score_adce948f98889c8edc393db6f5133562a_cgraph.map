@@ -1,9 +1,0 @@
-<map id="CompareTxMemPoolEntryByDescendantScore::operator()" name="CompareTxMemPoolEntryByDescendantScore::operator()">
-<area shape="rect" id="node2" href="$class_compare_tx_mem_pool_entry_by_descendant_score.html#a257b62cdc4e45c18b2fe092e471a3f50" title="CompareTxMemPoolEntryByDescendant\lScore::UseDescendantScore" alt="" coords="312,105,571,146"/>
-<area shape="rect" id="node3" href="$class_c_tx_mem_pool_entry.html#a64c95bfa2a18e009c03cf1d577ff35c6" title="CTxMemPoolEntry::GetModifiedFee" alt="" coords="619,5,849,32"/>
-<area shape="rect" id="node4" href="$class_c_tx_mem_pool_entry.html#a81059fef7b2c8f504c5b7e7646f65f87" title="CTxMemPoolEntry::GetSize\lWithDescendants" alt="" coords="641,59,827,101"/>
-<area shape="rect" id="node5" href="$class_c_tx_mem_pool_entry.html#afa9024b252e9ee94c3aa1248fcd99c0b" title="CTxMemPoolEntry::GetModFees\lWithDescendants" alt="" coords="627,129,841,170"/>
-<area shape="rect" id="node6" href="$class_c_tx_mem_pool_entry.html#a500fcb2039ceb24798d8ddb7d548b7b5" title="CTxMemPoolEntry::GetTxSize" alt="" coords="634,204,834,231"/>
-<area shape="rect" id="node8" href="$class_c_tx_mem_pool_entry.html#a249b1f68b5b06bf8ec8fcbb5bef61090" title="CTxMemPoolEntry::GetTime" alt="" coords="347,272,535,299"/>
-<area shape="rect" id="node7" href="$policy_8cpp.html#a657a593ec90452062582ccf893a8488d" title="GetVirtualTransactionSize" alt="" coords="897,204,1071,231"/>
-</map>

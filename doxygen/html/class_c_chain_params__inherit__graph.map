@@ -1,5 +1,0 @@
-<map id="CChainParams" name="CChainParams">
-<area shape="rect" id="node2" href="$class_c_main_params.html" title="CMainParams" alt="" coords="5,80,109,107"/>
-<area shape="rect" id="node3" href="$class_c_reg_test_params.html" title="CRegTestParams" alt="" coords="134,80,258,107"/>
-<area shape="rect" id="node4" href="$class_c_test_net_params.html" title="CTestNetParams" alt="" coords="282,80,403,107"/>
-</map>

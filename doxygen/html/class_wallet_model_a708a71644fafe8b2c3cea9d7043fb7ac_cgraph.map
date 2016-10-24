@@ -1,9 +1,0 @@
-<map id="WalletModel::transactionCanBeAbandoned" name="WalletModel::transactionCanBeAbandoned">
-<area shape="rect" id="node2" href="$group__map_wallet.html#gabdffee587c00bc1ebea53ea26f3efa61" title="CWallet::GetWalletTx" alt="" coords="239,5,387,32"/>
-<area shape="rect" id="node3" href="$class_c_merkle_tx.html#ada8e2d9091cb1b14250f32ef1ad46a30" title="CMerkleTx::isAbandoned" alt="" coords="229,56,396,83"/>
-<area shape="rect" id="node4" href="$class_c_merkle_tx.html#a2b536484ff937f98d400d29c740670ab" title="CMerkleTx::GetDepthInMain\lChain" alt="" coords="220,107,405,149"/>
-<area shape="rect" id="node7" href="$group__map_wallet.html#gaae8d7c37490bf8b42be69998563253e6" title="CWalletTx::InMempool" alt="" coords="236,173,389,200"/>
-<area shape="rect" id="node5" href="$class_c_chain.html#a1ab1fe2932227af222699c64847e838b" title="CChain::Contains" alt="" coords="463,68,586,95"/>
-<area shape="rect" id="node6" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="470,119,579,145"/>
-<area shape="rect" id="node8" href="$class_c_tx_mem_pool.html#a93b2aa8c01fa291d183a82a9e0beeb35" title="CTxMemPool::exists" alt="" coords="453,173,596,200"/>
-</map>

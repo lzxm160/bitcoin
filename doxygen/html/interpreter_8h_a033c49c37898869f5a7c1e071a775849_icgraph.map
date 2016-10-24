@@ -1,8 +1,0 @@
-<map id="SignatureHash" name="SignatureHash">
-<area shape="rect" id="node2" href="$class_transaction_signature_checker.html#a28b322a9c7e5cc95755c31d4435cffd4" title="TransactionSignatureChecker\l::CheckSig" alt="" coords="168,5,360,47"/>
-<area shape="rect" id="node3" href="$class_transaction_signature_creator.html#a5bcef0a18e729f372e6123c94710caa4" title="TransactionSignatureCreator\l::CreateSig" alt="" coords="171,71,357,112"/>
-<area shape="rect" id="node4" href="$multisig__tests_8cpp.html#aa6b1a64f7cb6676d0ce8bb16334f03db" title="sign_multisig" alt="" coords="215,137,313,163"/>
-<area shape="rect" id="node6" href="$script__tests_8cpp.html#a7c62a70f4b679bd83725b7f41ef19a9c" title="BOOST_AUTO_TEST_CASE" alt="" coords="169,187,359,214"/>
-<area shape="rect" id="node7" href="$txvalidationcache__tests_8cpp.html#a6d45276e442530e646e50bdfc994fb8e" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="160,238,368,265"/>
-<area shape="rect" id="node5" href="$multisig__tests_8cpp.html#a34755e012e0e58a11c989e40fda0d003" title="BOOST_AUTO_TEST_CASE" alt="" coords="416,137,607,163"/>
-</map>

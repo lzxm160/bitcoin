@@ -1,4 +1,0 @@
-<map id="org.bitcoin.NativeSecp256k1Test.testPubKeyCreatePos" name="org.bitcoin.NativeSecp256k1Test.testPubKeyCreatePos">
-<area shape="rect" id="node2" href="$classorg_1_1bitcoin_1_1_native_secp256k1.html#a83bd3f7f54476f397deec85e38e3b7bc" title="org.bitcoin.NativeSecp256k1.compute\lPubkey" alt="" coords="240,5,480,47"/>
-<area shape="rect" id="node3" href="$classorg_1_1bitcoin_1_1_secp256k1_context.html#a46e8cc0f7925f60a29c11c2f4f407de9" title="org.bitcoin.Secp256k1Context.get\lContext" alt="" coords="528,5,747,47"/>
-</map>

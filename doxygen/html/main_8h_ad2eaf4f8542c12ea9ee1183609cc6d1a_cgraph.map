@@ -1,8 +1,0 @@
-<map id="GetLegacySigOpCount" name="GetLegacySigOpCount">
-<area shape="rect" id="node2" href="$class_c_script.html#ad4a8173c235111e93a8171b1f8d00ce8" title="CScript::GetSigOpCount" alt="" coords="208,52,372,78"/>
-<area shape="rect" id="node3" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="623,26,736,53"/>
-<area shape="rect" id="node4" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="787,26,889,53"/>
-<area shape="rect" id="node5" href="$class_c_script.html#a94635ed93d8d244ec3acfa83f9ecfe5f" title="CScript::GetOp" alt="" coords="441,77,551,104"/>
-<area shape="rect" id="node7" href="$class_c_script.html#a7f975fca06b3e9a17da8ba23c7647e2e" title="CScript::DecodeOP_N" alt="" coords="420,128,572,154"/>
-<area shape="rect" id="node6" href="$class_c_script.html#a93ec95275ccce9b701c8f53c57cd7975" title="CScript::GetOp2" alt="" coords="620,77,739,104"/>
-</map>

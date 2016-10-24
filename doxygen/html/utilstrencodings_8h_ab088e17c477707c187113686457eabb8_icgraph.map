@@ -1,9 +1,0 @@
-<map id="EncodeBase64" name="EncodeBase64">
-<area shape="rect" id="node2" href="$bitcoin-cli_8cpp.html#accc586ded09d9de834628afd6364a6c2" title="CallRPC" alt="" coords="224,5,295,32"/>
-<area shape="rect" id="node5" href="$misc_8cpp.html#a5e097de02d97cf33b676821242f0908e" title="signmessagewithprivkey" alt="" coords="178,56,341,83"/>
-<area shape="rect" id="node6" href="$base64__tests_8cpp.html#a2359bd06114a1f3a41c3ebc5895e21bb" title="BOOST_AUTO_TEST_CASE" alt="" coords="164,107,355,133"/>
-<area shape="rect" id="node7" href="$utilstrencodings_8cpp.html#a01c144e3a6e8de1ea8481bd7c69fef07" title="EncodeBase64" alt="" coords="204,157,315,184"/>
-<area shape="rect" id="node8" href="$rpcwallet_8cpp.html#a95d30866deb9a289859518f21b6ec721" title="signmessage" alt="" coords="210,208,309,235"/>
-<area shape="rect" id="node3" href="$bitcoin-cli_8cpp.html#a4ee23259648a971c9c05aeff8b545a6d" title="CommandLineRPC" alt="" coords="403,5,535,32"/>
-<area shape="rect" id="node4" href="$bitcoin-cli_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="583,5,633,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SignVerifyMessageDialog::SignVerifyMessageDialog" name="SignVerifyMessageDialog::SignVerifyMessageDialog">
-<area shape="rect" id="node2" href="$class_platform_style.html#a4987d44b752a26f0ad3a654822d7dc5e" title="PlatformStyle::SingleColorIcon" alt="" coords="232,5,431,32"/>
-<area shape="rect" id="node4" href="$namespace_g_u_i_util.html#aeb3b902c0536bdb9c2def3d3e465aeba" title="GUIUtil::setupAddressWidget" alt="" coords="235,107,427,133"/>
-<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#af6b9624383a5313a5d856c59913b599b" title="GUIUtil::fixedPitchFont" alt="" coords="489,56,643,83"/>
-<area shape="rect" id="node3" href="$class_platform_style.html#a1c21234aff601548130e5b52c0fcfc47" title="PlatformStyle::SingleColor" alt="" coords="479,5,653,32"/>
-<area shape="rect" id="node6" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="533,107,599,133"/>
-<area shape="rect" id="node7" href="$class_q_validated_line_edit.html#af365be1760e17fd1ea6b430fa6005bd2" title="QValidatedLineEdit\l::setCheckValidator" alt="" coords="498,158,634,199"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="run_wnaf" name="run_wnaf">
-<area shape="rect" id="node2" href="$tests_8c.html#ab1b83b06f2b16b37ec472a91775d1a94" title="test_constant_wnaf" alt="" coords="131,5,265,32"/>
-<area shape="rect" id="node3" href="$tests_8c.html#a01cf4b4fc9b4ab8cb3e04fd3dc2ff57f" title="random_scalar_order" alt="" coords="127,56,269,83"/>
-<area shape="rect" id="node4" href="$tests_8c.html#a7ca78a9b379dc40e8b025b145dd5648a" title="test_wnaf" alt="" coords="159,107,237,133"/>
-<area shape="rect" id="node5" href="$tests_8c.html#ad9c7802400ac86e07d8b5eb46055afaf" title="test_constant_wnaf\l_negate" alt="" coords="131,158,265,199"/>
-</map>

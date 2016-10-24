@@ -1,5 +1,0 @@
-<map id="WalletView::unlockWallet" name="WalletView::unlockWallet">
-<area shape="rect" id="node2" href="$class_wallet_frame.html#a31b6e87c87b383ef53225b6c2b37f057" title="WalletFrame::unlockWallet" alt="" coords="227,5,406,32"/>
-<area shape="rect" id="node3" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="224,56,409,83"/>
-<area shape="rect" id="node4" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="457,56,620,83"/>
-</map>

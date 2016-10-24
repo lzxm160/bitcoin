@@ -1,6 +1,0 @@
-<map id="GetScriptForMultisig" name="GetScriptForMultisig">
-<area shape="rect" id="node2" href="$rpcwallet_8cpp.html#aaaa83aae4b9dc51b4ac76d4be0dd237d" title="_createmultisig_redeemScript" alt="" coords="195,31,389,57"/>
-<area shape="rect" id="node5" href="$script___p2_s_h__tests_8cpp.html#a059b5d09b8525dffaa35e50b22d49944" title="BOOST_AUTO_TEST_CASE" alt="" coords="197,81,387,108"/>
-<area shape="rect" id="node3" href="$misc_8cpp.html#a2dcabb86c419e41b27a03228566ce2c9" title="createmultisig" alt="" coords="453,5,556,32"/>
-<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a82120a4244c802d5bb54865d5ff40eac" title="addmultisigaddress" alt="" coords="437,56,572,83"/>
-</map>

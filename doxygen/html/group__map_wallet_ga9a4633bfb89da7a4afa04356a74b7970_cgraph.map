@@ -1,8 +1,0 @@
-<map id="CWallet::AbandonTransaction" name="CWallet::AbandonTransaction">
-<area shape="rect" id="node2" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="281,5,401,32"/>
-<area shape="rect" id="node3" href="$class_c_merkle_tx.html#a2b536484ff937f98d400d29c740670ab" title="CMerkleTx::GetDepthInMain\lChain" alt="" coords="248,57,433,98"/>
-<area shape="rect" id="node6" href="$class_c_wallet_d_b.html#a5204fbec65f5394d7174318f4dc4f483" title="CWalletDB::WriteTx" alt="" coords="271,123,410,149"/>
-<area shape="rect" id="node4" href="$class_c_chain.html#a1ab1fe2932227af222699c64847e838b" title="CChain::Contains" alt="" coords="499,17,621,44"/>
-<area shape="rect" id="node5" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="505,68,615,95"/>
-<area shape="rect" id="node7" href="$class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990" title="CTransaction::GetHash" alt="" coords="481,123,639,149"/>
-</map>

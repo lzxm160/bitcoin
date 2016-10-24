@@ -1,6 +1,0 @@
-<map id="TestingSetup" name="TestingSetup">
-<area shape="rect" id="node3" href="$struct_regtesting_setup.html" title="RegtestingSetup" alt="" coords="5,155,124,181"/>
-<area shape="rect" id="node4" href="$struct_test_chain100_setup.html" title="TestChain100Setup" alt="" coords="148,155,283,181"/>
-<area shape="rect" id="node5" href="$struct_wallet_testing_setup.html" title="WalletTestingSetup" alt="" coords="307,155,441,181"/>
-<area shape="rect" id="node2" href="$struct_basic_testing_setup.html" title="BasicTestingSetup" alt="" coords="150,5,281,32"/>
-</map>

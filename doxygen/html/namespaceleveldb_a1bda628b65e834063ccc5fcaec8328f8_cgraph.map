@@ -1,5 +1,0 @@
-<map id="leveldb::ConsumeDecimalNumber" name="leveldb::ConsumeDecimalNumber">
-<area shape="rect" id="node2" href="$classleveldb_1_1_slice.html#a7d0b93d5801bff5656068647759dcb8f" title="leveldb::Slice::empty" alt="" coords="271,5,414,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_slice.html#a1be5b22958a115ebecb2b017aad2b3f6" title="leveldb::Slice::remove\l_prefix" alt="" coords="269,57,416,98"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_slice.html#a947d3173f04f8a30553e89046daf91d5" title="leveldb::Slice::size" alt="" coords="464,64,595,91"/>
-</map>

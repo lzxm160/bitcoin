@@ -1,5 +1,0 @@
-<map id="WalletModel::updateStatus" name="WalletModel::updateStatus">
-<area shape="rect" id="node2" href="$class_wallet_model.html#acfb62be638267bbf1bf498fb6501c31d" title="WalletModel::getEncryption\lStatus" alt="" coords="232,5,415,47"/>
-<area shape="rect" id="node3" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="693,13,880,39"/>
-<area shape="rect" id="node4" href="$class_c_crypto_key_store.html#a1c3ebef555fd13676d67509b95820fcf" title="CCryptoKeyStore::IsLocked" alt="" coords="463,38,645,65"/>
-</map>

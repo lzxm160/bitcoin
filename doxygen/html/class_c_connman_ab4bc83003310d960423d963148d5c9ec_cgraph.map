@@ -1,6 +1,0 @@
-<map id="CConnman::~CConnman" name="CConnman::~CConnman">
-<area shape="rect" id="node2" href="$class_c_connman.html#a289dca0ee65310fcfc5b552249fc0401" title="CConnman::Stop" alt="" coords="220,56,341,83"/>
-<area shape="rect" id="node3" href="$class_c_semaphore.html#af6a956f6c191e824485fd3af6db39318" title="CSemaphore::post" alt="" coords="389,5,520,32"/>
-<area shape="rect" id="node4" href="$netbase_8cpp.html#aeb0961aecb19bbca063c3514b25b20c9" title="CloseSocket" alt="" coords="407,56,503,83"/>
-<area shape="rect" id="node5" href="$netbase_8cpp.html#a8ddb7d8d6e5b5cfabfdeea132f556977" title="NetworkErrorString" alt="" coords="389,107,520,133"/>
-</map>

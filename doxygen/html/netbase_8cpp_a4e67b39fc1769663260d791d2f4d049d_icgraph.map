@@ -1,6 +1,0 @@
-<map id="GetProxy" name="GetProxy">
-<area shape="rect" id="node2" href="$netbase_8h.html#a82264c36c474ed2eee9093db72076910" title="ConnectSocket" alt="" coords="181,5,291,32"/>
-<area shape="rect" id="node4" href="$class_options_model.html#ae7c7840b9a004e838ad73438d4df08ac" title="OptionsModel::getProxySettings" alt="" coords="131,56,341,83"/>
-<area shape="rect" id="node5" href="$misc_8cpp.html#ade6e4d8f2279de00350dea14e978235e" title="getinfo" alt="" coords="206,107,266,133"/>
-<area shape="rect" id="node3" href="$netbase_8h.html#a5cd6bfa35cfe703de2218401c49922a7" title="ConnectSocketByName" alt="" coords="389,5,551,32"/>
-</map>

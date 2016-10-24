@@ -1,7 +1,0 @@
-<map id="CWallet::GetUnconfirmedWatchOnlyBalance" name="CWallet::GetUnconfirmedWatchOnlyBalance">
-<area shape="rect" id="node2" href="$class_wallet_model.html#a4d3e97dd5e32d9f97d27eea63ffcdaa9" title="WalletModel::getWatchUnconfirmed\lBalance" alt="" coords="260,23,491,65"/>
-<area shape="rect" id="node3" href="$class_overview_page.html#a2ed52a3a87e9c74fee38fa873c9bc71f" title="OverviewPage::setWalletModel" alt="" coords="539,5,739,32"/>
-<area shape="rect" id="node6" href="$class_send_coins_dialog.html#a73a6c1b1850a334ee652ac167713a2aa" title="SendCoinsDialog::setModel" alt="" coords="547,56,730,83"/>
-<area shape="rect" id="node4" href="$class_wallet_view.html#a0a37ff693a4f9c1e5ddc23f9cd3913be" title="WalletView::setWalletModel" alt="" coords="787,31,972,57"/>
-<area shape="rect" id="node5" href="$class_wallet_frame.html#aa199c3f27654199d84c365cf86167d86" title="WalletFrame::addWallet" alt="" coords="1020,31,1183,57"/>
-</map>

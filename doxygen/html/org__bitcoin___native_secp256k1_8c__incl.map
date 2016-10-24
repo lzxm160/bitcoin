@@ -1,8 +1,0 @@
-<map id="E:/renesola/work/bitcoin/src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c" name="E:/renesola/work/bitcoin/src/secp256k1/src/java/org_bitcoin_NativeSecp256k1.c">
-<area shape="rect" id="node3" href="$stdint_8h.html" title="stdint.h" alt="" coords="94,109,159,136"/>
-<area shape="rect" id="node5" href="$org__bitcoin___native_secp256k1_8h.html" title="org_bitcoin_NativeSecp256k1.h" alt="" coords="273,109,476,136"/>
-<area shape="rect" id="node7" href="$secp256k1_8h.html" title="include/secp256k1.h" alt="" coords="568,184,709,211"/>
-<area shape="rect" id="node9" href="$secp256k1__ecdh_8h.html" title="include/secp256k1_ecdh.h" alt="" coords="551,109,727,136"/>
-<area shape="rect" id="node10" href="$secp256k1__recovery_8h.html" title="include/secp256k1_recovery.h" alt="" coords="751,109,947,136"/>
-<area shape="rect" id="node11" href="$secp256k1__schnorr_8h.html" title="include/secp256k1_schnorr.h" alt="" coords="971,109,1162,136"/>
-</map>

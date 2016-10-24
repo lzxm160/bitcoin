@@ -1,5 +1,0 @@
-<map id="JSONRPCExecBatch" name="JSONRPCExecBatch">
-<area shape="rect" id="node2" href="$class_uni_value.html#a61ee4ef0fa78da6d936dddf408a51a13" title="UniValue::size" alt="" coords="219,5,326,32"/>
-<area shape="rect" id="node3" href="$class_uni_value.html#a944cd1b59b040cd24c9f46b55a68d49a" title="UniValue::push_back" alt="" coords="200,56,345,83"/>
-<area shape="rect" id="node4" href="$class_uni_value.html#a93e7d33e12a8b282a1944f0e6f8246f9" title="UniValue::write" alt="" coords="218,107,327,133"/>
-</map>

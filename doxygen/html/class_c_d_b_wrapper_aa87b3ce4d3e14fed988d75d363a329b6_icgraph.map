@@ -1,4 +1,0 @@
-<map id="CDBWrapper::Exists" name="CDBWrapper::Exists">
-<area shape="rect" id="node2" href="$class_c_coins_view_d_b.html#a4d08cf2d3440c1de4e48cfddd67962d7" title="CCoinsViewDB::HaveCoins" alt="" coords="211,5,390,32"/>
-<area shape="rect" id="node3" href="$class_c_block_tree_d_b.html#a1abf6fc392048428aa24a12b7942824b" title="CBlockTreeDB::ReadReindexing" alt="" coords="196,56,405,83"/>
-</map>

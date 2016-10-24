@@ -1,9 +1,0 @@
-<map id="ECC_Start" name="ECC_Start">
-<area shape="rect" id="node2" href="$bench__bitcoin_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="209,5,260,32"/>
-<area shape="rect" id="node3" href="$class_secp256k1_init.html#a2b66e52b456b58659cb3c4b3adab862b" title="Secp256k1Init::Secp256k1Init" alt="" coords="137,56,332,83"/>
-<area shape="rect" id="node4" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="200,107,269,133"/>
-<area shape="rect" id="node8" href="$struct_basic_testing_setup.html#a2646eb870eb8633653f2d5792c11530c" title="BasicTestingSetup::\lBasicTestingSetup" alt="" coords="165,158,304,199"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="421,81,483,108"/>
-<area shape="rect" id="node7" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="380,132,524,159"/>
-<area shape="rect" id="node6" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="572,81,623,108"/>
-</map>

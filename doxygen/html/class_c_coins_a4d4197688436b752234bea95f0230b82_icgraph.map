@@ -1,6 +1,0 @@
-<map id="CCoins::Clear" name="CCoins::Clear">
-<area shape="rect" id="node2" href="$main_8h.html#a8611a8552630b4821d47a4a154890a30" title="DisconnectBlock" alt="" coords="191,5,311,32"/>
-<area shape="rect" id="node5" href="$coins__tests_8cpp.html#aa662f4d14ca07b95ddf6d7e2d224e4e4" title="BOOST_AUTO_TEST_CASE" alt="" coords="156,56,347,83"/>
-<area shape="rect" id="node3" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="395,5,536,32"/>
-<area shape="rect" id="node4" href="$blockchain_8cpp.html#a30b96575c158ca0465dbdb25705c4ca9" title="verifychain" alt="" coords="584,5,667,32"/>
-</map>

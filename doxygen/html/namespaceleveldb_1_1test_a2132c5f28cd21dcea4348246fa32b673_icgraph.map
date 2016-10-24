@@ -1,8 +1,0 @@
-<map id="leveldb::test::RandomString" name="leveldb::test::RandomString">
-<area shape="rect" id="node2" href="$classleveldb_1_1_corruption_test.html#a0afb6030faf43287b86e027a13eac152" title="leveldb::CorruptionTest\l::Value" alt="" coords="247,41,401,83"/>
-<area shape="rect" id="node5" href="$namespaceleveldb.html#adc90f6565a8de1839377305fcb97f70c" title="leveldb::TEST" alt="" coords="273,107,375,134"/>
-<area shape="rect" id="node6" href="$namespaceleveldb_1_1test.html#a7e336c887550b617dfd8bc0f61726779" title="leveldb::test::Compressible\lString" alt="" coords="235,159,413,200"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_corruption_test.html#a54d2114311c61356e879b5ccfc3cda18" title="leveldb::CorruptionTest\l::Build" alt="" coords="461,5,615,47"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_corruption_test.html#aa03dcde1d0771ebbcf7d6ac8bda9c725" title="leveldb::CorruptionTest\l::Check" alt="" coords="461,71,615,112"/>
-<area shape="rect" id="node7" href="$namespaceleveldb.html#a54db682b48044a62a1b681349c53defb" title="leveldb::TEST" alt="" coords="487,166,589,193"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="TorController::Reconnect" name="TorController::Reconnect">
-<area shape="rect" id="node2" href="$class_tor_control_connection.html#a36b6359caf9a304efe310b9b7141a939" title="TorControlConnection\l::Connect" alt="" coords="219,5,365,47"/>
-<area shape="rect" id="node3" href="$class_tor_control_connection.html#addb42114063641eab12be2fc39b859d5" title="TorControlConnection\l::Disconnect" alt="" coords="413,5,560,47"/>
-</map>

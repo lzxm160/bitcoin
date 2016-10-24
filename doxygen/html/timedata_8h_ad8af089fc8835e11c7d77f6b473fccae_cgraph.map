@@ -1,8 +1,0 @@
-<map id="AddTimeData" name="AddTimeData">
-<area shape="rect" id="node2" href="$class_c_median_filter.html#ae10cde98866b034ec73c530be4c60874" title="CMedianFilter::input" alt="" coords="160,5,299,32"/>
-<area shape="rect" id="node3" href="$class_c_median_filter.html#a0791303910a3a11adbc127f9fe4e3a9e" title="CMedianFilter::size" alt="" coords="353,81,488,108"/>
-<area shape="rect" id="node4" href="$class_c_median_filter.html#aab6b67fbb63024c462bfa30bbe789c31" title="CMedianFilter::median" alt="" coords="153,107,305,133"/>
-<area shape="rect" id="node5" href="$class_c_median_filter.html#afbfe7258f17cec5cc7f2f105d03b0567" title="CMedianFilter::sorted" alt="" coords="156,157,303,184"/>
-<area shape="rect" id="node6" href="$util_8cpp.html#a24f685720bf40370e5bd2a192ad50cd8" title="GetArg" alt="" coords="198,208,261,235"/>
-<area shape="rect" id="node7" href="$util_8h.html#aad133bb6103b53cebf03fd01e2f11ba1" title="_" alt="" coords="210,259,249,285"/>
-</map>

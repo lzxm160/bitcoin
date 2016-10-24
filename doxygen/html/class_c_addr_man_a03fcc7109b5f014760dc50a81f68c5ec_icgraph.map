@@ -1,5 +1,0 @@
-<map id="CAddrMan::Add" name="CAddrMan::Add">
-<area shape="rect" id="node2" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="175,5,365,32"/>
-<area shape="rect" id="node3" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="168,56,372,83"/>
-<area shape="rect" id="node4" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="175,107,365,133"/>
-</map>

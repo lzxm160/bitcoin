@@ -1,5 +1,0 @@
-<map id="RPCConsole::peerSelected" name="RPCConsole::peerSelected">
-<area shape="rect" id="node2" href="$class_client_model.html#a643fc112ce94f50ac7187ecdf3c75360" title="ClientModel::getPeerTable\lModel" alt="" coords="247,5,422,47"/>
-<area shape="rect" id="node3" href="$class_peer_table_model.html#a98084d3299642316c71c5de3d36b9859" title="PeerTableModel::getNodeStats" alt="" coords="233,71,436,98"/>
-<area shape="rect" id="node4" href="$class_peer_table_priv.html#a58c817cce967ddd5ae4bad622bfaecb4" title="PeerTablePriv::index" alt="" coords="484,71,624,98"/>
-</map>

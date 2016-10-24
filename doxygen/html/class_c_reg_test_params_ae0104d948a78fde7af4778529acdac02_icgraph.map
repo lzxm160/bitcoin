@@ -1,7 +1,0 @@
-<map id="CRegTestParams::UpdateBIP9Parameters" name="CRegTestParams::UpdateBIP9Parameters">
-<area shape="rect" id="node2" href="$chainparams_8h.html#ad3e3d179f1dfcc94cedc1a36a85eec54" title="UpdateRegtestBIP9Parameters" alt="" coords="255,31,457,57"/>
-<area shape="rect" id="node3" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="505,31,575,57"/>
-<area shape="rect" id="node4" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="663,5,726,32"/>
-<area shape="rect" id="node6" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="623,56,767,83"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="815,5,865,32"/>
-</map>

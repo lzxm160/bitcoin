@@ -1,6 +1,0 @@
-<map id="leveldb::Block::Iter::Valid" name="leveldb::Block::Iter::Valid">
-<area shape="rect" id="node2" href="$classleveldb_1_1_block_1_1_iter.html#a1378d5e1fb17638427fd0a0f7fc7a010" title="leveldb::Block::Iter::key" alt="" coords="181,5,339,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_block_1_1_iter.html#afb28e69efec54ca9306fc504e139bf3f" title="leveldb::Block::Iter\l::value" alt="" coords="196,57,324,98"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_block_1_1_iter.html#a27dacbefa903333a5ad003ccd3e424b6" title="leveldb::Block::Iter\l::Next" alt="" coords="196,122,324,163"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_block_1_1_iter.html#a096747ff77d5090579fe4cd4e464a3c9" title="leveldb::Block::Iter\l::Prev" alt="" coords="196,187,324,229"/>
-</map>

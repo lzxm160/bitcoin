@@ -1,9 +1,0 @@
-<map id="leveldb::Footer::EncodeTo" name="leveldb::Footer::EncodeTo">
-<area shape="rect" id="node2" href="$classleveldb_1_1_block_handle.html#a71aa041d686d43e66ab570fce1ac388e" title="leveldb::BlockHandle\l::EncodeTo" alt="" coords="225,5,368,47"/>
-<area shape="rect" id="node5" href="$namespaceleveldb.html#ac95f82421989b07d9d4993bdc2e2c555" title="leveldb::PutFixed32" alt="" coords="229,71,364,98"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#a17889b1733282d6e80cf03fc0dd207d4" title="leveldb::PutVarint64" alt="" coords="427,13,564,39"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#a81e3ab2e7387f236aaf068e9369a4e3d" title="leveldb::EncodeVarint64" alt="" coords="623,13,784,39"/>
-<area shape="rect" id="node6" href="$namespaceleveldb.html#a265d1eea2e5d8e42cf86372ed4904886" title="leveldb::EncodeFixed32" alt="" coords="416,71,575,98"/>
-<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="667,71,739,98"/>
-<area shape="rect" id="node8" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="832,71,913,98"/>
-</map>

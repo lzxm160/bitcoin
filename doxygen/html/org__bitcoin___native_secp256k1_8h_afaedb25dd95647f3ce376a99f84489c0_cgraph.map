@@ -1,5 +1,0 @@
-<map id="Java_org_bitcoin_NativeSecp256k1_secp256k1_1pubkey_1tweak_1mul" name="Java_org_bitcoin_NativeSecp256k1_secp256k1_1pubkey_1tweak_1mul">
-<area shape="rect" id="node2" href="$secp256k1_8h.html#a4e5dc8952c9a7e791376505ef2023ca1" title="secp256k1_ec_pubkey\l_parse" alt="" coords="284,5,439,47"/>
-<area shape="rect" id="node3" href="$secp256k1_8h.html#a0351b25239f1146573d62477c3b2119a" title="secp256k1_ec_pubkey\l_tweak_mul" alt="" coords="284,71,439,112"/>
-<area shape="rect" id="node4" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="284,136,439,177"/>
-</map>

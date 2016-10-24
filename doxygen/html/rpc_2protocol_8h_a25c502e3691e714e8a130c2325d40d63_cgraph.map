@@ -1,8 +1,0 @@
-<map id="GetAuthCookie" name="GetAuthCookie">
-<area shape="rect" id="node2" href="$rpc_2protocol_8cpp.html#aae8ad79d1767e2f4b1207c1af53af7c3" title="GetAuthCookieFile" alt="" coords="164,31,295,57"/>
-<area shape="rect" id="node3" href="$util_8cpp.html#a24f685720bf40370e5bd2a192ad50cd8" title="GetArg" alt="" coords="355,5,417,32"/>
-<area shape="rect" id="node4" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="343,56,429,83"/>
-<area shape="rect" id="node5" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="509,5,636,32"/>
-<area shape="rect" id="node6" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="524,56,621,83"/>
-<area shape="rect" id="node7" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="477,107,668,133"/>
-</map>

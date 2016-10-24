@@ -1,5 +1,0 @@
-<map id="leveldb::Arena::Allocate" name="leveldb::Arena::Allocate">
-<area shape="rect" id="node2" href="$classleveldb_1_1_mem_table.html#a37bec80954badb2354426aa175e9371f" title="leveldb::MemTable::Add" alt="" coords="212,13,372,39"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#a0eabdecca31ba177802a55bff92b2968" title="leveldb::TEST" alt="" coords="241,63,343,90"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_mem_table_constructor.html#a78851e48bd187f231934e128ab050624" title="leveldb::MemTableConstructor\l::FinishImpl" alt="" coords="420,5,616,47"/>
-</map>

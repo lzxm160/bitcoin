@@ -1,4 +1,0 @@
-<map id="CCheckQueueControl::~CCheckQueueControl" name="CCheckQueueControl::~CCheckQueueControl">
-<area shape="rect" id="node2" href="$class_c_check_queue_control.html#ab31d809a76b876d21608c0c5d0e3baf0" title="CCheckQueueControl\l::Wait" alt="" coords="216,5,363,47"/>
-<area shape="rect" id="node3" href="$class_c_check_queue.html#a4ff3e0e8241491efa1803eeb3a53e7fa" title="Wait until execution finishes, and return whether all evaluations were successful. " alt="" coords="411,13,552,39"/>
-</map>

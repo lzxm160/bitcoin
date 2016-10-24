@@ -1,9 +1,0 @@
-<map id="CDataStream::insert" name="CDataStream::insert">
-<area shape="rect" id="node2" href="$class_c_node.html#a39512c4e2c788fb7a09e629b79a69e47" title="CNode::Fuzz" alt="" coords="255,5,354,32"/>
-<area shape="rect" id="node3" href="$class_c_data_stream.html#a59c13d9215c13b3bb4d56a818d280dda" title="CDataStream::operator+=" alt="" coords="219,56,390,83"/>
-<area shape="rect" id="node4" href="$class_c_data_stream.html#abcab3fa1be7676ffdb34908ec7c84b78" title="CDataStream::write" alt="" coords="237,107,372,133"/>
-<area shape="rect" id="node7" href="$serialize__tests_8cpp.html#a4cbce4f61a781dfceeb498f238f4902d" title="BOOST_AUTO_TEST_CASE" alt="" coords="209,157,400,184"/>
-<area shape="rect" id="node8" href="$class_c_accounting_entry.html#ab30195f9f97f8f7ceb17360c24a39676" title="CAccountingEntry::SerializationOp" alt="" coords="193,208,416,235"/>
-<area shape="rect" id="node5" href="$class_c_d_b.html#a574f0a480841365815e5a6b884ac61f1" title="CDB::ReadAtCursor" alt="" coords="490,81,629,108"/>
-<area shape="rect" id="node6" href="$serialize__tests_8cpp.html#aabfae3698d7ea1c5398ed38d3210b555" title="BOOST_AUTO_TEST_CASE" alt="" coords="464,132,655,159"/>
-</map>

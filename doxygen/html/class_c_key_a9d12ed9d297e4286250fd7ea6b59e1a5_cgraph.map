@@ -1,9 +1,0 @@
-<map id="CKey::MakeNewKey" name="CKey::MakeNewKey">
-<area shape="rect" id="node2" href="$random_8cpp.html#ad3431dd191f6ae9977f482c150da3d6f" title="GetStrongRandBytes" alt="" coords="196,107,341,133"/>
-<area shape="rect" id="node3" href="$random_8cpp.html#ada0c29949c4d1ac0cc027d93c4771423" title="GetRandBytes" alt="" coords="402,5,509,32"/>
-<area shape="rect" id="node4" href="$class_c_s_h_a512.html#aefd8260a2c205f11d44670ae68f1aff0" title="CSHA512::Write" alt="" coords="569,107,688,133"/>
-<area shape="rect" id="node5" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="736,132,808,159"/>
-<area shape="rect" id="node7" href="$class_c_s_h_a512.html#aef4627aae19eeeb54bf02ea7b222b688" title="CSHA512::Finalize" alt="" coords="389,107,521,133"/>
-<area shape="rect" id="node8" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="395,208,516,235"/>
-<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="856,132,937,159"/>
-</map>

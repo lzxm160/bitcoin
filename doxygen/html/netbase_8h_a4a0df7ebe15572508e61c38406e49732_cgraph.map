@@ -1,7 +1,0 @@
-<map id="HaveNameProxy" name="HaveNameProxy">
-<area shape="rect" id="node2" href="$classproxy_type.html#a2d9ece3a71e623ae96475995beb53b2e" title="proxyType::IsValid" alt="" coords="172,31,301,57"/>
-<area shape="rect" id="node3" href="$class_c_net_addr.html#a52a1b506f07e5450057e12a8b5a7fbcd" title="CNetAddr::IsValid" alt="" coords="349,31,475,57"/>
-<area shape="rect" id="node4" href="$class_c_net_addr.html#a639dff0ffea6ad930353784686def39b" title="CNetAddr::IsRFC3849" alt="" coords="523,5,673,32"/>
-<area shape="rect" id="node6" href="$class_c_net_addr.html#a16ff4478f02f06f5a9a038a24d5da2f9" title="CNetAddr::IsIPv4" alt="" coords="538,56,658,83"/>
-<area shape="rect" id="node5" href="$class_c_net_addr.html#a0793d30a6baae6e3d4e06084ec33eddd" title="CNetAddr::GetByte" alt="" coords="721,5,856,32"/>
-</map>

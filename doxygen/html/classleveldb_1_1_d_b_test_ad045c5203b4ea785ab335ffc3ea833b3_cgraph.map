@@ -1,8 +1,0 @@
-<map id="leveldb::DBTest::DumpFileCounts" name="leveldb::DBTest::DumpFileCounts">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_test.html#a67de35d247ea077c1e4fdf2a7a0f0514" title="leveldb::DBTest::dbfull" alt="" coords="242,5,393,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_d_b_test.html#aa7c845810f6d57b0655eda370e8de33f" title="leveldb::DBTest::NumTable\lFilesAtLevel" alt="" coords="228,57,407,98"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_d_b.html#afcd557d80bac6668f20372c9e737d807" title="leveldb::DB::GetProperty" alt="" coords="455,13,620,40"/>
-<area shape="rect" id="node5" href="$namespaceleveldb.html#a0a19109e7a2c8855c7565bd331d955b4" title="leveldb::NumberToString" alt="" coords="456,64,619,91"/>
-<area shape="rect" id="node7" href="$utilstrencodings_8cpp.html#aa5ce96ec36f4413f820cec9c1831c070" title="atoi" alt="" coords="516,139,559,165"/>
-<area shape="rect" id="node6" href="$namespaceleveldb.html#a089617d12900e6fe5b712c31f651b5ff" title="leveldb::AppendNumberTo" alt="" coords="668,64,840,91"/>
-</map>

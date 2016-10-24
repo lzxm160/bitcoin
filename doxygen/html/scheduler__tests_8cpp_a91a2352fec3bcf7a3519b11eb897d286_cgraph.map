@@ -1,6 +1,0 @@
-<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
-<area shape="rect" id="node2" href="$class_c_scheduler.html#add23bb8cbef2c649ce1a5b3b67443bdc" title="CScheduler::getQueueInfo" alt="" coords="245,5,418,32"/>
-<area shape="rect" id="node3" href="$class_c_scheduler.html#a14747dc42599cc0a17f45f1767932d6e" title="CScheduler::schedule" alt="" coords="257,56,406,83"/>
-<area shape="rect" id="node4" href="$class_c_scheduler.html#a14d2800815da93577858ea078aed1fba" title="CScheduler::serviceQueue" alt="" coords="244,107,419,133"/>
-<area shape="rect" id="node5" href="$class_c_scheduler.html#a328f18f2d0eb9977180c8b091a17947a" title="CScheduler::stop" alt="" coords="270,157,393,184"/>
-</map>

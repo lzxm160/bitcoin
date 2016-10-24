@@ -1,9 +1,0 @@
-<map id="E:/renesola/work/bitcoin/src/secp256k1/src/modules/schnorr/schnorr_impl.h" name="E:/renesola/work/bitcoin/src/secp256k1/src/modules/schnorr/schnorr_impl.h">
-<area shape="rect" id="node3" href="$schnorr_8h.html" title="schnorr.h" alt="" coords="147,109,223,136"/>
-<area shape="rect" id="node5" href="$num_8h.html" title="num.h" alt="" coords="306,259,365,285"/>
-<area shape="rect" id="node6" href="$group_8h.html" title="group.h" alt="" coords="352,184,417,211"/>
-<area shape="rect" id="node7" href="$field_8h.html" title="field.h" alt="" coords="430,259,486,285"/>
-<area shape="rect" id="node8" href="$ecmult_8h.html" title="ecmult.h" alt="" coords="422,109,494,136"/>
-<area shape="rect" id="node9" href="$ecmult__gen_8h.html" title="ecmult_gen.h" alt="" coords="247,109,347,136"/>
-<area shape="rect" id="node4" href="$scalar_8h.html" title="scalar.h" alt="" coords="260,184,328,211"/>
-</map>

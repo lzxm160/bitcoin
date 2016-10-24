@@ -1,6 +1,0 @@
-<map id="CWallet::GetOldestKeyPoolTime" name="CWallet::GetOldestKeyPoolTime">
-<area shape="rect" id="node2" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="305,5,376,32"/>
-<area shape="rect" id="node3" href="$class_c_wallet_d_b.html#a6a03927cf247314ccd9b285139de0bd1" title="CWalletDB::ReadPool" alt="" coords="265,56,416,83"/>
-<area shape="rect" id="node4" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="279,107,403,133"/>
-<area shape="rect" id="node5" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="464,107,573,133"/>
-</map>

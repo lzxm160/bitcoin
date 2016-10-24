@@ -1,8 +1,0 @@
-<map id="leveldb::log::LogTest::FixChecksum" name="leveldb::log::LogTest::FixChecksum">
-<area shape="rect" id="node2" href="$namespaceleveldb_1_1crc32c.html#ac004d1e3d8c75b033c162e5ae0a5cc2c" title="leveldb::crc32c::Value" alt="" coords="198,5,347,32"/>
-<area shape="rect" id="node4" href="$namespaceleveldb_1_1crc32c.html#a3790e1e939714a29609e46383aafd6cf" title="leveldb::crc32c::Mask" alt="" coords="199,56,347,83"/>
-<area shape="rect" id="node5" href="$namespaceleveldb.html#a265d1eea2e5d8e42cf86372ed4904886" title="leveldb::EncodeFixed32" alt="" coords="193,107,352,133"/>
-<area shape="rect" id="node3" href="$namespaceleveldb_1_1crc32c.html#ac42fd0618afe635356d722fd29f5ff10" title="leveldb::crc32c::Extend" alt="" coords="400,5,557,32"/>
-<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="443,107,515,133"/>
-<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="605,107,687,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="CValidationInterface" name="CValidationInterface">
-<area shape="rect" id="node2" href="$class_c_wallet.html" title="CWallet" alt="" coords="5,80,73,107"/>
-<area shape="rect" id="node3" href="$class_c_z_m_q_notification_interface.html" title="CZMQNotificationInterface" alt="" coords="97,80,269,107"/>
-<area shape="rect" id="node4" href="$class_peer_logic_validation.html" title="PeerLogicValidation" alt="" coords="293,80,431,107"/>
-<area shape="rect" id="node5" href="$classsubmitblock___state_catcher.html" title="submitblock_StateCatcher" alt="" coords="455,80,629,107"/>
-</map>

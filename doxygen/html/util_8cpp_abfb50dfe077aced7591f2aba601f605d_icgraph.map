@@ -1,7 +1,0 @@
-<map id="ClearDatadirCache" name="ClearDatadirCache">
-<area shape="rect" id="node2" href="$struct_testing_setup.html#a81d3cce64b1f05dc2e539b10eae2336f" title="TestingSetup::TestingSetup" alt="" coords="184,5,367,32"/>
-<area shape="rect" id="node3" href="$util_8cpp.html#a0a85522daf3d5f4b167832a52303fbe9" title="ReadConfigFile" alt="" coords="221,56,330,83"/>
-<area shape="rect" id="node4" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="415,31,477,57"/>
-<area shape="rect" id="node6" href="$bitcoin_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="421,81,471,108"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="525,31,576,57"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="runCommand" name="runCommand">
-<area shape="rect" id="node2" href="$group__map_wallet.html#ga71c829a50abbcd74c1884b1f86527755" title="CWallet::AddToWallet" alt="" coords="152,31,303,57"/>
-<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#ac646a67ccde758436aef450a5f4942b1" title="importprunedfunds" alt="" coords="382,5,510,32"/>
-<area shape="rect" id="node4" href="$accounting__tests_8cpp.html#aaef771503155135bcfcc9f2acd7836a3" title="BOOST_AUTO_TEST_CASE" alt="" coords="351,56,541,83"/>
-</map>

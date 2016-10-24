@@ -1,5 +1,0 @@
-<map id="TransactionRecord::showTransaction" name="TransactionRecord::showTransaction">
-<area shape="rect" id="node2" href="$class_c_transaction.html#a274384ecbb50d71355cd287b7a6bca51" title="CTransaction::IsCoinBase" alt="" coords="193,5,365,32"/>
-<area shape="rect" id="node3" href="$class_c_merkle_tx.html#adf24748ee829f589ac8d6e99ec6121de" title="CMerkleTx::IsInMainChain" alt="" coords="192,56,365,83"/>
-<area shape="rect" id="node4" href="$class_c_merkle_tx.html#a33b4b2069da9eb54cb37e0ceb9266bed" title="CMerkleTx::GetDepthInMain\lChain" alt="" coords="413,49,599,90"/>
-</map>

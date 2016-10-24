@@ -1,9 +1,0 @@
-<map id="TransactionSignatureChecker::VerifySignature" name="TransactionSignatureChecker::VerifySignature">
-<area shape="rect" id="node2" href="$class_c_pub_key.html#ab4047c7ce31b72591d8108a2563cd21b" title="CPubKey::Verify" alt="" coords="245,148,364,175"/>
-<area shape="rect" id="node3" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="443,5,567,32"/>
-<area shape="rect" id="node4" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="647,31,756,57"/>
-<area shape="rect" id="node5" href="$secp256k1_8h.html#a4e5dc8952c9a7e791376505ef2023ca1" title="secp256k1_ec_pubkey\l_parse" alt="" coords="428,107,583,149"/>
-<area shape="rect" id="node6" href="$secp256k1_8h.html#a93ec36a19229f08acc5ff1ca613ab3a1" title="secp256k1_ecdsa_signature\l_normalize" alt="" coords="412,173,599,214"/>
-<area shape="rect" id="node7" href="$secp256k1_8h.html#a41065390f9039c4140ec04999724987d" title="secp256k1_ecdsa_verify" alt="" coords="424,239,587,265"/>
-<area shape="rect" id="node8" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="445,289,565,316"/>
-</map>

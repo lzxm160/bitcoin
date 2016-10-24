@@ -1,7 +1,0 @@
-<map id="CDB::Rewrite" name="CDB::Rewrite">
-<area shape="rect" id="node2" href="$class_c_d_b_env.html#ac53fd53afdd1e0881b8ffbb11a89b556" title="CDBEnv::CloseDb" alt="" coords="174,5,301,32"/>
-<area shape="rect" id="node3" href="$class_c_d_b_env.html#aa4e0fe52dfc0da22fe9bf59eeda57fba" title="CDBEnv::CheckpointLSN" alt="" coords="153,56,321,83"/>
-<area shape="rect" id="node4" href="$class_c_data_stream.html#ac6567f6d600d644d9855b52bb59049cd" title="CDataStream::size" alt="" coords="171,107,303,133"/>
-<area shape="rect" id="node5" href="$class_c_data_stream.html#ade6ed9a3a481e333900e6496707b9692" title="CDataStream::clear" alt="" coords="169,157,305,184"/>
-<area shape="rect" id="node6" href="$utiltime_8cpp.html#ac635182d3e845eda4af4fa5ab31609da" title="MilliSleep" alt="" coords="198,208,277,235"/>
-</map>

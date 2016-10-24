@@ -1,9 +1,0 @@
-<map id="BIP32Hash" name="BIP32Hash">
-<area shape="rect" id="node2" href="$class_c_key.html#a1bae09b7447a951d8fc3328b7dcc3a3f" title="Derive BIP32 child key. " alt="" coords="151,5,249,32"/>
-<area shape="rect" id="node7" href="$class_c_pub_key.html#add183528b09791bdd0f982e63308d263" title="Derive BIP32 child pubkey. " alt="" coords="140,56,260,83"/>
-<area shape="rect" id="node3" href="$struct_c_ext_key.html#a2fa3a39434ae09efbbd4058d1d081aa2" title="CExtKey::Derive" alt="" coords="319,5,437,32"/>
-<area shape="rect" id="node4" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="555,56,625,83"/>
-<area shape="rect" id="node6" href="$group__map_wallet.html#ga629c0f12c6e7fe17be399a77e382ccd5" title="CWallet::DeriveNewChildKey" alt="" coords="496,5,684,32"/>
-<area shape="rect" id="node5" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="732,56,923,83"/>
-<area shape="rect" id="node8" href="$struct_c_ext_pub_key.html#a404798f7d800ffb539cf97431025597f" title="CExtPubKey::Derive" alt="" coords="308,56,448,83"/>
-</map>

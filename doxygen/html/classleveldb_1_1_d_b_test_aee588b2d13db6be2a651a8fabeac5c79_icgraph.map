@@ -1,6 +1,0 @@
-<map id="leveldb::DBTest::TryReopen" name="leveldb::DBTest::TryReopen">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_test.html#a38170a082cbc71fb446408ff5634c797" title="leveldb::DBTest::Reopen" alt="" coords="237,5,401,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_d_b_test.html#ab798a43e7feab6dddc8fa1eb7a5f61f6" title="leveldb::DBTest::Destroy\lAndReopen" alt="" coords="236,57,401,98"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_d_b_test.html#afc6fc9512e900de6ee10c5db15b22930" title="leveldb::DBTest::DBTest" alt="" coords="473,5,635,32"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_d_b_test.html#a587534fe403016f15cf1997ef7a40836" title="leveldb::DBTest::ChangeOptions" alt="" coords="449,64,659,91"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="CWallet::AddToWalletIfInvolvingMe" name="CWallet::AddToWalletIfInvolvingMe">
-<area shape="rect" id="node2" href="$class_c_transaction.html#afb3b0e4dc81349259ba6526a34e88990" title="CTransaction::GetHash" alt="" coords="292,5,449,32"/>
-<area shape="rect" id="node3" href="$classbase__blob.html#a1a26b5da921f48b09b228d1bfda05088" title="base_blob::ToString" alt="" coords="302,56,439,83"/>
-<area shape="rect" id="node4" href="$class_c_block_index.html#ab843ef9b8b0a0193ec3a5c24738e484f" title="CBlockIndex::GetBlockHash" alt="" coords="515,132,701,159"/>
-<area shape="rect" id="node5" href="$ismine_8cpp.html#a60a6865dd5664b8e9878a5380ca3e359" title="IsMine" alt="" coords="341,181,401,208"/>
-<area shape="rect" id="node6" href="$class_c_merkle_tx.html#a122f9dc82b6765bf7076e46fb1df020c" title="CMerkleTx::SetMerkleBranch" alt="" coords="275,232,467,259"/>
-<area shape="rect" id="node7" href="$class_c_chain.html#a1ab1fe2932227af222699c64847e838b" title="CChain::Contains" alt="" coords="547,207,669,233"/>
-<area shape="rect" id="node8" href="$class_c_chain.html#a0c4ffb8501acfb8a7e1c0f5e6322ada3" title="CChain::Height" alt="" coords="553,257,663,284"/>
-</map>

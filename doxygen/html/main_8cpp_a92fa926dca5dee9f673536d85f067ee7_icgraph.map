@@ -1,9 +1,0 @@
-<map id="FindBlockPos" name="FindBlockPos">
-<area shape="rect" id="node2" href="$main_8h.html#aaf2e19311fff6b9cd421a9a9d59f7ff1" title="InitBlockIndex" alt="" coords="156,56,259,83"/>
-<area shape="rect" id="node3" href="$init_8cpp.html#a0189c34248cd89bbbe20d4d6045bd7c9" title="ThreadImport" alt="" coords="349,5,447,32"/>
-<area shape="rect" id="node4" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="537,31,607,57"/>
-<area shape="rect" id="node8" href="$struct_testing_setup.html#a81d3cce64b1f05dc2e539b10eae2336f" title="TestingSetup::TestingSetup" alt="" coords="307,107,489,133"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="695,5,758,32"/>
-<area shape="rect" id="node7" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="655,56,799,83"/>
-<area shape="rect" id="node6" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="847,5,897,32"/>
-</map>

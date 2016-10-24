@@ -1,4 +1,0 @@
-<map id="TorControlConnection::Connect" name="TorControlConnection::Connect">
-<area shape="rect" id="node2" href="$class_tor_controller.html#ab38d90df15a9e3f2c6e1f4f24073a64e" title="TorController::TorController" alt="" coords="200,5,376,32"/>
-<area shape="rect" id="node3" href="$class_tor_controller.html#ae5d4304836fce79574ec540c5ada8269" title="TorController::Reconnect" alt="" coords="205,56,371,83"/>
-</map>

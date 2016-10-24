@@ -1,4 +1,0 @@
-<map id="leveldb::Status::IOError" name="leveldb::Status::IOError">
-<area shape="rect" id="node2" href="$classleveldb_1_1_special_env.html#a2a8b88051ccc5f957321d47af0dae5ed" title="leveldb::SpecialEnv\l::NewWritableFile" alt="" coords="217,5,350,47"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1test_1_1_error_env.html#a2990be71c7fb9473bd1fa0f8da8fd078" title="leveldb::test::ErrorEnv\l::NewWritableFile" alt="" coords="209,71,357,112"/>
-</map>

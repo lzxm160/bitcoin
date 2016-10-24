@@ -1,6 +1,0 @@
-<map id="leveldb::EnvWrapper::GetChildren" name="leveldb::EnvWrapper::GetChildren">
-<area shape="rect" id="node2" href="$classleveldb_1_1_corruption_test.html#a22060ac0a3697640cdcf36973339b646" title="leveldb::CorruptionTest\l::Corrupt" alt="" coords="231,5,385,47"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_d_b_test.html#a0c6c0c1d470a50fdcb6cdbc54977e907" title="leveldb::DBTest::CountFiles" alt="" coords="217,71,399,98"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_d_b_test.html#abcb2ebeb0733670d7634079c587426d2" title="leveldb::DBTest::DeleteAn\lSSTFile" alt="" coords="221,123,395,164"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_d_b_test.html#a104ae4b9292787d0cfc9a9fb93cc5fa8" title="leveldb::DBTest::RenameLDBToSST" alt="" coords="192,189,424,215"/>
-</map>

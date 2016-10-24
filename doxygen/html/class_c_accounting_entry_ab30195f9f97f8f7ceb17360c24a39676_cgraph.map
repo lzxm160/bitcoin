@@ -1,6 +1,0 @@
-<map id="CAccountingEntry::SerializationOp" name="CAccountingEntry::SerializationOp">
-<area shape="rect" id="node2" href="$class_c_data_stream.html#a191a18802fbc0861ae118d79d33088dc" title="CDataStream::insert" alt="" coords="276,5,416,32"/>
-<area shape="rect" id="node3" href="$class_c_data_stream.html#a5b9e70188c662f4e9496066472af213e" title="CDataStream::begin" alt="" coords="464,81,603,108"/>
-<area shape="rect" id="node4" href="$class_c_data_stream.html#a1c22182691412ed9e0a30b719d388f31" title="CDataStream::end" alt="" coords="469,144,598,171"/>
-<area shape="rect" id="node5" href="$class_c_data_stream.html#aa3a9ecf166f36f4ea531d2b23628d2c9" title="CDataStream::str" alt="" coords="285,107,407,133"/>
-</map>

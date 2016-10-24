@@ -1,8 +1,0 @@
-<map id="TestMemPoolEntryHelper" name="TestMemPoolEntryHelper">
-<area shape="rect" id="node2" href="$struct_lock_points.html" title="LockPoints" alt="" coords="97,277,184,304"/>
-<area shape="rect" id="node3" href="$class_c_block_index.html" title="CBlockIndex" alt="" coords="93,187,188,213"/>
-<area shape="rect" id="node4" href="$classuint256.html" title="uint256" alt="" coords="39,81,103,108"/>
-<area shape="rect" id="node5" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="5,5,132,32"/>
-<area shape="rect" id="node6" href="$classarith__uint256.html" title="arith_uint256" alt="" coords="169,81,265,108"/>
-<area shape="rect" id="node7" href="$classbase__uint.html" title="base_uint\&lt; 256 \&gt;" alt="" coords="157,5,279,32"/>
-</map>

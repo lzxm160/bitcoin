@@ -1,7 +1,0 @@
-<map id="CAddrMan::size" name="CAddrMan::size">
-<area shape="rect" id="node2" href="$class_c_addr_man.html#a27e51ef4fe86db1ff5a5e45caefc1ef4" title="Select an address to connect to, if newOnly is set to true, only the new table is selected from..." alt="" coords="199,5,334,32"/>
-<area shape="rect" id="node4" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="589,31,780,57"/>
-<area shape="rect" id="node5" href="$class_c_connman.html#ae09c06eaaf69a5235af11e129f1451e1" title="CConnman::Start" alt="" coords="205,107,328,133"/>
-<area shape="rect" id="node6" href="$class_c_connman.html#a187d24f320e62840569f38e53762c27b" title="CConnman::GetAddressCount" alt="" coords="168,157,365,184"/>
-<area shape="rect" id="node3" href="$class_c_addr_man.html#a6279e9fdd1b78378c016087daf09a439" title="CAddrMan::Select" alt="" coords="413,5,541,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Java_org_bitcoin_NativeSecp256k1_secp256k1_1ecdsa_1verify" name="Java_org_bitcoin_NativeSecp256k1_secp256k1_1ecdsa_1verify">
-<area shape="rect" id="node2" href="$secp256k1_8h.html#a57d390dd5baa54855b0cb20628034b90" title="secp256k1_ecdsa_signature\l_parse_der" alt="" coords="277,5,464,47"/>
-<area shape="rect" id="node3" href="$secp256k1_8h.html#a4e5dc8952c9a7e791376505ef2023ca1" title="secp256k1_ec_pubkey\l_parse" alt="" coords="293,71,448,112"/>
-<area shape="rect" id="node4" href="$secp256k1_8h.html#a41065390f9039c4140ec04999724987d" title="secp256k1_ecdsa_verify" alt="" coords="289,137,452,163"/>
-</map>

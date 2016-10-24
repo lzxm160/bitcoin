@@ -1,8 +1,0 @@
-<map id="GenerateCoinbaseCommitment" name="GenerateCoinbaseCommitment">
-<area shape="rect" id="node2" href="$class_block_assembler.html#acd45f01ed2556e805c82907def19efcb" title="BlockAssembler::CreateNew\lBlock" alt="" coords="256,49,444,90"/>
-<area shape="rect" id="node3" href="$mining_8cpp.html#a054ca23f5d86a8ca30138464ba10008c" title="getblocktemplate" alt="" coords="513,5,635,32"/>
-<area shape="rect" id="node4" href="$miner__tests_8cpp.html#aeed1f0d9588f9aecb80a2f7b82d0941e" title="TestPackageSelection" alt="" coords="498,56,650,83"/>
-<area shape="rect" id="node6" href="$struct_test_chain100_setup.html#a5602b576453958c0e53b293e9ed7db46" title="TestChain100Setup::\lCreateAndProcessBlock" alt="" coords="492,107,656,149"/>
-<area shape="rect" id="node5" href="$miner__tests_8cpp.html#a16194bc75f1143f76bd63ad080cf086c" title="BOOST_AUTO_TEST_CASE" alt="" coords="704,56,895,83"/>
-<area shape="rect" id="node7" href="$struct_test_chain100_setup.html#a9bafd1cd7a64c6c936764e620dd26bf3" title="TestChain100Setup::\lTestChain100Setup" alt="" coords="728,107,871,149"/>
-</map>

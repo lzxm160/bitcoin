@@ -1,4 +1,0 @@
-<map id="WalletModelTransaction::getPossibleKeyChange" name="WalletModelTransaction::getPossibleKeyChange">
-<area shape="rect" id="node2" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="219,5,431,32"/>
-<area shape="rect" id="node3" href="$class_wallet_model.html#a53443aca544c824550f21e5f87e4ec39" title="WalletModel::sendCoins" alt="" coords="243,56,406,83"/>
-</map>

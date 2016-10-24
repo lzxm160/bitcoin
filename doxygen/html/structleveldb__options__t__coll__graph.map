@@ -1,8 +1,0 @@
-<map id="leveldb_options_t" name="leveldb_options_t">
-<area shape="rect" id="node2" href="$structleveldb_1_1_options.html" title="leveldb::Options" alt="" coords="267,107,381,133"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_filter_policy.html" title="leveldb::FilterPolicy" alt="" coords="6,5,141,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_logger.html" title="leveldb::Logger" alt="" coords="19,56,127,83"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_env.html" title="leveldb::Env" alt="" coords="28,107,119,133"/>
-<area shape="rect" id="node6" href="$structleveldb_1_1_comparator.html" title="leveldb::Comparator" alt="" coords="5,157,141,184"/>
-<area shape="rect" id="node7" href="$classleveldb_1_1_cache.html" title="leveldb::Cache" alt="" coords="20,208,127,235"/>
-</map>

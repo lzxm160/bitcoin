@@ -1,7 +1,0 @@
-<map id="leveldb::SomeFileOverlapsRange" name="leveldb::SomeFileOverlapsRange">
-<area shape="rect" id="node2" href="$classleveldb_1_1_version.html#a7945e88b8a4f2f7b6f3201cb3d791f1e" title="leveldb::Version::Overlap\lInLevel" alt="" coords="228,37,392,79"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_find_file_test.html#a617e51dc2e6acbe7d5bc6d0a7224ac51" title="leveldb::FindFileTest\l::Overlaps" alt="" coords="240,103,380,144"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_d_b_impl.html#aa6df0739fc0b49380c284347e411b8ed" title="leveldb::DBImpl::Compact\lRange" alt="" coords="443,5,613,47"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_version.html#ac3b623319110ed2a9491723dd4675431" title="leveldb::Version::PickLevel\lForMemTableOutput" alt="" coords="440,71,616,112"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#a2bb2a098a32d42044e6be132020b29b0" title="leveldb::TEST" alt="" coords="664,13,765,39"/>
-</map>

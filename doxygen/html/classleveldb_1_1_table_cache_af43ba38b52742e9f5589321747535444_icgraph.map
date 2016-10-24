@@ -1,5 +1,0 @@
-<map id="leveldb::TableCache::Get" name="leveldb::TableCache::Get">
-<area shape="rect" id="node2" href="$classleveldb_1_1_version.html#a42c439d4a2a767fe281c7a75d4255038" title="leveldb::Version::Get" alt="" coords="220,5,363,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_d_b_impl.html#a089964ddcd1f5dc85e73499ae57be508" title="leveldb::DBImpl::Get" alt="" coords="411,5,551,32"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#acc1b0ed2e8e9e4e6b930a1727d9fe0f8" title="leveldb::TEST" alt="" coords="599,5,700,32"/>
-</map>

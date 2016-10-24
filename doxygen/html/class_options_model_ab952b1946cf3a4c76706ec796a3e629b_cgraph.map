@@ -1,7 +1,0 @@
-<map id="OptionsModel::Reset" name="OptionsModel::Reset">
-<area shape="rect" id="node2" href="$class_intro.html#aad225845533fc7f451648dc7c9643e6a" title="Intro::getDefaultDataDirectory" alt="" coords="197,31,389,57"/>
-<area shape="rect" id="node5" href="$namespace_g_u_i_util.html#adca0cdbc1de324bc53c891bdcafa6513" title="GUIUtil::GetStartOnSystem\lStartup" alt="" coords="202,82,385,123"/>
-<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#a82afe76b9469d777217438a25ab7f95e" title="GUIUtil::SetStartOnSystem\lStartup" alt="" coords="203,147,384,189"/>
-<area shape="rect" id="node3" href="$namespace_g_u_i_util.html#a8bbd2bea6cbc55658e8496603d1fd564" title="GUIUtil::boostPathToQString" alt="" coords="437,5,625,32"/>
-<area shape="rect" id="node4" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="468,56,595,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="PartiallyDownloadedBlock" name="PartiallyDownloadedBlock">
-<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html" title="CTxMemPool" alt="" coords="202,291,302,317"/>
-<area shape="rect" id="node3" href="$classindirectmap.html" title="indirectmap\&lt; COutPoint,\l const CTransaction * \&gt;" alt="" coords="5,172,171,213"/>
-<area shape="rect" id="node4" href="$class_c_critical_section.html" title="CCriticalSection" alt="" coords="195,179,309,206"/>
-<area shape="rect" id="node5" href="$class_annotated_mixin.html" title="AnnotatedMixin\&lt; boost\l::recursive_mutex \&gt;" alt="" coords="170,81,326,123"/>
-<area shape="rect" id="node7" href="$class_c_block_header.html" title="CBlockHeader" alt="" coords="331,291,437,317"/>
-<area shape="rect" id="node8" href="$classuint256.html" title="uint256" alt="" coords="380,179,444,206"/>
-<area shape="rect" id="node9" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="350,89,477,115"/>
-</map>

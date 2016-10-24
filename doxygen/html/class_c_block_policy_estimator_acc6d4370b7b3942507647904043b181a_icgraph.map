@@ -1,8 +1,0 @@
-<map id="CBlockPolicyEstimator::estimateSmartFee" name="CBlockPolicyEstimator::estimateSmartFee">
-<area shape="rect" id="node2" href="$class_c_tx_mem_pool.html#ad71c73ef57c626a00f5a4e5c3daae748" title="CTxMemPool::estimateSmartFee" alt="" coords="209,55,424,81"/>
-<area shape="rect" id="node3" href="$class_coin_control_dialog.html#a4fc60e89b097952ff22dc0f9c58c87d9" title="CoinControlDialog::\lupdateLabels" alt="" coords="711,47,844,89"/>
-<area shape="rect" id="node5" href="$mining_8cpp.html#ac42427ba4c097cf34d08567b3e876d6f" title="estimatesmartfee" alt="" coords="506,29,629,56"/>
-<area shape="rect" id="node6" href="$policyestimator__tests_8cpp.html#a16bb8afdd1c29d823bb04824dc255a28" title="BOOST_AUTO_TEST_CASE" alt="" coords="472,80,663,107"/>
-<area shape="rect" id="node7" href="$group___actions.html#ga64a76474added26d9fbf904b5dd978a8" title="CWallet::GetMinimumFee" alt="" coords="481,131,653,157"/>
-<area shape="rect" id="node4" href="$class_coin_control_dialog.html#a4c34a48574814089c54f763a22f5317a" title="CoinControlDialog::\lsetModel" alt="" coords="892,47,1025,89"/>
-</map>

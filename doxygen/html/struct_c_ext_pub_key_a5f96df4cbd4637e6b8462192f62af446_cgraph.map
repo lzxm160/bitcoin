@@ -1,7 +1,0 @@
-<map id="CExtPubKey::Encode" name="CExtPubKey::Encode">
-<area shape="rect" id="node2" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="227,5,299,32"/>
-<area shape="rect" id="node4" href="$classbase__blob.html#aeee68e00ceeacf49086e98b661e017ff" title="base_blob::begin" alt="" coords="203,56,323,83"/>
-<area shape="rect" id="node5" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="208,107,317,133"/>
-<area shape="rect" id="node6" href="$class_c_pub_key.html#add9987e0d25aff11181f5ad70413994b" title="CPubKey::begin" alt="" coords="205,157,321,184"/>
-<area shape="rect" id="node3" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="371,5,452,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="ParseHashUV" name="ParseHashUV">
-<area shape="rect" id="node2" href="$class_uni_value.html#ab2a363f4deef3cc0088845e9e171bf50" title="UniValue::isStr" alt="" coords="171,5,280,32"/>
-<area shape="rect" id="node3" href="$class_uni_value.html#ae8e17c2a90b668d0771a0523d70cd70d" title="UniValue::getValStr" alt="" coords="157,56,293,83"/>
-<area shape="rect" id="node4" href="$core__read_8cpp.html#a88b7c3595e9fa53eace6500430611810" title="ParseHashStr" alt="" coords="174,107,277,133"/>
-<area shape="rect" id="node5" href="$utilstrencodings_8cpp.html#aa4e3553d2b2fe693c106f4296685f75c" title="IsHex" alt="" coords="380,81,435,108"/>
-<area shape="rect" id="node7" href="$classbase__blob.html#a5ec1f681a2830f4e180fe664c0eb4dd0" title="base_blob::SetHex" alt="" coords="341,132,473,159"/>
-<area shape="rect" id="node6" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="521,107,592,133"/>
-</map>

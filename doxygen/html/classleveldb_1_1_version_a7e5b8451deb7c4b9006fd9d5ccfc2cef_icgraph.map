@@ -1,6 +1,0 @@
-<map id="leveldb::Version::UpdateStats" name="leveldb::Version::UpdateStats">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_impl.html#a089964ddcd1f5dc85e73499ae57be508" title="leveldb::DBImpl::Get" alt="" coords="227,5,367,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_version.html#a8b9e51b3d0503fe5868f656356557ded" title="leveldb::Version::Record\lReadSample" alt="" coords="216,57,379,98"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#acc1b0ed2e8e9e4e6b930a1727d9fe0f8" title="leveldb::TEST" alt="" coords="471,5,573,32"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_d_b_impl.html#a254ae98e3425046c28ed0aa6d78b37d8" title="leveldb::DBImpl::RecordRead\lSample" alt="" coords="427,57,617,98"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="UnloadBlockIndex" name="UnloadBlockIndex">
-<area shape="rect" id="node2" href="$class_c_chain.html#aeb563751f7362d4308c7c2cb35b834a5" title="CChain::SetTip" alt="" coords="207,5,317,32"/>
-<area shape="rect" id="node3" href="$class_c_tx_mem_pool.html#a6dba6bce4139392751321438a29b6b09" title="CTxMemPool::clear" alt="" coords="194,56,330,83"/>
-<area shape="rect" id="node7" href="$struct_version_bits_cache.html#ab94b6d7a6d393ddcdb0498a6fe517733" title="VersionBitsCache::Clear" alt="" coords="180,107,344,133"/>
-<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#a2d04be1a3e144d466d45a5f1ec48f62c" title="CTxMemPool::_clear" alt="" coords="392,56,535,83"/>
-<area shape="rect" id="node5" href="$classindirectmap.html#aead8c59875ae64dd8507e27bf948263f" title="indirectmap::clear" alt="" coords="583,31,708,57"/>
-<area shape="rect" id="node6" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="610,81,681,108"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="UniValue::get_bool" name="UniValue::get_bool">
-<area shape="rect" id="node2" href="$rawtransaction_8cpp.html#a962b2890c7be4b92841eb288e5a2aca5" title="sendrawtransaction" alt="" coords="212,5,347,32"/>
-<area shape="rect" id="node3" href="$base58__tests_8cpp.html#ac3fd789edd04736fe905e3ffdc901bc9" title="BOOST_AUTO_TEST_CASE" alt="" coords="184,56,375,83"/>
-<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#ac107d90133b49cec9907e032c2a001ca" title="lockunspent" alt="" coords="233,107,325,133"/>
-<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a78cbbebe13bd498eda54ea6b350979fc" title="fundrawtransaction" alt="" coords="214,157,345,184"/>
-</map>

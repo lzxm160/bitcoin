@@ -1,5 +1,0 @@
-<map id="CPubKey::IsFullyValid" name="CPubKey::IsFullyValid">
-<area shape="rect" id="node2" href="$class_c_pub_key.html#aad6f369d7972f2244466ca6db900c2a4" title="CPubKey::IsValid" alt="" coords="221,5,345,32"/>
-<area shape="rect" id="node3" href="$class_c_pub_key.html#a9d7129b65b6dee792b4f3923cd64ed59" title="Simple read&#45;only vector&#45;like interface to the pubkey data. " alt="" coords="408,31,517,57"/>
-<area shape="rect" id="node4" href="$secp256k1_8h.html#a4e5dc8952c9a7e791376505ef2023ca1" title="secp256k1_ec_pubkey\l_parse" alt="" coords="205,107,360,149"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="CCoins::ClearUnspendable" name="CCoins::ClearUnspendable">
-<area shape="rect" id="node2" href="$class_c_coins.html#abf67e501a1d207c892c1f52dd383956e" title="CCoins::FromTx" alt="" coords="233,56,349,83"/>
-<area shape="rect" id="node5" href="$main_8h.html#a8611a8552630b4821d47a4a154890a30" title="DisconnectBlock" alt="" coords="231,107,351,133"/>
-<area shape="rect" id="node3" href="$class_c_coins.html#a303f3b245c339c11a1ea4318b01ec290" title="construct a CCoins from a CTransaction, at a given height " alt="" coords="437,5,551,32"/>
-<area shape="rect" id="node4" href="$coins__tests_8cpp.html#af3770f27be29a13e0309d2a31fe30eff" title="BOOST_AUTO_TEST_CASE" alt="" coords="399,56,589,83"/>
-<area shape="rect" id="node6" href="$class_c_verify_d_b.html#af12e07230f20d23cf01d417d0e785c49" title="CVerifyDB::VerifyDB" alt="" coords="423,107,565,133"/>
-<area shape="rect" id="node7" href="$blockchain_8cpp.html#a30b96575c158ca0465dbdb25705c4ca9" title="verifychain" alt="" coords="637,107,720,133"/>
-</map>

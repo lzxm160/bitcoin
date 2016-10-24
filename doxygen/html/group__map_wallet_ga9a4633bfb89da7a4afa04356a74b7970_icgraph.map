@@ -1,4 +1,0 @@
-<map id="CWallet::AbandonTransaction" name="CWallet::AbandonTransaction">
-<area shape="rect" id="node2" href="$class_wallet_model.html#a2d3697eb770da294ceb8f10ac1c98a53" title="WalletModel::abandonTransaction" alt="" coords="248,5,467,32"/>
-<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#abc239ad121adf1f1e79ecb284a6a6821" title="abandontransaction" alt="" coords="290,56,425,83"/>
-</map>

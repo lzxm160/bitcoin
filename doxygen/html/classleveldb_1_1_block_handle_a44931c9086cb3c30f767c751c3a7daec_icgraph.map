@@ -1,6 +1,0 @@
-<map id="leveldb::BlockHandle::size" name="leveldb::BlockHandle::size">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#a63198fc7656081fd62695dade629790b" title="leveldb::ReadBlock" alt="" coords="201,13,333,39"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_block_handle.html#a47a4169dce3026122b76d594453b78a8" title="leveldb::BlockHandle\l::set_size" alt="" coords="196,64,339,105"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_table.html#aa25d0e074ab4de46e583522a8c0e9582" title="leveldb::Table::Open" alt="" coords="387,13,525,39"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_table_constructor.html#aa8ce3799a55859c2dee50d3e08f56ef2" title="leveldb::TableConstructor\l::FinishImpl" alt="" coords="573,5,740,47"/>
-</map>

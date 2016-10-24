@@ -1,5 +1,0 @@
-<map id="ecdsa_signature_parse_der_lax" name="ecdsa_signature_parse_der_lax">
-<area shape="rect" id="node2" href="$secp256k1_8h.html#a2aff2802eca3d15ec54298e879579897" title="secp256k1_ecdsa_signature\l_parse_compact" alt="" coords="209,5,396,47"/>
-<area shape="rect" id="node3" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="267,71,339,98"/>
-<area shape="rect" id="node4" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="444,71,525,98"/>
-</map>

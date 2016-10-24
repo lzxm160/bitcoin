@@ -1,7 +1,0 @@
-<map id="CAddrInfo::IsTerrible" name="CAddrInfo::IsTerrible">
-<area shape="rect" id="node2" href="$class_c_addr_man.html#a9dd6df8b1904548a86054d19d4a90724" title="Add an entry to the &quot;new&quot; table. " alt="" coords="192,56,313,83"/>
-<area shape="rect" id="node3" href="$class_c_addr_man.html#a03fcc7109b5f014760dc50a81f68c5ec" title="Add a single address. " alt="" coords="361,56,476,83"/>
-<area shape="rect" id="node4" href="$class_c_connman.html#a3b4209a685463cdceeefa0924e4a5f68" title="CConnman::AddNewAddress" alt="" coords="531,5,721,32"/>
-<area shape="rect" id="node5" href="$class_c_connman.html#a47d9024273a8c421fa7de641c30e9081" title="CConnman::AddNewAddresses" alt="" coords="524,56,728,83"/>
-<area shape="rect" id="node6" href="$addrman__tests_8cpp.html#a8b2a1d85afb1cc902663367e3b9467ea" title="BOOST_AUTO_TEST_CASE" alt="" coords="531,107,721,133"/>
-</map>

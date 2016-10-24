@@ -1,4 +1,0 @@
-<map id="CWallet::CreateTransaction" name="CWallet::CreateTransaction">
-<area shape="rect" id="node2" href="$class_wallet_model.html#a8abc851901c7c7343ebfb5a8e5fc0154" title="WalletModel::prepareTransaction" alt="" coords="235,5,447,32"/>
-<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a02c1a7b5244896e62bc5ae698f7a76c9" title="sendmany" alt="" coords="299,56,382,83"/>
-</map>

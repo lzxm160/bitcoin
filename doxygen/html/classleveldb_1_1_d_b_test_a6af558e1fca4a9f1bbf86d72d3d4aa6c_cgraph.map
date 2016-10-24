@@ -1,8 +1,0 @@
-<map id="leveldb::DBTest::Get" name="leveldb::DBTest::Get">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b.html#ad43bd7937b9af88ff856eb8158890911" title="leveldb::DB::Get" alt="" coords="227,5,343,32"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_status.html#ad5462f26196fc04d72221d2fdf1872ca" title="leveldb::Status::IsNotFound" alt="" coords="195,56,376,83"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_status.html#ab31e89a858c766716e3dc952be857c65" title="leveldb::Status::ok" alt="" coords="221,107,350,133"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_status.html#aa8b56d8fe2cd1873778de5d1e5407866" title="leveldb::Status::ToString" alt="" coords="204,157,367,184"/>
-<area shape="rect" id="node6" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="424,157,496,184"/>
-<area shape="rect" id="node7" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="544,157,625,184"/>
-</map>

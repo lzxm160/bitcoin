@@ -1,5 +1,0 @@
-<map id="GetVirtualTransactionSize" name="GetVirtualTransactionSize">
-<area shape="rect" id="node2" href="$policy_8cpp.html#a657a593ec90452062582ccf893a8488d" title="GetVirtualTransactionSize" alt="" coords="227,5,400,32"/>
-<area shape="rect" id="node3" href="$transaction_8cpp.html#adbe124f66287a512034ae1236202b1ee" title="GetTransactionWeight" alt="" coords="238,56,389,83"/>
-<area shape="rect" id="node4" href="$serialize_8h.html#a48239e478ae730373d1984fe304ca025" title="GetSerializeSize" alt="" coords="448,56,567,83"/>
-</map>

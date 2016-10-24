@@ -1,9 +1,0 @@
-<map id="GetLocalAddress" name="GetLocalAddress">
-<area shape="rect" id="node2" href="$net_8cpp.html#af6d341a24d761a509fca026458cf2f72" title="GetListenPort" alt="" coords="186,43,289,69"/>
-<area shape="rect" id="node5" href="$net_8cpp.html#a51605827c953a7843f9b165eada26857" title="GetLocal" alt="" coords="200,93,275,120"/>
-<area shape="rect" id="node6" href="$timedata_8cpp.html#a09f81b9c7650f898cf3cf305b87547e6" title="GetAdjustedTime" alt="" coords="176,144,299,171"/>
-<area shape="rect" id="node3" href="$util_8cpp.html#a24f685720bf40370e5bd2a192ad50cd8" title="GetArg" alt="" coords="368,5,431,32"/>
-<area shape="rect" id="node4" href="$chainparams_8cpp.html#ace5c5b706d71a324a417dd2db394fd4a" title="Params" alt="" coords="366,56,433,83"/>
-<area shape="rect" id="node7" href="$utiltime_8cpp.html#a46fac5fba8ba905b5f9acb364f5d8c6f" title="GetTime" alt="" coords="364,119,435,145"/>
-<area shape="rect" id="node8" href="$timedata_8cpp.html#a50ca5344c75631267633f15cfe5e983e" title="GetTimeOffset" alt="" coords="347,169,452,196"/>
-</map>

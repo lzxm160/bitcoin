@@ -1,6 +1,0 @@
-<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
-<area shape="rect" id="node2" href="$test_2crypto__tests_8cpp.html#a64652512d7b4de236d232bc6b3f0ea1f" title="TestSHA256" alt="" coords="244,31,339,57"/>
-<area shape="rect" id="node3" href="$test_2crypto__tests_8cpp.html#a15504f4eed2c875dcb63714a74278b73" title="TestVector" alt="" coords="387,5,472,32"/>
-<area shape="rect" id="node4" href="$utilstrencodings_8cpp.html#abea395175fbc4a788ed0f0a41710b8a7" title="ParseHex" alt="" coords="390,56,469,83"/>
-<area shape="rect" id="node5" href="$utilstrencodings_8cpp.html#aa59e8a8c5a39cb5041f93bb95dd02119" title="HexDigit" alt="" coords="520,56,591,83"/>
-</map>

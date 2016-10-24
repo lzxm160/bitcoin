@@ -1,4 +1,0 @@
-<map id="CoinControlDialog" name="CoinControlDialog">
-<area shape="rect" id="node3" href="$class_c_coin_control.html" title="CCoinControl" alt="" coords="98,95,197,121"/>
-<area shape="rect" id="node4" href="$class_c_fee_rate.html" title="CFeeRate" alt="" coords="107,5,187,32"/>
-</map>

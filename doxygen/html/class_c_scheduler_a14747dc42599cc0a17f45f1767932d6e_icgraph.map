@@ -1,6 +1,0 @@
-<map id="CScheduler::schedule" name="CScheduler::schedule">
-<area shape="rect" id="node2" href="$class_c_scheduler.html#ad5faa192176dc51e3c68356589934b7a" title="CScheduler::scheduleFromNow" alt="" coords="203,5,407,32"/>
-<area shape="rect" id="node5" href="$scheduler__tests_8cpp.html#a91a2352fec3bcf7a3519b11eb897d286" title="BOOST_AUTO_TEST_CASE" alt="" coords="209,56,400,83"/>
-<area shape="rect" id="node3" href="$class_c_scheduler.html#ad7fcff70877bf1d84f30c1137bba816f" title="CScheduler::scheduleEvery" alt="" coords="455,5,636,32"/>
-<area shape="rect" id="node4" href="$class_c_connman.html#ae09c06eaaf69a5235af11e129f1451e1" title="CConnman::Start" alt="" coords="684,5,807,32"/>
-</map>

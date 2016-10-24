@@ -1,8 +1,0 @@
-<map id="CWalletDB::ReadPool" name="CWalletDB::ReadPool">
-<area shape="rect" id="node2" href="$group___actions.html#ga9921854840668a1856998f041177dd2b" title="CWallet::ReserveKeyFromKeyPool" alt="" coords="204,5,428,32"/>
-<area shape="rect" id="node3" href="$group___actions.html#ga2555a9442e58b3c5593fef21f1b39d2d" title="CWallet::GetOldestKeyPoolTime" alt="" coords="210,56,422,83"/>
-<area shape="rect" id="node6" href="$group___actions.html#gafb9667058b54ae153b0897684ddb9f20" title="CWallet::GetAllReserveKeys" alt="" coords="222,107,410,133"/>
-<area shape="rect" id="node4" href="$misc_8cpp.html#ade6e4d8f2279de00350dea14e978235e" title="getinfo" alt="" coords="493,5,553,32"/>
-<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a28a02b96aa185b33ba6cfbd96b99cebc" title="getwalletinfo" alt="" coords="476,56,569,83"/>
-<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a84626901983e76a517c35e461a9a9442" title="dumpwallet" alt="" coords="479,107,566,133"/>
-</map>

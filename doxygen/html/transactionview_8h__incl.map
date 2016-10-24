@@ -1,9 +1,0 @@
-<map id="E:/renesola/work/bitcoin/src/qt/transactionview.h" name="E:/renesola/work/bitcoin/src/qt/transactionview.h">
-<area shape="rect" id="node2" href="$guiutil_8h.html" title="guiutil.h" alt="" coords="1458,95,1525,121"/>
-<area shape="rect" id="node3" href="$amount_8h.html" title="amount.h" alt="" coords="1010,169,1086,196"/>
-<area shape="rect" id="node4" href="$serialize_8h.html" title="serialize.h" alt="" coords="584,244,666,271"/>
-<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="31,319,150,345"/>
-<area shape="rect" id="node6" href="$stdint_8h.html" title="stdint.h" alt="" coords="110,468,175,495"/>
-<area shape="rect" id="node18" href="$prevector_8h.html" title="prevector.h" alt="" coords="910,319,996,345"/>
-<area shape="rect" id="node7" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="23,393,158,420"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RegisterWalletRPCCommands" name="RegisterWalletRPCCommands">
-<area shape="rect" id="node2" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="290,31,359,57"/>
-<area shape="rect" id="node6" href="$struct_wallet_testing_setup.html#a0125ada997b4b16803624bfd537d8902" title="WalletTestingSetup\l::WalletTestingSetup" alt="" coords="253,82,396,123"/>
-<area shape="rect" id="node3" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="485,5,547,32"/>
-<area shape="rect" id="node5" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="444,56,588,83"/>
-<area shape="rect" id="node4" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="636,5,687,32"/>
-</map>

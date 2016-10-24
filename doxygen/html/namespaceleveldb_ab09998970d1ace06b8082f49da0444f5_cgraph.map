@@ -1,7 +1,0 @@
-<map id="leveldb::TEST" name="leveldb::TEST">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_impl.html#a4bec3d8ffd65fec562b2dd1f6eaba137" title="leveldb::DBImpl::GetSnapshot" alt="" coords="155,64,349,91"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_d_b_impl.html#a6c0b6abfc9a30cc8e5412d4fc3e8c886" title="leveldb::DBImpl::Release\lSnapshot" alt="" coords="169,118,335,159"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_snapshot_list.html#adfd5d9c7cb888e711d83a48299141994" title="leveldb::SnapshotList::New" alt="" coords="397,5,576,32"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_version_set.html#acbbb32422426416b0d5e58d35b151526" title="leveldb::VersionSet\l::LastSequence" alt="" coords="420,57,553,98"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_snapshot_list.html#aa16863f35b8bb6dbc44f4528fab6790a" title="leveldb::SnapshotList\l::Delete" alt="" coords="414,122,559,163"/>
-</map>

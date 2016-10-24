@@ -1,6 +1,0 @@
-<map id="CBasicKeyStore::HaveKey" name="CBasicKeyStore::HaveKey">
-<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#a0cefe933dd3a6ac7744432493696bffc" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="231,56,413,83"/>
-<area shape="rect" id="node3" href="$class_wallet_model.html#a0c9ab4aacd54bea22858fda16264624f" title="WalletModel::havePrivKey" alt="" coords="461,5,633,32"/>
-<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#ace3f8652191a347b888627b8e0a1d17c" title="importprivkey" alt="" coords="498,56,597,83"/>
-<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a71dce63ec2a80b836bab5f31fef8da46" title="importwallet" alt="" coords="502,107,593,133"/>
-</map>

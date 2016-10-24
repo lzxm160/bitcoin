@@ -1,7 +1,0 @@
-<map id="LogPrintStr" name="LogPrintStr">
-<area shape="rect" id="node2" href="$util_8cpp.html#aef52738da730a48eb2b993fd2c900898" title="fReopenDebugLog" alt="" coords="140,5,267,32"/>
-<area shape="rect" id="node3" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="160,56,247,83"/>
-<area shape="rect" id="node4" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="347,5,473,32"/>
-<area shape="rect" id="node5" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="361,56,459,83"/>
-<area shape="rect" id="node6" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="315,107,505,133"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="WalletView::WalletView" name="WalletView::WalletView">
-<area shape="rect" id="node2" href="$class_platform_style.html#ab00433ca93f2b6298f5ca4eb8e793ce8" title="PlatformStyle::getImages\lOnButtons" alt="" coords="229,5,397,47"/>
-<area shape="rect" id="node3" href="$class_platform_style.html#a4987d44b752a26f0ad3a654822d7dc5e" title="PlatformStyle::SingleColorIcon" alt="" coords="213,71,412,98"/>
-<area shape="rect" id="node5" href="$class_wallet_view.html#abc8a4f5b35c0f9d76b6186e71069b579" title="WalletView::requestedSync\lWarningInfo" alt="" coords="221,123,404,164"/>
-<area shape="rect" id="node4" href="$class_platform_style.html#a1c21234aff601548130e5b52c0fcfc47" title="PlatformStyle::SingleColor" alt="" coords="460,71,635,98"/>
-</map>

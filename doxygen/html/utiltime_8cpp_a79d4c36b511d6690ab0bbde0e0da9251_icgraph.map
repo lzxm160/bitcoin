@@ -1,8 +1,0 @@
-<map id="SetMockTime" name="SetMockTime">
-<area shape="rect" id="node2" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="217,31,286,57"/>
-<area shape="rect" id="node6" href="$misc_8cpp.html#a916bcfc3b6f6cbcddfa702f2c7e13e83" title="setmocktime" alt="" coords="203,81,300,108"/>
-<area shape="rect" id="node7" href="$_do_s__tests_8cpp.html#aff12c9fec1cf45c9624b3d842a710070" title="BOOST_AUTO_TEST_CASE" alt="" coords="156,132,347,159"/>
-<area shape="rect" id="node3" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="435,5,498,32"/>
-<area shape="rect" id="node5" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="395,56,539,83"/>
-<area shape="rect" id="node4" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="587,5,637,32"/>
-</map>

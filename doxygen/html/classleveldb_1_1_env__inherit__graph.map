@@ -1,5 +1,0 @@
-<map id="leveldb::Env" name="leveldb::Env">
-<area shape="rect" id="node2" href="$classleveldb_1_1_env_wrapper.html" title="leveldb::EnvWrapper" alt="" coords="85,80,224,107"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_special_env.html" title="leveldb::SpecialEnv" alt="" coords="5,155,139,181"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1test_1_1_error_env.html" title="leveldb::test::ErrorEnv" alt="" coords="163,155,311,181"/>
-</map>

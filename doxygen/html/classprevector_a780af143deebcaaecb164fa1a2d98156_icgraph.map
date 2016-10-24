@@ -1,6 +1,0 @@
-<map id="prevector::erase" name="prevector::erase">
-<area shape="rect" id="node2" href="$classprevector.html#ad2d97a45e0d2872260e868a540d31860" title="prevector\&lt; N, T \&gt;::\lresize" alt="" coords="180,5,311,47"/>
-<area shape="rect" id="node3" href="$classprevector.html#a14e92ae67d4f110c66fe8c430f44a027" title="prevector\&lt; N, T \&gt;::\lpop_back" alt="" coords="180,71,311,112"/>
-<area shape="rect" id="node4" href="$classprevector__tester.html#a19778c305e9b8194af5ad86752e51fa8" title="prevector_tester::erase" alt="" coords="168,137,323,163"/>
-<area shape="rect" id="node5" href="$prevector__tests_8cpp.html#a3de840ac50b570c8325c8ba81ac169df" title="BOOST_AUTO_TEST_CASE" alt="" coords="371,137,561,163"/>
-</map>

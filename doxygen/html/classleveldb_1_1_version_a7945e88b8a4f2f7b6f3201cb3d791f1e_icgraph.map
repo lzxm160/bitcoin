@@ -1,5 +1,0 @@
-<map id="leveldb::Version::OverlapInLevel" name="leveldb::Version::OverlapInLevel">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_impl.html#aa6df0739fc0b49380c284347e411b8ed" title="leveldb::DBImpl::Compact\lRange" alt="" coords="220,5,391,47"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_version.html#ac3b623319110ed2a9491723dd4675431" title="leveldb::Version::PickLevel\lForMemTableOutput" alt="" coords="217,71,393,112"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#a2bb2a098a32d42044e6be132020b29b0" title="leveldb::TEST" alt="" coords="441,13,543,39"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$class_address_table_model.html" title="AddressTableModel" alt="" coords="224,5,360,32"/>
-<area shape="rect" id="node3" href="$class_ban_table_model.html" title="BanTableModel" alt="" coords="237,56,347,83"/>
-<area shape="rect" id="node4" href="$class_peer_table_model.html" title="PeerTableModel" alt="" coords="235,107,349,133"/>
-<area shape="rect" id="node5" href="$class_recent_requests_table_model.html" title="RecentRequestsTableModel" alt="" coords="200,157,384,184"/>
-<area shape="rect" id="node6" href="$class_transaction_table_model.html" title="TransactionTableModel" alt="" coords="215,208,369,235"/>
-</map>

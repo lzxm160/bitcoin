@@ -1,7 +1,0 @@
-<map id="leveldb::Version::GetOverlappingInputs" name="leveldb::Version::GetOverlappingInputs">
-<area shape="rect" id="node2" href="$classleveldb_1_1_version.html#ac3b623319110ed2a9491723dd4675431" title="leveldb::Version::PickLevel\lForMemTableOutput" alt="" coords="281,5,457,47"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_version_set.html#a32dc1a7e1eaeeeac89286be3483ad612" title="leveldb::VersionSet\l::MaxNextLevelOverlappingBytes" alt="" coords="263,71,475,112"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_version_set.html#a1cdc6a05e0a7df9f29b5bccd485a0219" title="leveldb::VersionSet\l::PickCompaction" alt="" coords="302,136,435,177"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_version_set.html#a3a03f9a6c86e861be314cf8e01f33142" title="leveldb::VersionSet\l::CompactRange" alt="" coords="302,201,435,243"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_d_b_impl.html#af621636048b8d3cfaa21238fe26ef0ca" title="leveldb::DBImpl::TEST\l_MaxNextLevelOverlappingBytes" alt="" coords="523,71,733,112"/>
-</map>

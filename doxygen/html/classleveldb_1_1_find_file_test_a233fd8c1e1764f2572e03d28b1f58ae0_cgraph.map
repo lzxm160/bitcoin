@@ -1,6 +1,0 @@
-<map id="leveldb::FindFileTest::Find" name="leveldb::FindFileTest::Find">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#acd67740962c806afe8f4098cb153d25c" title="leveldb::BytewiseComparator" alt="" coords="193,5,383,32"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#a812c4c6cf8299e767535a59f2205df0c" title="leveldb::FindFile" alt="" coords="231,56,345,83"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_internal_key.html#aed986eb7cb360bd6955097235ad267b6" title="leveldb::InternalKey\l::Encode" alt="" coords="437,78,571,119"/>
-<area shape="rect" id="node3" href="$namespaceleveldb_1_1port.html#a1493e91d494e6f0ea086a743a562e983" title="leveldb::port::InitOnce" alt="" coords="431,5,577,32"/>
-</map>

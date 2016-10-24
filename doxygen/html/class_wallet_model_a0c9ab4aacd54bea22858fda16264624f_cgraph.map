@@ -1,5 +1,0 @@
-<map id="WalletModel::havePrivKey" name="WalletModel::havePrivKey">
-<area shape="rect" id="node2" href="$class_c_crypto_key_store.html#a0cefe933dd3a6ac7744432493696bffc" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="225,31,408,57"/>
-<area shape="rect" id="node3" href="$class_c_crypto_key_store.html#a1cb434078a9ea686c0acf168d2c81252" title="CCryptoKeyStore::IsCrypted" alt="" coords="456,5,643,32"/>
-<area shape="rect" id="node4" href="$class_c_basic_key_store.html#a29a60832d549913b1fa8be77b95205a5" title="Check whether a key corresponding to a given address is present in the store. " alt="" coords="461,56,638,83"/>
-</map>

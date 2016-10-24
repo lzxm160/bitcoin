@@ -1,7 +1,0 @@
-<map id="CScript::EncodeOP_N" name="CScript::EncodeOP_N">
-<area shape="rect" id="node2" href="$standard_8h.html#a7030aee2e7c653ebc11b77dab70b09f1" title="GetScriptForMultisig" alt="" coords="205,56,347,83"/>
-<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#aaaa83aae4b9dc51b4ac76d4be0dd237d" title="_createmultisig_redeemScript" alt="" coords="395,31,589,57"/>
-<area shape="rect" id="node6" href="$script___p2_s_h__tests_8cpp.html#a059b5d09b8525dffaa35e50b22d49944" title="BOOST_AUTO_TEST_CASE" alt="" coords="397,81,587,108"/>
-<area shape="rect" id="node4" href="$misc_8cpp.html#a2dcabb86c419e41b27a03228566ce2c9" title="createmultisig" alt="" coords="653,5,756,32"/>
-<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a82120a4244c802d5bb54865d5ff40eac" title="addmultisigaddress" alt="" coords="637,56,772,83"/>
-</map>

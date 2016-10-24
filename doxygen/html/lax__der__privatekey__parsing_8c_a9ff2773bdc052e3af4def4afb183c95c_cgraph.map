@@ -1,6 +1,0 @@
-<map id="ec_privkey_export_der" name="ec_privkey_export_der">
-<area shape="rect" id="node2" href="$secp256k1_8h.html#a7438071aa8a6dc4697abe4f4659f2161" title="secp256k1_ec_pubkey\l_create" alt="" coords="204,5,359,47"/>
-<area shape="rect" id="node3" href="$glibc__compat_8cpp.html#a0f46826ab0466591e136db24394923cf" title="memcpy" alt="" coords="245,71,317,98"/>
-<area shape="rect" id="node5" href="$secp256k1_8h.html#a34977bf00322e510e881160c421836d7" title="secp256k1_ec_pubkey\l_serialize" alt="" coords="204,123,359,164"/>
-<area shape="rect" id="node4" href="$glibc__compat_8cpp.html#a9778d49e9029dd75bc53ecbbf9f5e9a1" title="memmove" alt="" coords="407,71,488,98"/>
-</map>

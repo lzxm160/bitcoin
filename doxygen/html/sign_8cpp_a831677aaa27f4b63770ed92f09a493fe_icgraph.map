@@ -1,6 +1,0 @@
-<map id="SignSignature" name="SignSignature">
-<area shape="rect" id="node2" href="$sign_8h.html#a7d397fef39a9b6931c55bfdc207c332e" title="SignSignature" alt="" coords="200,5,303,32"/>
-<area shape="rect" id="node3" href="$_do_s__tests_8cpp.html#a8c90f8b9a8e9d4602485e369c862b4c0" title="BOOST_AUTO_TEST_CASE" alt="" coords="156,56,347,83"/>
-<area shape="rect" id="node4" href="$transaction__tests_8cpp.html#a8c5d80b242e488a442ae19d3412ddb2f" title="CreateCreditAndSpend" alt="" coords="174,107,329,133"/>
-<area shape="rect" id="node5" href="$transaction__tests_8cpp.html#a0343c37f3a798adf74ff349ae96cd1b6" title="BOOST_AUTO_TEST_CASE" alt="" coords="395,107,585,133"/>
-</map>

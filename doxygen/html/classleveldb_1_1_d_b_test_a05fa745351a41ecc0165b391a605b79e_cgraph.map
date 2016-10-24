@@ -1,7 +1,0 @@
-<map id="leveldb::DBTest::TotalTableFiles" name="leveldb::DBTest::TotalTableFiles">
-<area shape="rect" id="node2" href="$classleveldb_1_1_d_b_test.html#aa7c845810f6d57b0655eda370e8de33f" title="leveldb::DBTest::NumTable\lFilesAtLevel" alt="" coords="232,49,411,90"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_d_b.html#afcd557d80bac6668f20372c9e737d807" title="leveldb::DB::GetProperty" alt="" coords="459,5,624,32"/>
-<area shape="rect" id="node4" href="$namespaceleveldb.html#a0a19109e7a2c8855c7565bd331d955b4" title="leveldb::NumberToString" alt="" coords="460,56,623,83"/>
-<area shape="rect" id="node6" href="$utilstrencodings_8cpp.html#aa5ce96ec36f4413f820cec9c1831c070" title="atoi" alt="" coords="520,131,563,157"/>
-<area shape="rect" id="node5" href="$namespaceleveldb.html#a089617d12900e6fe5b712c31f651b5ff" title="leveldb::AppendNumberTo" alt="" coords="672,56,844,83"/>
-</map>

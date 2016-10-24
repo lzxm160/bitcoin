@@ -1,8 +1,0 @@
-<map id="CWallet::Unlock" name="CWallet::Unlock">
-<area shape="rect" id="node2" href="$class_c_crypter.html#a5368279e4a1549d3c1d15d8aa2179708" title="CCrypter::SetKeyFromPassphrase" alt="" coords="169,5,392,32"/>
-<area shape="rect" id="node4" href="$class_c_crypter.html#ac5a813381a88db619331a9d5492cd339" title="CCrypter::Decrypt" alt="" coords="217,56,344,83"/>
-<area shape="rect" id="node6" href="$class_c_crypto_key_store.html#a81bd70e18aa75f566526620a74f9cd88" title="CCryptoKeyStore::Unlock" alt="" coords="195,107,366,133"/>
-<area shape="rect" id="node3" href="$cleanse_8cpp.html#a5a4afb85dd16ecc1f6019c782db78663" title="memory_cleanse" alt="" coords="477,5,599,32"/>
-<area shape="rect" id="node5" href="$class_a_e_s256_c_b_c_decrypt.html#adb9655062470e55da2db0b92a6138552" title="AES256CBCDecrypt::Decrypt" alt="" coords="441,56,635,83"/>
-<area shape="rect" id="node7" href="$class_c_crypto_key_store.html#af202f587051735be5a39344d9e333720" title="CCryptoKeyStore::SetCrypted" alt="" coords="440,107,636,133"/>
-</map>

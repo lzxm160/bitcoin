@@ -1,5 +1,0 @@
-<map id="CExtPubKey::Encode" name="CExtPubKey::Encode">
-<area shape="rect" id="node2" href="$struct_c_ext_pub_key.html#a2b712da53dc65694aefe2546b673f1d8" title="CExtPubKey::Serialize" alt="" coords="203,5,357,32"/>
-<area shape="rect" id="node3" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="245,56,315,83"/>
-<area shape="rect" id="node4" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="405,56,596,83"/>
-</map>

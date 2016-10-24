@@ -1,7 +1,0 @@
-<map id="GUIUtil::openDebugLogfile" name="GUIUtil::openDebugLogfile">
-<area shape="rect" id="node2" href="$util_8cpp.html#ab83866a054745d4b30a3948a1b44beba" title="GetDataDir" alt="" coords="277,56,364,83"/>
-<area shape="rect" id="node6" href="$namespace_g_u_i_util.html#a8bbd2bea6cbc55658e8496603d1fd564" title="GUIUtil::boostPathToQString" alt="" coords="227,107,415,133"/>
-<area shape="rect" id="node3" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="495,5,621,32"/>
-<area shape="rect" id="node4" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="509,56,607,83"/>
-<area shape="rect" id="node5" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="463,107,653,133"/>
-</map>

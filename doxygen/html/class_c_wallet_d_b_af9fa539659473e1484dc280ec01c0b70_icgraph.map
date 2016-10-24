@@ -1,8 +1,0 @@
-<map id="CWalletDB::Recover" name="CWalletDB::Recover">
-<area shape="rect" id="node2" href="$group__map_wallet.html#ga40cd608c974a83e58af882d4421b2fbc" title="Verify the wallet database and perform salvage if required. " alt="" coords="209,31,318,57"/>
-<area shape="rect" id="node7" href="$class_c_wallet_d_b.html#ad6efdef4b446547fe9ea745c98609695" title="CWalletDB::Recover" alt="" coords="193,81,333,108"/>
-<area shape="rect" id="node3" href="$init_8h.html#a6f0784aa332573f949b0975205572b28" title="AppInit2" alt="" coords="381,31,451,57"/>
-<area shape="rect" id="node4" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="539,5,602,32"/>
-<area shape="rect" id="node6" href="$class_bitcoin_core.html#af34ca069cda1d4362dcc109b4397fb62" title="BitcoinCore::initialize" alt="" coords="499,56,643,83"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="691,5,741,32"/>
-</map>

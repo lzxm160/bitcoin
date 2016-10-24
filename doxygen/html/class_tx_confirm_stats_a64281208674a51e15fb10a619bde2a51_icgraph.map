@@ -1,6 +1,0 @@
-<map id="TxConfirmStats::Record" name="TxConfirmStats::Record">
-<area shape="rect" id="node2" href="$class_c_block_policy_estimator.html#a743b4afec36ec5ac64d2ff63c7f61aae" title="CBlockPolicyEstimator\l::processBlockTx" alt="" coords="213,5,369,47"/>
-<area shape="rect" id="node3" href="$class_c_block_policy_estimator.html#a4dbf4773f292c71c51cd17b7eb67dad0" title="CBlockPolicyEstimator\l::processBlock" alt="" coords="417,5,573,47"/>
-<area shape="rect" id="node4" href="$class_c_tx_mem_pool.html#aea14d073b24e31251465ac3c2279ee65" title="CTxMemPool::removeForBlock" alt="" coords="621,13,823,39"/>
-<area shape="rect" id="node5" href="$mempool__tests_8cpp.html#a775653dcab3f73c3dc74559ef7dbd6c5" title="BOOST_AUTO_TEST_CASE" alt="" coords="871,13,1061,39"/>
-</map>

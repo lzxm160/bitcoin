@@ -1,7 +1,0 @@
-<map id="CDiskBlockIndex" name="CDiskBlockIndex">
-<area shape="rect" id="node2" href="$class_c_block_index.html" title="CBlockIndex" alt="" coords="140,187,235,213"/>
-<area shape="rect" id="node3" href="$classuint256.html" title="uint256" alt="" coords="37,81,101,108"/>
-<area shape="rect" id="node4" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="5,5,132,32"/>
-<area shape="rect" id="node5" href="$classarith__uint256.html" title="arith_uint256" alt="" coords="179,81,275,108"/>
-<area shape="rect" id="node6" href="$classbase__uint.html" title="base_uint\&lt; 256 \&gt;" alt="" coords="166,5,289,32"/>
-</map>

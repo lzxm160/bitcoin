@@ -1,8 +1,0 @@
-<map id="leveldb::SequentialFile::Read" name="leveldb::SequentialFile::Read">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#aaee612d19267a7183555aee571cd1415" title="leveldb::TEST" alt="" coords="237,5,339,32"/>
-<area shape="rect" id="node3" href="$namespaceleveldb.html#aa47a20ae782e9ad537692c3202cd652d" title="leveldb::ReadFileToString" alt="" coords="204,56,372,83"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_corruption_test.html#a22060ac0a3697640cdcf36973339b646" title="leveldb::CorruptionTest\l::Corrupt" alt="" coords="420,15,573,57"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_version_set.html#a955ff8620ec56742cdc48da0e74ab40b" title="leveldb::VersionSet\l::Recover" alt="" coords="430,81,563,122"/>
-<area shape="rect" id="node6" href="$namespaceleveldb.html#af9cf6ec167c9b6f25fd050ab6fb67a90" title="leveldb::BM_LogAndApply" alt="" coords="621,88,795,115"/>
-<area shape="rect" id="node7" href="$db__test_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="843,88,893,115"/>
-</map>

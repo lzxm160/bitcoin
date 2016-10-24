@@ -1,8 +1,0 @@
-<map id="leveldb::Iterator::status" name="leveldb::Iterator::status">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#a10e102da98819e1a1f9b254241482e65" title="leveldb::BuildTable" alt="" coords="203,5,333,32"/>
-<area shape="rect" id="node3" href="$c_8h.html#a8c9b0b90b661935fadd4daa92648224c" title="leveldb_iter_get_error" alt="" coords="196,56,340,83"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_d_b_test.html#adaf171601eaaf2cd24edaa394752f733" title="leveldb::DBTest::AllEntriesFor" alt="" coords="171,107,365,133"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_iterator_wrapper.html#a1aaa880e200db3226cbf1e7373ffb6a8" title="leveldb::IteratorWrapper\l::status" alt="" coords="189,158,347,199"/>
-<area shape="rect" id="node7" href="$classleveldb_1_1_key_converting_iterator.html#a10d0f5b6b83bc967ba5c73d6bfc919f3" title="leveldb::KeyConvertingIterator\l::status" alt="" coords="172,223,364,265"/>
-<area shape="rect" id="node4" href="$c__test_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="413,56,464,83"/>
-</map>

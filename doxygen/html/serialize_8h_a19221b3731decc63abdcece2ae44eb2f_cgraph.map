@@ -1,7 +1,0 @@
-<map id="GetSerializeSize_impl" name="GetSerializeSize_impl">
-<area shape="rect" id="node2" href="$serialize_8h.html#a404beecbf8d7aec8d2cdac3cbb71e808" title="GetSizeOfCompactSize" alt="" coords="204,5,364,32"/>
-<area shape="rect" id="node3" href="$classprevector.html#a8430c39b212986d6cd2ba9d6fa939241" title="prevector::size" alt="" coords="231,56,337,83"/>
-<area shape="rect" id="node4" href="$classprevector.html#aa9210cbe708412a70868d6e0bca844c9" title="prevector::begin" alt="" coords="227,107,341,133"/>
-<area shape="rect" id="node5" href="$classprevector.html#aab7f6e13a3cac85cc340fc6b90c5365c" title="prevector::end" alt="" coords="233,157,335,184"/>
-<area shape="rect" id="node6" href="$serialize_8h.html#a48239e478ae730373d1984fe304ca025" title="GetSerializeSize" alt="" coords="225,208,343,235"/>
-</map>

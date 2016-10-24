@@ -1,8 +1,0 @@
-<map id="E:/renesola/work/bitcoin/src/leveldb/table/merger.cc" name="E:/renesola/work/bitcoin/src/leveldb/table/merger.cc">
-<area shape="rect" id="node2" href="$merger_8h.html" title="table/merger.h" alt="" coords="5,95,111,121"/>
-<area shape="rect" id="node3" href="$comparator_8h.html" title="leveldb/comparator.h" alt="" coords="23,169,165,196"/>
-<area shape="rect" id="node5" href="$iterator_8h.html" title="leveldb/iterator.h" alt="" coords="187,95,303,121"/>
-<area shape="rect" id="node11" href="$iterator__wrapper_8h.html" title="table/iterator_wrapper.h" alt="" coords="327,95,485,121"/>
-<area shape="rect" id="node6" href="$slice_8h.html" title="leveldb/slice.h" alt="" coords="223,244,325,271"/>
-<area shape="rect" id="node10" href="$status_8h.html" title="leveldb/status.h" alt="" coords="189,169,301,196"/>
-</map>

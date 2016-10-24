@@ -1,8 +1,0 @@
-<map id="Interrupt" name="Interrupt">
-<area shape="rect" id="node2" href="$httpserver_8cpp.html#a0a02b6576090c9fde2eed21b9aa7dc0c" title="InterruptHTTPServer" alt="" coords="123,5,260,32"/>
-<area shape="rect" id="node4" href="$httprpc_8cpp.html#a44465681e657da4c937c546967f60a32" title="InterruptHTTPRPC" alt="" coords="127,56,255,83"/>
-<area shape="rect" id="node5" href="$server_8cpp.html#a9fb02940fce37b3228c69c74e706e3ae" title="InterruptRPC" alt="" coords="143,107,239,133"/>
-<area shape="rect" id="node6" href="$httprpc_8h.html#aaf0700868c430b2f0fdd719977f4b115" title="InterruptREST" alt="" coords="140,157,243,184"/>
-<area shape="rect" id="node7" href="$torcontrol_8cpp.html#aa3f2e0ce7300bbbedc6da69566e426e6" title="InterruptTorControl" alt="" coords="127,208,255,235"/>
-<area shape="rect" id="node3" href="$class_work_queue.html#aaf31577d0f8e5ebd2f153928da45b9b9" title="WorkQueue::Interrupt" alt="" coords="308,5,455,32"/>
-</map>

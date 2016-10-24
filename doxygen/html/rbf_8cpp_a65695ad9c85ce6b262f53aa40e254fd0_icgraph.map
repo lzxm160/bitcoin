@@ -1,8 +1,0 @@
-<map id="SignalsOptInRBF" name="SignalsOptInRBF">
-<area shape="rect" id="node2" href="$rbf_8h.html#a880b888b68f505a3fb00e099eb66006d" title="IsRBFOptIn" alt="" coords="176,81,265,108"/>
-<area shape="rect" id="node3" href="$rpcwallet_8cpp.html#a7050d2b7e907f8148f13878e8dcea550" title="WalletTxToJSON" alt="" coords="313,81,435,108"/>
-<area shape="rect" id="node4" href="$rpcwallet_8cpp.html#a447dca7ee91980470c66526c2ef7ce22" title="ListTransactions" alt="" coords="483,56,600,83"/>
-<area shape="rect" id="node7" href="$rpcwallet_8cpp.html#a0eb27b54e47a747381313eda4f2adc53" title="gettransaction" alt="" coords="651,107,755,133"/>
-<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a91cfa30b65b1e277b212689b4c2df396" title="listtransactions" alt="" coords="648,5,759,32"/>
-<area shape="rect" id="node6" href="$rpcwallet_8cpp.html#a8cd2e69314a540d77b79ee5ae37344f2" title="listsinceblock" alt="" coords="653,56,754,83"/>
-</map>

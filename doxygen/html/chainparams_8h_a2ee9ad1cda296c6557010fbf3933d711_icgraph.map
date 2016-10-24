@@ -1,8 +1,0 @@
-<map id="SelectParams" name="SelectParams">
-<area shape="rect" id="node2" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="252,5,315,32"/>
-<area shape="rect" id="node4" href="$bitcoin_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="457,81,508,108"/>
-<area shape="rect" id="node5" href="$class_payment_server.html#a6fa5530162603b2b07d0398ead7ce0b3" title="PaymentServer::ipcParseCommandLine" alt="" coords="157,107,409,133"/>
-<area shape="rect" id="node6" href="$base58__tests_8cpp.html#ac3fd789edd04736fe905e3ffdc901bc9" title="BOOST_AUTO_TEST_CASE" alt="" coords="188,157,379,184"/>
-<area shape="rect" id="node7" href="$struct_basic_testing_setup.html#a2646eb870eb8633653f2d5792c11530c" title="BasicTestingSetup::\lBasicTestingSetup" alt="" coords="214,209,353,250"/>
-<area shape="rect" id="node3" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="457,5,508,32"/>
-</map>

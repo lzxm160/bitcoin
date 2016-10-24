@@ -1,9 +1,0 @@
-<map id="leveldb::PutFixed64" name="leveldb::PutFixed64">
-<area shape="rect" id="node2" href="$namespaceleveldb.html#a7192bb79e7fa6ba01490473941386534" title="leveldb::AppendInternalKey" alt="" coords="199,78,378,105"/>
-<area shape="rect" id="node6" href="$classleveldb_1_1_internal_key_comparator.html#afe98c9042e34927e60e078fc103991bf" title="leveldb::InternalKeyComparator\l::FindShortestSeparator" alt="" coords="188,129,389,171"/>
-<area shape="rect" id="node7" href="$classleveldb_1_1_internal_key_comparator.html#a5dc88f433ef3a0d9508ec17cb40d3e27" title="leveldb::InternalKeyComparator\l::FindShortSuccessor" alt="" coords="188,195,389,236"/>
-<area shape="rect" id="node8" href="$namespaceleveldb.html#a12a121ac303742fe369f000bd6f0d3ef" title="leveldb::TEST" alt="" coords="238,261,339,287"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_internal_key.html#af436814d1667db55e93b6bd583619617" title="leveldb::InternalKey\l::InternalKey" alt="" coords="466,5,601,47"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_internal_key.html#ada9566cd92b6b9784ab7f2f6f71d0a4e" title="leveldb::InternalKey\l::SetFrom" alt="" coords="466,71,601,112"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_key_converting_iterator.html#a6af9b763a5831c2fdcd8c3bebfef6ae4" title="leveldb::KeyConvertingIterator\l::Seek" alt="" coords="437,136,629,177"/>
-</map>

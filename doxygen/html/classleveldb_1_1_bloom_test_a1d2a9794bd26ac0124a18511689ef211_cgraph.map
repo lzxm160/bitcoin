@@ -1,6 +1,0 @@
-<map id="leveldb::BloomTest::Matches" name="leveldb::BloomTest::Matches">
-<area shape="rect" id="node2" href="$classleveldb_1_1_bloom_test.html#ad4fc802152c68599c919d33917523d31" title="leveldb::BloomTest\l::Build" alt="" coords="186,37,317,79"/>
-<area shape="rect" id="node5" href="$classleveldb_1_1_filter_policy.html#a6cca33a3b7f4ab4f97f1a661322588c5" title="leveldb::FilterPolicy\l::KeyMayMatch" alt="" coords="184,103,319,144"/>
-<area shape="rect" id="node3" href="$classleveldb_1_1_filter_policy.html#a249fbd81976618c69c9d70333f720db2" title="leveldb::FilterPolicy\l::CreateFilter" alt="" coords="367,5,501,47"/>
-<area shape="rect" id="node4" href="$classleveldb_1_1_bloom_test.html#a6f210bc2f2e69c0aeb570fa4dbe4d0da" title="leveldb::BloomTest\l::DumpFilter" alt="" coords="369,71,499,112"/>
-</map>

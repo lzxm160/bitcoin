@@ -1,6 +1,0 @@
-<map id="CBitcoinExtKeyBase::SetKey" name="CBitcoinExtKeyBase::SetKey">
-<area shape="rect" id="node2" href="$class_c_bitcoin_ext_key_base.html#a61b09dabc0849ba24520a78c5996096a" title="CBitcoinExtKeyBase\l::CBitcoinExtKeyBase" alt="" coords="197,5,349,47"/>
-<area shape="rect" id="node3" href="$bip32__tests_8cpp.html#a59f471ae202c2bacc86fdaa8a4d94747" title="RunTest" alt="" coords="238,71,309,98"/>
-<area shape="rect" id="node5" href="$rpcwallet_8cpp.html#a84626901983e76a517c35e461a9a9442" title="dumpwallet" alt="" coords="230,122,317,149"/>
-<area shape="rect" id="node4" href="$bip32__tests_8cpp.html#a2f58cd1827d88c380194a400f34119be" title="BOOST_AUTO_TEST_CASE" alt="" coords="397,71,588,98"/>
-</map>

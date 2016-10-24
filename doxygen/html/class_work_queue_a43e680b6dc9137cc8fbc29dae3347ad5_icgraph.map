@@ -1,7 +1,0 @@
-<map id="WorkQueue::WaitExit" name="WorkQueue::WaitExit">
-<area shape="rect" id="node2" href="$httpserver_8h.html#ad95d08d62c15b43d52fdba7b7ecaa0aa" title="StopHTTPServer" alt="" coords="203,31,320,57"/>
-<area shape="rect" id="node3" href="$init_8h.html#ac5f038c2b480cf9ef5e19e3eba8dbaf9" title="Shutdown" alt="" coords="368,31,447,57"/>
-<area shape="rect" id="node4" href="$bitcoind_8cpp.html#ac59316b767e6984e1285f0531275286b" title="AppInit" alt="" coords="539,5,602,32"/>
-<area shape="rect" id="node6" href="$class_bitcoin_core.html#a94f3f4622ba698e321f3a2e0e686129f" title="BitcoinCore::shutdown" alt="" coords="495,56,647,83"/>
-<area shape="rect" id="node5" href="$bitcoind_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="695,5,745,32"/>
-</map>

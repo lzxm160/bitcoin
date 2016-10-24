@@ -1,5 +1,0 @@
-<map id="GetDataDir" name="GetDataDir">
-<area shape="rect" id="node2" href="$util_8cpp.html#ab272995de020a3bcbf743be630e485c6" title="GetDefaultDataDir" alt="" coords="172,5,299,32"/>
-<area shape="rect" id="node3" href="$chainparamsbase_8cpp.html#a06ef5bfd0efb53d13bbf4276726e84ab" title="BaseParams" alt="" coords="187,56,284,83"/>
-<area shape="rect" id="node4" href="$class_c_base_chain_params.html#af56a637b20c9f496108bffc3166ea53a" title="CBaseChainParams::DataDir" alt="" coords="140,107,331,133"/>
-</map>
