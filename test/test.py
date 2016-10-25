@@ -29,7 +29,7 @@ x509.certificate.append(file("./cert/server_public.der", "r").read())
 #x509.certificate.append(file("/some/intermediate/cert.der", "r").read())
 
 ## Load private SSL key into memory for signing later
-priv_key = "./cert/server.key"
+priv_key = "./cert/server.pem"
 pw = "test"  ## Key password
 private_key = load_privatekey(FILETYPE_PEM, file(priv_key, "r").read(), pw)
 
