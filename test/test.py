@@ -73,4 +73,4 @@ request.signature = sign(private_key, request.SerializeToString(), "sha256")
 print "Content-Type: application/bitcoin-paymentrequest"
 print "Content-Transfer-Encoding: binary"
 print ""
-file.write(stdout, request.SerializeToString())
+#file.write(stdout, request.SerializeToString())
